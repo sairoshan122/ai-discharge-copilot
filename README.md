@@ -20,7 +20,7 @@ In hospitals, **delayed discharges** and inefficient **bed allocation** often cr
 ## 📁 Folder Structure
 
 ```
-AI_Discharge_Copilot_Final/
+AI_Discharge_Copilot/
 ├── app/
 │   ├── app.py                 ← Streamlit main app
 │   ├── utils.py               ← Logic for rules, loading, AI functions
@@ -60,7 +60,7 @@ AI_Discharge_Copilot_Final/
 
 ## 🚀 Deployment Guide
 
-1. ✅ Upload the entire zip (`AI_Discharge_Copilot_Final_ReadyToDeploy.zip`) to [Streamlit Cloud](https://share.streamlit.io/)
+1. ✅ Upload the entire zip (`AI_Discharge_Copilot.zip`) to [Streamlit Cloud](https://share.streamlit.io/)
 2. 🗂️ Unzip and ensure file structure is intact
 3. ▶️ Set `app/app.py` as the entry point
 4. 📄 Add secrets or environment configs if needed
@@ -83,10 +83,3 @@ AI_Discharge_Copilot_Final/
 - ⏳ Predict length of stay
 - 📱 WhatsApp / SMS alerts to families
 - 📅 Discharge calendar view
-
----
-
-## 📬 Questions?
-
-Ping `@YourTeam` or reach out at [your-email@example.com](mailto:your-email@example.com)
-
