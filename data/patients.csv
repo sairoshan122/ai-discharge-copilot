@@ -1,0 +1,1001 @@
+Patient ID,Name,Age,Gender,Diagnosis,Admission Date,Discharge Readiness,Criticality Score,Ward,Bed Number,Doctor Assigned,Insurance Provider,Room Charges/Day,Total Stay Days,Total Bill,Requires Follow-Up,Follow-Up Date,Condition at Discharge,Notes
+P0001,Sharon Moore,51,Male,Fracture,2025-09-12,Yes,9.83,Surgery,346,Lynn Gordon,None,5390,15,70789,No,2025-10-16,Unchanged,Recognize defense loss data city court or after.
+P0002,John Brown,66,Female,Diabetes,2025-08-31,Pending,4.82,Surgery,110,Melissa Young,Private,1188,22,86576,No,2025-10-02,Stable,Administration including them movement rich.
+P0003,Gary Henry,7,Female,Pneumonia,2025-08-26,No,5.63,Private,490,James Miller,None,5243,10,185105,Yes,2025-09-25,Unchanged,Society size sign event president market news get benefit.
+P0004,Dr. Tammy Mcdaniel MD,87,Male,Pneumonia,2025-08-20,No,4.67,Isolation,295,Robert Mayo,LifeLine,5192,8,137155,No,2025-09-24,Unchanged,Prevent debate increase recently opportunity once art across.
+P0005,Maria Miller,39,Male,Stroke,2025-09-08,Pending,7.85,Surgery,318,Colton Berry,MediCare,7233,7,138508,Yes,2025-09-26,Stable,Summer practice paper economic at out finish nature school sure.
+P0006,Alicia Martin,34,Female,Kidney Failure,2025-08-25,Yes,3.83,ICU,142,Eddie Wilson,MediCare,2248,24,175157,Yes,2025-10-05,Worsened,Local cut choice these to week.
+P0007,Robert Mathews,23,Other,Pneumonia,2025-08-31,Yes,5.19,Isolation,488,Matthew Fry,MediCare,2771,6,112815,No,2025-09-20,Worsened,They military discover ground tell pretty.
+P0008,Mariah Perry,4,Female,Stroke,2025-08-31,Yes,5.68,ICU,253,Daniel Clark,LifeLine,3989,14,166720,Yes,2025-10-13,Improved,Move show future same operation center set key crime people.
+P0009,Ronald Hernandez,52,Male,Stroke,2025-08-29,No,5.46,Private,404,Michael Bonilla,LifeLine,1940,27,103618,No,2025-09-29,Worsened,Friend growth each idea election realize nice old probably marriage.
+P0010,Natalie Henry,58,Other,Hypertension,2025-09-03,Pending,4.25,Isolation,375,Timothy Turner,Arogya,2777,17,152452,No,2025-10-14,Improved,Center note suffer worry listen color need particularly.
+P0011,Christine Mcgee,72,Other,Diabetes,2025-09-08,Pending,3.59,General,178,Claudia Rice,Private,1241,26,136080,No,2025-10-16,Worsened,Similar manager enter nor under go evening.
+P0012,Ms. Christina James,96,Other,Hypertension,2025-09-03,Pending,7.5,Isolation,383,Erica Wilson,MediCare,3683,26,87441,No,2025-10-02,Unchanged,Staff figure guess miss clearly.
+P0013,Alyssa Scott,71,Other,COVID-19,2025-08-25,No,1.74,ICU,472,Jason Wright,LifeLine,2135,7,35305,Yes,2025-09-30,Unchanged,Line somebody reason five level sort determine their activity force.
+P0014,Nicholas Reeves,32,Other,Kidney Failure,2025-08-20,Pending,5.44,Surgery,189,Krista Mays,MediCare,2800,3,67391,Yes,2025-10-10,Unchanged,Knowledge red election hair strategy Mr edge.
+P0015,Nicole Vasquez,13,Other,Hypertension,2025-09-12,No,4.46,Private,231,Joshua Murray,Arogya,1683,19,39456,Yes,2025-09-21,Improved,Market company newspaper behind wrong experience around particular view boy.
+P0016,Julie Mcdaniel,60,Other,Hypertension,2025-08-22,No,5.11,Isolation,294,Michele Martinez,None,6961,1,85306,Yes,2025-10-15,Worsened,Nothing suffer rate discuss reduce opportunity factor size guess imagine.
+P0017,David Maldonado,14,Male,Cardiac Arrest,2025-09-16,Yes,7.63,Private,337,Michael Ramos,Private,6665,21,119994,No,2025-10-05,Improved,Receive idea much body building scientist should look resource institution.
+P0018,Allison Pena,18,Other,Hypertension,2025-08-24,Pending,7.18,ICU,256,Charles Higgins,MediCare,2036,22,127223,Yes,2025-09-21,Unchanged,Scene tell drop indeed her.
+P0019,Stacy Jones,16,Female,Pneumonia,2025-09-13,Pending,8.57,ICU,332,Robert Kelley,None,3192,4,95300,Yes,2025-09-27,Stable,Information social blood another increase couple agree despite.
+P0020,Joanna Grant,2,Other,Stroke,2025-09-01,Under Review,3.03,ICU,245,Stephen Davidson,None,3241,7,74853,No,2025-09-21,Stable,Tend month much foreign least business argue rule.
+P0021,Justin Taylor,8,Other,Pneumonia,2025-09-16,Yes,4.67,Surgery,292,Joshua Thompson,Arogya,4945,2,183648,No,2025-10-15,Unchanged,Test guy explain serious too public pretty brother.
+P0022,Melissa Thomas,100,Other,Diabetes,2025-08-24,No,9.86,General,387,Mary Smith,Arogya,2632,26,121375,No,2025-09-24,Stable,His dinner quality lawyer amount season decide chair environment story.
+P0023,Courtney Lyons,29,Other,COVID-19,2025-09-08,Yes,4.85,Private,410,Angela Kelly,None,1753,5,40361,No,2025-10-09,Stable,Should activity ok choice might peace they mean interview.
+P0024,Dr. Shane Greer,17,Other,COVID-19,2025-09-12,Under Review,8.71,General,346,Eddie Patterson,MediCare,3855,29,56188,No,2025-10-03,Stable,Relationship someone attention listen page organization well loss.
+P0025,Manuel Petty,26,Male,Kidney Failure,2025-09-09,Yes,9.05,General,136,Alyssa Phillips,None,6800,1,131827,No,2025-10-15,Worsened,Hundred whom until sing listen media moment quality left.
+P0026,Ronald Murphy,52,Female,Diabetes,2025-09-14,Yes,8.22,Private,270,Robert Lewis,LifeLine,5517,12,93599,Yes,2025-10-15,Improved,That none now nothing best carry.
+P0027,Mr. Tyrone Long,48,Other,Kidney Failure,2025-08-26,Under Review,9.45,ICU,169,Keith Martin PhD,Private,6340,25,183175,No,2025-10-09,Improved,Area rate campaign learn news just him energy company.
+P0028,Sabrina Parker,88,Other,Cardiac Arrest,2025-09-08,Yes,4.31,General,466,Andrew Faulkner,LifeLine,3411,14,39762,No,2025-10-03,Improved,Anything particular cold visit southern drop give adult standard official.
+P0029,Brent Harmon,81,Male,Stroke,2025-09-13,Yes,1.12,Private,340,Breanna Brennan,Private,4826,19,101115,No,2025-10-10,Improved,Explain until race charge ahead choose religious material matter general.
+P0030,Christine Wang,83,Female,COVID-19,2025-08-28,Under Review,7.07,Isolation,200,Michael Larson,LifeLine,7104,18,192706,No,2025-09-22,Improved,Middle travel fear body later against lot idea.
+P0031,Michael Anderson,11,Female,Stroke,2025-09-07,Under Review,7.05,General,179,Heidi Walton,LifeLine,7627,28,114356,No,2025-10-09,Stable,Perform issue under even garden during without.
+P0032,Amanda Turner,75,Other,Pneumonia,2025-08-24,No,4.57,ICU,197,Jennifer Charles,Arogya,5061,3,194764,Yes,2025-10-03,Worsened,Edge past situation throw woman wrong discussion.
+P0033,Lisa Lee,76,Other,Diabetes,2025-08-24,Under Review,5.7,Surgery,102,Bradley Jackson,MediCare,4572,11,43569,No,2025-09-23,Stable,Term suffer type fast family pretty reason involve writer agent sure.
+P0034,Michael Morris,34,Other,Kidney Failure,2025-08-28,Pending,7.09,Private,106,Michael Ward,Arogya,5199,6,136809,No,2025-10-03,Unchanged,Congress budget sea cut blood head machine can kid.
+P0035,John Bennett,10,Female,Pneumonia,2025-08-21,Pending,2.07,General,356,Lisa Greene,LifeLine,4276,22,138234,Yes,2025-10-15,Stable,Start bill someone interesting pick.
+P0036,Pamela Briggs,3,Male,Fracture,2025-09-13,Pending,4.55,ICU,473,Bianca West,None,2581,24,167563,Yes,2025-09-25,Stable,Political authority kind out with direction.
+P0037,Kevin Smith,9,Other,Hypertension,2025-08-26,No,7.26,ICU,471,Amanda Chapman,LifeLine,3048,30,118004,No,2025-10-09,Worsened,Expert sell song fish.
+P0038,Alicia Ramos,26,Other,Kidney Failure,2025-08-31,Yes,9.8,Private,291,Brandon Moore,None,2416,24,190151,No,2025-09-29,Worsened,Agent however sign prevent training.
+P0039,Cynthia Dorsey,83,Male,Kidney Failure,2025-08-28,Under Review,7.67,Isolation,351,Jeremy Reid,MediCare,2621,21,71567,No,2025-10-16,Worsened,Himself skill speak identify sense single save.
+P0040,Elizabeth Campbell,57,Male,COVID-19,2025-09-12,No,9.03,ICU,307,Elizabeth Terry,Private,6628,17,17592,Yes,2025-09-22,Worsened,Because lawyer option quite kid for laugh threat north herself.
+P0041,Pamela Miles,17,Other,Stroke,2025-09-02,Yes,2.52,Private,312,Karen Brooks,Private,7930,16,86265,Yes,2025-09-27,Worsened,Against each plan pass as phone peace issue point.
+P0042,Melanie Salinas,12,Male,Fracture,2025-08-29,Under Review,4.27,General,302,Kristin Mcdaniel,LifeLine,6876,7,80234,No,2025-10-11,Improved,And model would outside just every.
+P0043,David Cole,43,Other,COVID-19,2025-09-15,Yes,2.79,Isolation,480,Tammy Spears,LifeLine,3302,27,143034,No,2025-10-06,Unchanged,Much treat design happen sit trip according out paper politics.
+P0044,Alexandra Simmons,16,Female,Hypertension,2025-09-08,Under Review,2.8,Private,291,Cory Wright,Private,4218,7,66388,Yes,2025-10-15,Improved,Pass but bill accept individual.
+P0045,Gloria Vega,6,Female,COVID-19,2025-09-06,Pending,8.6,Private,296,Christian Reeves,LifeLine,1842,19,117218,Yes,2025-10-09,Stable,Reason people perhaps draw hospital product next return agreement.
+P0046,Wesley Brennan,60,Male,COVID-19,2025-09-04,Under Review,4.64,Isolation,350,Christopher Moore,LifeLine,5781,27,25939,No,2025-09-19,Unchanged,Land down college business yard notice pay.
+P0047,Robert Wong,7,Male,COVID-19,2025-09-16,Under Review,3.1,ICU,257,Ashley Roberts,MediCare,7497,16,157392,No,2025-10-12,Unchanged,Sit happen respond east measure hard break.
+P0048,Aaron Garcia,22,Female,Stroke,2025-09-18,No,4.82,ICU,428,Margaret Duran,LifeLine,7278,17,94722,No,2025-09-29,Improved,Talk create for thank military professor.
+P0049,Timothy Sullivan,74,Female,COVID-19,2025-08-27,No,5.49,General,401,Mark Powell,None,5813,12,78578,No,2025-10-08,Worsened,Create few some view member home pay machine green.
+P0050,Warren Larsen,56,Male,COVID-19,2025-09-12,No,7.88,General,136,Katherine Ortiz,MediCare,3552,12,186944,No,2025-09-22,Unchanged,Fill should enough trip order wrong will face degree less in.
+P0051,Karla Terrell,93,Female,COVID-19,2025-08-23,Pending,7.89,Surgery,309,Joseph Hall,Arogya,2357,20,93261,No,2025-10-09,Worsened,Class beyond leave ball carry important.
+P0052,Christopher Cherry,51,Female,COVID-19,2025-09-11,Pending,6.34,Surgery,119,Justin Collins,LifeLine,7505,29,117801,Yes,2025-10-02,Stable,Will American quickly site everybody quality leave value.
+P0053,Ricardo Dunn,64,Male,Kidney Failure,2025-09-13,Under Review,7.81,General,163,Jeffrey Parker,LifeLine,2686,18,112597,Yes,2025-10-10,Improved,National little turn be real action send building event green close.
+P0054,Rachel Price,4,Other,Fracture,2025-08-23,No,8.21,Isolation,297,Kimberly Nguyen,None,6915,28,125854,Yes,2025-10-04,Unchanged,Hotel believe however trial themselves.
+P0055,Alex Jordan,49,Male,Pneumonia,2025-09-15,Pending,9.49,Surgery,389,Alexander Wong,MediCare,4996,5,121463,No,2025-09-24,Worsened,Treatment knowledge certainly position.
+P0056,Daniel Medina,88,Other,Pneumonia,2025-09-15,Pending,4.2,Surgery,183,Kiara Vasquez,Private,4550,26,114511,No,2025-09-28,Improved,Mission only thank prevent wind agreement fall be crime.
+P0057,Craig Andrews,55,Other,Pneumonia,2025-08-28,Under Review,7.0,Isolation,199,Christine Myers,LifeLine,4654,3,78340,No,2025-09-20,Improved,Section yes anything face cut cultural.
+P0058,Austin Bell,23,Female,Hypertension,2025-09-12,Under Review,9.55,ICU,490,Brenda Evans,MediCare,4471,15,24321,Yes,2025-10-14,Unchanged,Heavy brother this really apply who risk mention many may.
+P0059,Dustin Peters,46,Female,Cardiac Arrest,2025-09-17,Yes,9.89,Private,323,Adam Hansen,MediCare,5885,14,80337,No,2025-09-27,Stable,Walk try special ground traditional difference.
+P0060,Melanie Mason,28,Male,Cardiac Arrest,2025-08-25,Yes,5.6,ICU,230,Justin Sutton,None,7120,21,137272,No,2025-10-14,Unchanged,Speak four bank edge industry although.
+P0061,Andrea Mason,24,Male,Hypertension,2025-08-21,Under Review,2.33,Private,494,Blake Ortiz,None,3225,13,67395,Yes,2025-09-30,Worsened,Account help wait others condition speak.
+P0062,Mark Vargas,36,Female,Kidney Failure,2025-08-24,Yes,5.09,Isolation,484,Jacob Hall,Private,7683,28,99087,No,2025-09-26,Stable,Note sort tend program sea science.
+P0063,Maria Huffman,36,Female,Kidney Failure,2025-09-12,Pending,2.1,Surgery,469,Robert Salazar,Arogya,3611,3,176793,Yes,2025-09-27,Unchanged,Son until bill grow raise.
+P0064,Jennifer Nielsen,58,Other,Hypertension,2025-08-24,Under Review,5.4,Isolation,278,Anthony Fuentes,LifeLine,6102,19,21961,No,2025-10-15,Stable,Actually it senior election person real question.
+P0065,Jacob Marks,20,Female,Stroke,2025-09-03,Under Review,3.08,ICU,360,Kyle Marquez,LifeLine,1881,3,90874,Yes,2025-10-08,Stable,Yes million ten fire brother physical may.
+P0066,Taylor Green,5,Male,Hypertension,2025-09-08,No,9.48,Isolation,463,Bryan Moore,Arogya,5974,5,127345,Yes,2025-10-09,Stable,To model really concern event.
+P0067,Katherine Woods,79,Female,Fracture,2025-09-04,Pending,1.27,ICU,350,Alyssa Williams,None,4137,26,117429,No,2025-09-24,Unchanged,Young product dream just able guy table often remember house.
+P0068,Caitlin Rose,80,Female,Stroke,2025-08-21,Pending,7.64,Isolation,425,Casey Howard,None,4516,17,68015,Yes,2025-10-18,Stable,Father four nor face activity instead.
+P0069,April Boyer,79,Female,Diabetes,2025-09-04,No,8.47,General,452,Gina Arnold,MediCare,2636,10,160078,Yes,2025-10-07,Improved,Senior miss main tough key.
+P0070,Kimberly Hernandez,32,Male,COVID-19,2025-09-18,Yes,5.48,ICU,288,Molly Zavala,Private,5646,4,53656,Yes,2025-09-21,Stable,Add ask organization sure prepare dream individual author data mission.
+P0071,Dean Martin,83,Female,Fracture,2025-09-05,Under Review,1.24,Private,456,Donna Rowe MD,None,3891,4,150512,No,2025-09-28,Stable,These cold exactly minute generation dinner collection by school least.
+P0072,Stephen Anderson,38,Other,Cardiac Arrest,2025-08-26,Yes,2.61,Surgery,129,Dr. Tiffany Taylor,MediCare,4063,16,64054,Yes,2025-10-11,Stable,Need cell research among feeling court service.
+P0073,Peter Armstrong,64,Other,Diabetes,2025-08-20,Pending,6.44,Surgery,433,Erica Oneal,Arogya,6183,8,173915,Yes,2025-09-24,Unchanged,Avoid feeling they plan per hundred heart.
+P0074,John Holland,53,Male,Hypertension,2025-09-05,Yes,3.94,ICU,297,Maria Holden,MediCare,7712,2,38918,No,2025-10-13,Worsened,Imagine clearly lawyer seat daughter.
+P0075,George Hinton,71,Male,Cardiac Arrest,2025-09-06,Pending,3.72,General,317,Natasha Robertson,Arogya,1526,20,170773,No,2025-10-18,Unchanged,Information as east pretty yourself become.
+P0076,Gregory Flores,62,Female,Kidney Failure,2025-09-06,Under Review,6.61,Surgery,476,Victoria Erickson,Arogya,4681,18,170104,No,2025-10-12,Stable,Debate seven we physical out run bag ground sign.
+P0077,Cynthia Smith,8,Female,Diabetes,2025-08-30,Under Review,7.84,General,226,Justin Holmes,Arogya,2370,11,96424,Yes,2025-09-28,Unchanged,Pull situation she organization player case picture serve free evidence.
+P0078,Edward Whitehead,12,Male,Fracture,2025-09-13,Under Review,6.95,Private,224,Charles Martinez,Arogya,1276,1,43873,No,2025-09-27,Stable,Term act fill condition determine prove with.
+P0079,Patrick Ramirez,36,Other,Hypertension,2025-09-15,No,5.68,Surgery,344,Daniel Goodwin,None,5189,8,168586,No,2025-10-13,Improved,Significant popular yet left reflect expect such.
+P0080,Crystal Wagner,50,Other,Pneumonia,2025-09-14,No,5.43,Isolation,117,Walter Wade,LifeLine,3073,27,151496,No,2025-09-20,Improved,Physical both especially road value alone.
+P0081,Anthony King,18,Male,Hypertension,2025-08-20,No,5.19,Isolation,285,Sarah Mendez,Arogya,5807,10,15221,No,2025-10-14,Worsened,Power similar truth teach describe.
+P0082,Brian Pearson,54,Male,Kidney Failure,2025-09-10,Under Review,3.64,ICU,423,Brianna Williams,MediCare,4357,30,199327,Yes,2025-10-11,Improved,Republican every quite wall return exist.
+P0083,Daniel Wright,26,Other,Cardiac Arrest,2025-09-03,Under Review,5.48,Surgery,461,William Odom,LifeLine,3404,27,15535,No,2025-09-30,Improved,Base poor either green guy individual thus room vote wish.
+P0084,Amanda Harper MD,83,Other,Cardiac Arrest,2025-09-15,Yes,5.54,General,446,Lori Graham,MediCare,5947,9,109401,No,2025-10-02,Unchanged,Line southern pick father form guess.
+P0085,Robert Williams,68,Other,COVID-19,2025-08-29,Pending,5.88,General,114,Andre Campbell,MediCare,7772,13,33659,Yes,2025-10-08,Stable,Paper former single beautiful Democrat factor scene audience.
+P0086,Brooke Mathews,32,Female,Diabetes,2025-09-10,No,8.29,Private,457,Danielle Mahoney,MediCare,6284,23,194740,No,2025-10-16,Improved,Partner move live front career ready true bar safe base.
+P0087,Cynthia Sanchez,81,Other,Pneumonia,2025-09-03,Under Review,5.86,Surgery,440,Nicole Boyd,Arogya,5345,12,97369,No,2025-10-11,Unchanged,Company movement mean at foot collection little future type.
+P0088,Kathleen Duncan,70,Other,Kidney Failure,2025-09-06,Under Review,1.16,General,430,Gerald Nguyen,LifeLine,3885,3,102458,No,2025-09-22,Improved,Bed decision detail born.
+P0089,Joshua Villa,3,Male,Kidney Failure,2025-09-09,Pending,7.88,General,175,Beth Martin,Arogya,4262,28,154937,No,2025-09-21,Worsened,Money natural concern exactly owner society daughter song outside executive manage.
+P0090,Emily Schmitt,49,Other,Stroke,2025-08-30,No,9.92,Surgery,233,Warren Brown,None,1245,28,26636,No,2025-09-25,Improved,Organization never position my general piece relate rest want he.
+P0091,Crystal Ware,92,Other,Fracture,2025-08-31,No,8.92,Isolation,409,Elizabeth Nguyen,Arogya,1939,6,181686,Yes,2025-10-01,Improved,Improve management other across agent.
+P0092,Jordan Ponce,46,Female,Stroke,2025-09-16,Yes,2.07,Surgery,333,Larry Williamson,Private,2473,10,22901,Yes,2025-10-16,Worsened,How key win pick task use husband already quality.
+P0093,Jeffrey Ramirez,62,Female,COVID-19,2025-09-14,Under Review,5.05,Isolation,448,Victoria Davis,MediCare,7627,3,145960,No,2025-10-07,Stable,Condition be sense same page.
+P0094,Darren Sanders,70,Female,Stroke,2025-08-21,Yes,8.68,ICU,175,David Hood,None,3643,18,65171,No,2025-09-27,Stable,Whom Republican ahead fast still father ready.
+P0095,Aaron Martinez,63,Male,Hypertension,2025-08-25,Under Review,4.98,ICU,230,Shawn Adams,LifeLine,4517,19,104921,Yes,2025-10-09,Stable,Doctor go place American loss day compare world from they.
+P0096,Matthew Fisher,45,Male,Kidney Failure,2025-08-30,Pending,1.32,Isolation,226,Kenneth Wang,Arogya,7479,8,150370,No,2025-09-26,Unchanged,School sport assume particularly night benefit Mrs activity reveal.
+P0097,Stephen Owens DDS,73,Female,Kidney Failure,2025-09-16,Yes,2.59,Surgery,408,Mason Long,None,2523,28,62019,No,2025-10-03,Unchanged,Reduce usually develop father fear.
+P0098,Jason Knight,65,Female,Fracture,2025-09-12,Under Review,6.93,Private,396,Samantha Hall,Arogya,3930,17,51154,Yes,2025-09-27,Stable,Particularly rock major head help pressure book.
+P0099,Nicole Jordan,42,Other,Hypertension,2025-08-24,No,8.01,General,439,Haley Bell,Arogya,3009,30,150430,Yes,2025-10-11,Unchanged,Skill tend finally against police peace bank.
+P0100,Anna Ortega,50,Other,Diabetes,2025-08-30,Pending,8.96,ICU,182,Pamela Johnson,Arogya,1595,20,113684,No,2025-10-16,Improved,Company expert day wish approach picture our idea surface.
+P0101,Julie Sullivan,35,Other,COVID-19,2025-08-26,Under Review,2.48,ICU,106,Thomas Gonzales,MediCare,2762,17,198172,No,2025-10-03,Improved,Include couple college until now against.
+P0102,Tammie White,24,Female,Diabetes,2025-09-07,Yes,4.88,Isolation,159,Gregory Chavez,MediCare,6381,10,70118,No,2025-09-25,Stable,Free brother everything really with ok water show usually cultural.
+P0103,Brandi English,4,Other,Kidney Failure,2025-09-02,Yes,3.81,Private,494,Thomas Larson,MediCare,4044,13,86070,No,2025-10-10,Worsened,Majority risk theory painting throw only to piece.
+P0104,Russell James,41,Other,Kidney Failure,2025-09-11,Under Review,4.5,Surgery,147,Nathan Cummings,Private,4047,20,52311,Yes,2025-10-11,Improved,Democratic develop set final chair address wall.
+P0105,Anthony Taylor,77,Female,Diabetes,2025-09-17,Pending,7.88,Private,429,Julia Bartlett,LifeLine,2188,2,108010,Yes,2025-09-25,Improved,Because card store focus debate order impact have because animal action.
+P0106,Carolyn Clark,29,Other,Stroke,2025-09-09,Under Review,6.12,Isolation,464,Ashlee Henderson,Arogya,7385,18,96901,Yes,2025-09-24,Unchanged,Final culture parent place make name education degree prepare exactly.
+P0107,Hannah Sanchez,4,Female,Hypertension,2025-08-21,Yes,5.41,Private,296,Mary Brown,Arogya,3575,23,118369,Yes,2025-10-17,Worsened,Enough relate site medical hard worker play debate bag.
+P0108,Jose Hunt,100,Male,Fracture,2025-09-14,Yes,5.98,General,303,Anthony Morrow,Arogya,2001,29,66522,Yes,2025-10-10,Worsened,Together bank reality discover training nature anything gun music down.
+P0109,Ashley Lopez,36,Male,Fracture,2025-08-24,No,5.85,Surgery,461,Ashley Bowen,Private,1078,4,154952,No,2025-09-29,Worsened,Oil author democratic company perhaps check professional billion something.
+P0110,Bradley Johnson,8,Other,COVID-19,2025-09-12,No,5.23,Surgery,400,Phillip Cooper,Private,3609,19,75196,Yes,2025-10-06,Stable,Young property no cover single company bar analysis.
+P0111,Robert Payne,61,Male,Pneumonia,2025-09-07,Yes,6.06,Private,141,Roberta Snyder,Private,6638,16,13575,No,2025-10-06,Stable,Model inside toward picture wall ok operation.
+P0112,Brian Baker,68,Male,Stroke,2025-09-14,No,2.41,ICU,365,Jeffrey Delgado,Arogya,1089,30,19456,Yes,2025-10-14,Unchanged,Senior order him however activity reflect.
+P0113,Brett Garcia,46,Female,COVID-19,2025-09-13,No,1.5,General,196,David Foster,LifeLine,6872,30,15250,Yes,2025-10-10,Improved,Factor always industry appear affect under measure fund throughout.
+P0114,Michael Adams,99,Female,Diabetes,2025-09-13,Under Review,3.37,Surgery,316,Ruth Smith,Arogya,3694,9,148033,No,2025-10-11,Unchanged,Note huge analysis standard before inside two Democrat good father page.
+P0115,Sherry Grimes,75,Other,Diabetes,2025-09-07,Pending,6.32,Surgery,184,Cole Fleming,LifeLine,2751,21,36875,Yes,2025-10-18,Improved,Better school guy lead majority personal stop gas community.
+P0116,Matthew Morton,30,Female,COVID-19,2025-08-24,Under Review,4.4,ICU,318,Andrew Gross,Private,4812,1,141465,No,2025-10-15,Improved,Assume certain sport sit study treatment off sister.
+P0117,Katelyn Collins,21,Other,Fracture,2025-09-01,Under Review,7.09,Private,229,Cassandra White,None,5648,2,114316,Yes,2025-10-15,Worsened,Many place purpose method worker argue.
+P0118,Troy Castaneda,13,Other,Fracture,2025-09-10,No,7.9,ICU,454,Isaac Rogers,MediCare,7514,11,137113,No,2025-09-30,Improved,Nice case author join organization wear meeting administration.
+P0119,Hunter Potter,32,Female,Hypertension,2025-09-12,No,3.56,Isolation,254,Edward Jensen,MediCare,3634,14,21084,Yes,2025-10-16,Worsened,Treat enter benefit young guess address price outside.
+P0120,Julie Ramsey,85,Other,Cardiac Arrest,2025-09-15,Pending,1.55,ICU,356,Francisco Cruz,LifeLine,2905,9,51142,Yes,2025-10-09,Stable,Let color modern feel modern last car color away arrive or.
+P0121,Kenneth Carr,31,Male,Fracture,2025-08-20,Pending,6.31,General,372,Ashley Morrison,Private,5600,7,84210,No,2025-10-13,Unchanged,Size fly process staff growth find.
+P0122,Amanda Warren,35,Male,Diabetes,2025-09-12,Pending,2.15,Surgery,437,Douglas Morgan,MediCare,1542,11,89027,No,2025-09-24,Stable,Medical computer create question speak property.
+P0123,Dawn Thompson,69,Male,Hypertension,2025-08-31,Under Review,4.3,Private,295,Ricardo Castaneda,MediCare,4158,29,16355,Yes,2025-10-13,Worsened,Budget age staff including reach standard play fill conference family.
+P0124,Eric Jenkins,95,Female,Fracture,2025-09-08,Pending,8.29,Isolation,400,Jason Campos,Private,3323,25,70294,Yes,2025-10-08,Stable,Relationship citizen never consumer if pay later.
+P0125,Terry Mcdonald,8,Male,Kidney Failure,2025-08-25,Yes,6.26,General,257,Mrs. Karen Johnson,LifeLine,5929,2,175558,No,2025-09-21,Stable,Any end work community give maybe.
+P0126,Joshua Campbell,98,Other,Hypertension,2025-08-22,Yes,7.89,Surgery,475,Crystal Sexton,LifeLine,2738,5,190373,Yes,2025-09-21,Unchanged,Political effect middle wind public race position six court.
+P0127,Dawn Lyons,29,Other,Stroke,2025-08-21,Under Review,6.63,Surgery,310,Sean Moore,None,5319,7,74830,No,2025-09-23,Worsened,Suggest trade game agency establish data skill.
+P0128,Eric Phillips,74,Other,Stroke,2025-09-15,No,4.43,Private,485,Justin Turner,MediCare,2781,18,18854,Yes,2025-09-26,Improved,Offer pick rich series act above hour few.
+P0129,Cynthia Nunez,50,Female,Cardiac Arrest,2025-08-29,Pending,4.85,Private,472,Christopher Rodgers,MediCare,1843,27,81423,No,2025-10-02,Unchanged,Could body book glass large process notice.
+P0130,Stacey Michael,46,Male,Diabetes,2025-08-24,Yes,9.93,Private,145,Sandra Fox,Private,5595,24,42412,Yes,2025-09-24,Unchanged,Television water American I almost.
+P0131,Patricia Byrd,23,Female,Pneumonia,2025-08-25,Pending,4.71,Isolation,155,Rodney Robinson,Private,3277,11,109052,Yes,2025-10-08,Improved,Sure second manage her leader consumer.
+P0132,Brittany Johnson,23,Other,Fracture,2025-09-10,Yes,1.51,Private,425,Lisa Johnson,Arogya,6867,30,181776,Yes,2025-10-14,Worsened,End someone hear theory career owner third.
+P0133,Kerri Kirk,31,Male,Cardiac Arrest,2025-08-25,Yes,3.2,General,393,Sandra Chapman,Arogya,5979,25,115054,No,2025-10-17,Improved,Expect section score old hospital.
+P0134,James Banks,76,Male,COVID-19,2025-08-22,Pending,3.11,Private,497,John Larson,None,7614,22,44391,No,2025-10-16,Unchanged,Down peace writer kind number happy discussion recently beat official.
+P0135,Amy Bailey,41,Male,Stroke,2025-08-20,Yes,3.81,Private,276,Donald Wright,LifeLine,6499,30,80778,Yes,2025-10-15,Worsened,Night none stage approach ahead.
+P0136,Diana Morales,95,Female,Hypertension,2025-09-07,Pending,1.76,General,173,Sherry Pena,Private,1612,29,32260,No,2025-09-24,Worsened,Yet treatment development amount summer ago factor along message.
+P0137,Joseph Cox,90,Male,Pneumonia,2025-09-07,Yes,7.19,Isolation,237,Patrick Brown,LifeLine,5701,2,30061,Yes,2025-09-24,Worsened,Quickly enjoy democratic resource like both maintain away.
+P0138,Erin Walker,46,Female,Hypertension,2025-08-25,No,8.82,Surgery,483,Robin Palmer,MediCare,6294,8,29369,Yes,2025-09-26,Worsened,Market far majority stand where thousand oil perform.
+P0139,Phillip Pham,76,Male,Kidney Failure,2025-09-09,Under Review,2.03,Private,207,Jon Bishop,LifeLine,4454,16,142254,No,2025-09-26,Stable,Image follow including condition wonder.
+P0140,Brandon Evans,4,Other,Stroke,2025-09-10,Under Review,2.53,ICU,483,David Barry,LifeLine,6588,3,199297,Yes,2025-10-15,Worsened,Per most figure reason school day moment their already interesting.
+P0141,Timothy Cooper,91,Female,Kidney Failure,2025-09-16,Pending,5.85,General,303,Craig Mayer,None,7194,26,194415,No,2025-09-26,Stable,About inside wind other value good suffer strong goal outside.
+P0142,Matthew Smith,90,Male,Kidney Failure,2025-09-04,Under Review,1.34,ICU,457,Cheryl Griffith,Private,4565,19,118889,Yes,2025-10-04,Worsened,Activity common five feeling necessary memory expect.
+P0143,Jennifer Hooper,46,Female,Stroke,2025-09-04,Under Review,6.92,Surgery,257,Makayla Morales,Arogya,3603,29,15283,Yes,2025-10-16,Stable,Several arrive people social idea their wonder.
+P0144,Ashley Elliott,73,Male,Kidney Failure,2025-09-01,Under Review,4.8,Isolation,103,Jennifer Mcclain,Private,7663,20,13864,No,2025-09-24,Unchanged,Reach surface term thought value whom tree.
+P0145,Brian Washington,73,Other,Cardiac Arrest,2025-08-27,Under Review,5.63,ICU,186,Richard White,Arogya,3622,23,152002,Yes,2025-10-14,Worsened,No capital me national.
+P0146,Jerry Valdez,19,Other,Diabetes,2025-09-15,No,4.79,ICU,351,Timothy Riley,Arogya,2623,27,168563,Yes,2025-09-25,Worsened,Cold agent record side treat.
+P0147,Adrian Walker,73,Other,Pneumonia,2025-09-18,No,1.18,General,100,Kathleen Hernandez,None,2614,25,49805,Yes,2025-10-12,Unchanged,Return several different college claim.
+P0148,Caroline Wheeler,25,Male,Kidney Failure,2025-08-29,Under Review,5.23,Isolation,149,Nicole Ramirez,MediCare,1406,26,35049,No,2025-09-19,Worsened,View board economy manager recognize kid threat wait pressure.
+P0149,Tiffany Rollins,64,Female,COVID-19,2025-09-14,No,1.2,Surgery,135,Paul Miller,None,7575,2,164191,No,2025-10-05,Unchanged,Blue beat seem law door computer several friend who address.
+P0150,William Hebert,70,Female,Fracture,2025-09-08,No,3.85,Isolation,496,Travis Olson,MediCare,5046,12,112530,No,2025-10-10,Stable,Ago positive perhaps market design itself then.
+P0151,Olivia Patterson,40,Other,Stroke,2025-09-14,Under Review,6.13,Isolation,456,Dennis Henderson,None,5084,3,60930,Yes,2025-10-01,Stable,Simple agree move local front rich.
+P0152,Bethany Gregory,23,Other,Kidney Failure,2025-08-20,Pending,3.9,Surgery,313,Kristin Romero,None,1383,14,168778,No,2025-10-03,Improved,I order against down call paper natural argue.
+P0153,Nicole Brown,63,Other,Kidney Failure,2025-08-25,Under Review,1.88,ICU,368,Benjamin Keith,Private,3248,20,91838,No,2025-10-15,Stable,Add executive special property at.
+P0154,Erica Alvarez,5,Male,Hypertension,2025-09-05,No,5.4,ICU,313,Tiffany Mccormick,Private,4450,24,94863,Yes,2025-09-26,Unchanged,Whatever power claim everything later.
+P0155,Amber Hampton,12,Female,Hypertension,2025-09-05,Pending,7.22,Surgery,435,John Johnson,MediCare,1976,20,121451,Yes,2025-09-29,Improved,Half little director wife.
+P0156,Richard Lewis,8,Male,Pneumonia,2025-09-18,No,2.85,ICU,247,Yvette Anderson,LifeLine,2016,30,144310,No,2025-09-20,Unchanged,Mrs receive same expert series able final among.
+P0157,Jonathan Hale,30,Other,Diabetes,2025-09-14,No,5.47,Isolation,475,Garrett Lamb,Private,4709,3,16142,No,2025-09-30,Stable,Through physical term local ever military American continue class.
+P0158,Loretta Huber,78,Other,Stroke,2025-09-03,Yes,8.3,ICU,320,Madeline Berry,Arogya,2401,29,89207,Yes,2025-10-02,Stable,Letter type seek him really.
+P0159,Alicia Miller,29,Male,Hypertension,2025-09-18,Yes,7.01,Private,187,Dustin Davis,LifeLine,5926,18,81840,No,2025-10-16,Stable,Result baby teacher specific modern within both.
+P0160,Scott Welch,3,Other,Fracture,2025-09-16,Yes,2.5,Isolation,190,Shane Martin,Arogya,3677,16,130299,No,2025-09-22,Unchanged,Particularly environment prove art head low talk.
+P0161,Krista Parker,68,Female,Fracture,2025-09-15,No,3.7,Surgery,291,Yolanda Figueroa,MediCare,5842,5,63127,Yes,2025-09-25,Worsened,World movement item season because energy.
+P0162,John Fitzgerald,62,Other,Kidney Failure,2025-09-14,Under Review,9.72,Private,195,Stephen Jackson,Private,4136,9,36130,No,2025-10-09,Improved,Sound low sell understand site reduce figure cost quickly price set.
+P0163,Charles Larsen,1,Female,Diabetes,2025-09-04,Under Review,2.82,Isolation,460,Michael Washington,MediCare,2936,24,79276,No,2025-10-16,Unchanged,Base place prevent hit region.
+P0164,Craig Edwards,43,Other,Diabetes,2025-09-01,No,6.72,General,168,Jose Ortiz,LifeLine,5721,2,181979,No,2025-09-19,Stable,Pick war kitchen south write forget.
+P0165,Michelle Wilson,79,Male,Pneumonia,2025-08-31,Yes,9.77,ICU,201,Cory Kelly,None,1174,4,161047,No,2025-09-27,Worsened,Ready smile with billion.
+P0166,Jose Lopez,26,Other,Pneumonia,2025-09-05,No,1.68,ICU,349,Christopher Hampton,None,3335,2,133574,Yes,2025-10-11,Improved,Animal word walk positive whole address least difficult.
+P0167,Patricia Herring,17,Other,Fracture,2025-08-23,Under Review,8.65,Isolation,193,Christina Thompson,Private,1146,16,108718,Yes,2025-10-16,Unchanged,Either computer system idea wrong goal.
+P0168,Max Wall,44,Male,Kidney Failure,2025-09-15,Under Review,2.93,Private,357,Andrea Hanson,Private,6272,17,86346,Yes,2025-10-14,Stable,Development great art federal employee good.
+P0169,Jonathan Rodriguez,92,Other,COVID-19,2025-08-22,Under Review,3.39,General,156,Bradley Barnes,MediCare,7416,8,122599,No,2025-09-20,Improved,Model network good station end money give garden doctor.
+P0170,Daniel Cooke,23,Male,Kidney Failure,2025-09-17,No,3.68,Isolation,330,Chelsea Webster,LifeLine,5716,21,34395,Yes,2025-09-26,Stable,So tough fire require natural although perhaps whom free.
+P0171,Kayla Wilson,42,Male,Kidney Failure,2025-09-06,Under Review,6.16,ICU,390,George Taylor,None,1038,12,68262,Yes,2025-10-11,Worsened,Me subject create present look.
+P0172,Terri Wheeler,8,Female,Stroke,2025-09-12,Under Review,8.24,General,208,Dr. Robert Carr DVM,Private,4782,14,116517,No,2025-09-28,Improved,South economic land like mother store.
+P0173,Nicholas Weaver,3,Other,Stroke,2025-09-02,Under Review,6.62,ICU,195,Denise Bailey,None,3329,16,157061,No,2025-09-26,Improved,Herself expert account kid possible cover throughout test prepare.
+P0174,John Salinas,19,Other,Diabetes,2025-09-02,Under Review,9.62,Private,202,Stephanie Johnson,Private,2073,10,83022,No,2025-10-04,Unchanged,Defense six hand large tree fight thank.
+P0175,Lisa Trevino DVM,76,Other,Stroke,2025-09-08,Pending,7.46,Private,130,Linda Nichols,None,7894,26,136707,Yes,2025-09-25,Stable,Establish evening toward shoulder public determine worry adult lay.
+P0176,Mrs. Stacy Garcia,91,Female,Hypertension,2025-09-01,No,6.2,General,483,Jason Smith,None,4299,28,84559,Yes,2025-10-09,Improved,Ok common say science reality reach.
+P0177,Jeffrey Wilson,19,Other,Kidney Failure,2025-08-21,No,6.33,ICU,193,Megan Stout,Private,1303,29,194255,No,2025-10-08,Worsened,Simply tonight service pattern by.
+P0178,Raymond Johnson,100,Female,Hypertension,2025-09-18,Under Review,3.46,Surgery,488,Tracy Fowler,Arogya,5370,8,149776,Yes,2025-10-13,Improved,Four manager hard understand four yeah.
+P0179,Douglas Gomez,15,Female,Diabetes,2025-09-04,Yes,6.1,Private,198,Taylor Gonzalez,LifeLine,5321,1,142800,No,2025-10-08,Stable,Election shake on mean nature.
+P0180,Mrs. Crystal King,68,Other,Fracture,2025-08-29,Under Review,5.78,General,232,Kaylee Moore,LifeLine,1320,30,74124,Yes,2025-10-11,Stable,Prevent play foot risk choice billion.
+P0181,Brian Orozco,47,Other,Fracture,2025-08-25,No,4.84,General,309,Amber Miller,MediCare,3763,2,110246,No,2025-10-05,Worsened,Human any live yes.
+P0182,Thomas Patrick,10,Male,Cardiac Arrest,2025-08-22,Pending,4.13,Isolation,325,Teresa Schmidt,LifeLine,6282,1,14512,Yes,2025-10-12,Improved,Off election white part single stay explain us space someone.
+P0183,Shelby Anderson,48,Female,Fracture,2025-08-27,Under Review,1.69,Private,420,Kevin Romero,Private,1133,25,140294,No,2025-09-19,Stable,Management town trouble this but say measure fire eight save.
+P0184,Michelle Pratt,91,Female,COVID-19,2025-09-02,Pending,8.41,ICU,419,Joseph Taylor PhD,LifeLine,1568,26,113191,No,2025-10-11,Unchanged,Environment west music agency this arm building her tonight.
+P0185,Emily Contreras,85,Female,Stroke,2025-09-03,Yes,5.54,Private,155,Jason Juarez,Private,4849,26,107710,Yes,2025-10-16,Stable,How stock message hot at.
+P0186,Joshua Bennett,51,Female,Pneumonia,2025-08-23,Yes,3.7,Isolation,425,Christine Atkinson,MediCare,1779,7,153283,No,2025-10-06,Improved,Relate defense century play politics tend new shoulder executive second.
+P0187,Patricia King,76,Female,COVID-19,2025-08-26,Under Review,6.97,Surgery,185,Robert Lewis,Private,7798,18,197322,No,2025-10-08,Unchanged,Value try allow still organization catch.
+P0188,Jennifer Stephens,13,Male,Fracture,2025-09-05,Pending,3.82,General,140,Gabrielle Farmer,None,7574,20,38391,No,2025-09-29,Improved,Test measure day girl no share five.
+P0189,Sydney Garcia,44,Male,Diabetes,2025-08-22,Yes,4.73,ICU,250,Stephen Chavez,Private,4400,28,128559,No,2025-10-01,Worsened,Former message level nearly picture radio that assume general.
+P0190,Kristin Velasquez,39,Female,Pneumonia,2025-09-17,Under Review,3.26,General,143,Sharon Schmitt,Private,6924,13,68736,No,2025-09-28,Improved,Candidate himself also avoid road raise Mrs.
+P0191,Bonnie Adams,42,Other,Pneumonia,2025-09-07,Yes,5.64,Isolation,293,Gregory Smith,Arogya,3465,22,161487,No,2025-10-01,Unchanged,Me old reflect perform ask every state film land common.
+P0192,William Flowers,18,Other,Pneumonia,2025-08-26,No,7.04,ICU,163,Margaret Martin,Arogya,3250,22,16525,No,2025-10-14,Worsened,Half sound discover economic administration practice herself small rich shake according.
+P0193,Robin Rodriguez,21,Other,Hypertension,2025-08-30,Pending,5.93,Private,241,Jessica Smith,LifeLine,3598,24,114162,No,2025-09-29,Stable,Goal rule various life.
+P0194,April Evans,94,Other,Cardiac Arrest,2025-09-13,Under Review,8.93,Surgery,132,Ryan Salazar,Arogya,7174,1,70847,Yes,2025-10-16,Improved,Girl option serious lay admit choice time make tax reflect anyone.
+P0195,Nicole Black,56,Female,Cardiac Arrest,2025-09-01,Yes,6.65,Surgery,275,Aaron Phillips,Arogya,3832,18,127200,Yes,2025-10-02,Improved,Tv save billion town goal.
+P0196,Denise Fernandez,82,Other,Diabetes,2025-09-15,Yes,5.65,Isolation,115,Brenda Patterson,Private,4279,16,106946,Yes,2025-10-18,Improved,Firm someone medical remember very she debate fact few series.
+P0197,Katie Williams,63,Other,Pneumonia,2025-09-09,No,2.68,General,399,Jeffrey Rodriguez,MediCare,1653,2,134991,No,2025-09-22,Unchanged,Store here hour religious never.
+P0198,Jennifer Lee,84,Female,Pneumonia,2025-08-20,Under Review,5.49,Surgery,220,Catherine Armstrong,LifeLine,5558,13,157627,Yes,2025-09-27,Worsened,Field best support staff determine white.
+P0199,Mitchell Bryant,41,Other,Stroke,2025-09-10,Yes,6.95,General,344,Kristin Ortega,LifeLine,7345,25,38560,Yes,2025-09-28,Unchanged,Wind PM away like me affect consumer.
+P0200,Johnathan Johnson,23,Other,Fracture,2025-08-24,Pending,8.42,Surgery,348,Renee Harris DVM,MediCare,3565,13,178511,No,2025-09-20,Improved,Economy information stage herself price actually one item.
+P0201,Joanna Ortiz,91,Other,Pneumonia,2025-09-13,Yes,9.44,Surgery,444,Carl Jones,Private,5045,23,91424,No,2025-09-22,Unchanged,Under although site next modern affect poor major usually.
+P0202,Kenneth Nelson,72,Other,Diabetes,2025-08-27,Pending,3.41,Surgery,489,Kathleen Garcia,LifeLine,6016,5,97145,No,2025-10-05,Worsened,Perform recent others American change dark between.
+P0203,Kelsey Calhoun,89,Male,Stroke,2025-08-27,Yes,6.74,General,151,Heather Young,Arogya,1385,14,47688,No,2025-10-14,Stable,Realize subject bed especially teacher what sing.
+P0204,Christopher Reid,79,Male,COVID-19,2025-09-09,Under Review,8.28,ICU,104,Juan Wilkerson,MediCare,4222,23,175128,Yes,2025-09-23,Worsened,Officer center science later five above scientist wish.
+P0205,Charles Brown,46,Male,COVID-19,2025-08-29,Under Review,8.67,Surgery,131,Roger Barnett,LifeLine,3444,14,31924,No,2025-09-29,Worsened,Exactly plant hundred third myself value carry past quickly.
+P0206,Hailey Tyler,29,Other,Stroke,2025-08-26,Under Review,9.16,General,236,Ronald Nichols,Arogya,6705,18,35005,No,2025-09-19,Worsened,Too special spring happy entire think.
+P0207,Larry Rodriguez,86,Other,Hypertension,2025-09-13,Pending,9.41,ICU,484,Donna Andrews,LifeLine,4723,5,157032,No,2025-10-12,Unchanged,House wife quality board measure happy behind.
+P0208,Michael Dunn,76,Female,Fracture,2025-08-31,Under Review,7.54,General,103,Stacy Mcgee,Arogya,5041,4,54369,No,2025-09-25,Improved,Whom home hospital threat.
+P0209,Jacob Patterson,23,Other,Fracture,2025-09-13,Pending,1.54,Private,440,Jennifer Baker,MediCare,7952,15,64442,Yes,2025-09-28,Worsened,My within someone even put public here change drug.
+P0210,Mark Pope,49,Female,Fracture,2025-09-10,Pending,2.81,Surgery,398,Robert Nguyen,LifeLine,6251,4,138401,Yes,2025-10-14,Unchanged,Enough realize ahead anything.
+P0211,Mr. Ryan Brown DDS,40,Other,Cardiac Arrest,2025-09-09,Pending,5.16,General,121,Ryan Bell,LifeLine,1994,29,165558,Yes,2025-10-03,Stable,Life make in suggest sometimes word why factor.
+P0212,Ryan Stafford,94,Male,Cardiac Arrest,2025-08-25,No,3.16,Surgery,149,Collin Harrington,Private,7906,20,75527,No,2025-09-20,Worsened,Decision nor look brother bit product end chair safe.
+P0213,Javier Williams,89,Other,Kidney Failure,2025-09-09,Yes,7.72,Private,208,Rebecca Jones,MediCare,4063,29,31990,No,2025-10-02,Stable,Buy perhaps green series usually oil.
+P0214,Jennifer Rivers,38,Other,Kidney Failure,2025-08-23,Pending,7.89,General,367,Tanya Porter,MediCare,6062,12,47048,No,2025-09-24,Worsened,Or step them prove program race after.
+P0215,Brendan Rowe,17,Male,Hypertension,2025-08-31,Pending,8.6,ICU,103,Mary Weiss,Arogya,1841,12,115695,Yes,2025-10-10,Improved,Technology structure not performance leg late always.
+P0216,Michael Cummings,23,Other,Hypertension,2025-08-31,Yes,4.69,Surgery,292,Brenda Yates,Private,1239,7,171608,Yes,2025-10-09,Improved,From vote skin point most water will organization husband allow.
+P0217,Tina Murphy,94,Other,Stroke,2025-08-27,Under Review,8.74,Surgery,408,Virginia Mccarty,Arogya,2835,11,134129,Yes,2025-10-10,Stable,Week pattern catch offer same popular have they network.
+P0218,Kelly Peterson,1,Other,Hypertension,2025-08-29,No,9.2,Private,366,Timothy Chen,Arogya,1391,14,147207,No,2025-10-10,Stable,Letter ever agreement stand three whole million garden.
+P0219,Raymond Holt,90,Other,Fracture,2025-09-06,Yes,6.71,Surgery,489,Elizabeth Bell,MediCare,7762,30,199538,Yes,2025-10-15,Stable,Many in within gas special.
+P0220,Elizabeth Wilson,74,Female,Fracture,2025-09-06,Pending,8.61,Isolation,236,Amy Clark,Private,1085,2,158541,Yes,2025-09-21,Improved,Remember war such while line almost instead.
+P0221,Paul Smith,51,Other,Hypertension,2025-09-17,Yes,3.4,ICU,348,Mrs. Monica Jones,Arogya,2136,8,70930,No,2025-09-27,Worsened,Yet ten risk face guess lot.
+P0222,Danielle Williams,99,Male,Diabetes,2025-09-06,Pending,3.58,Isolation,342,Kathleen Garrett,LifeLine,1861,8,25448,No,2025-09-21,Stable,Team character consumer tonight remain area decide each than week.
+P0223,Sandra Johnson,73,Female,Stroke,2025-08-22,Under Review,2.45,ICU,487,Garrett Bolton,None,3644,3,139346,No,2025-10-01,Improved,Across might recognize type mind white.
+P0224,Jonathan Williams,5,Other,Kidney Failure,2025-08-21,Yes,7.18,Private,272,Audrey Martin,Private,6632,19,76066,No,2025-09-27,Unchanged,Anything head fall fast white response conference successful with.
+P0225,Linda Nunez,24,Female,Hypertension,2025-08-23,No,3.13,Isolation,409,Jennifer Moore,Arogya,6933,1,117966,Yes,2025-09-25,Improved,Increase guess arm necessary catch as prove establish nothing.
+P0226,Vincent Moon,78,Other,COVID-19,2025-09-03,Yes,3.15,Isolation,319,Evan Thompson,Arogya,4569,8,91646,No,2025-10-10,Unchanged,Clearly should police bank avoid garden beat now ok.
+P0227,Robert Wiley,41,Other,Pneumonia,2025-09-05,Pending,2.35,Private,272,Scott Jackson,MediCare,2854,14,98570,Yes,2025-10-03,Worsened,Simple side no south different stay card institution building compare.
+P0228,Brandi Anthony,79,Other,Hypertension,2025-08-25,Pending,1.25,ICU,289,Laura Jackson,MediCare,2394,24,49482,No,2025-09-22,Unchanged,Should hear since table news.
+P0229,Kelly Turner,29,Other,Stroke,2025-08-23,No,8.17,Surgery,449,Melissa Jones,Arogya,1721,25,19570,No,2025-10-03,Unchanged,Inside create management war whatever special board though.
+P0230,Ryan Mayer,82,Female,Kidney Failure,2025-09-08,Pending,3.79,Isolation,275,Amy Salas,LifeLine,2565,29,94264,No,2025-10-04,Unchanged,My direction bring force behavior fast perhaps argue memory art.
+P0231,Lauren Hill,73,Other,Diabetes,2025-09-13,Pending,5.37,Isolation,261,Justin Hernandez,Arogya,6931,26,190616,No,2025-10-15,Unchanged,Tell mission office wonder sport us significant.
+P0232,Diane Gonzalez,14,Other,Stroke,2025-08-25,Pending,9.92,Private,222,Emily Schultz,LifeLine,7654,26,158193,Yes,2025-10-11,Stable,Law traditional enough bad she alone.
+P0233,Adrienne Kaiser,64,Other,Fracture,2025-08-22,Yes,4.8,Surgery,284,Lisa Johnson,Arogya,4021,18,166953,No,2025-09-25,Stable,Bill can concern guess society their lose two.
+P0234,Travis Rogers,19,Female,Stroke,2025-09-13,Yes,9.15,ICU,440,Joseph Rios,MediCare,7685,19,116570,Yes,2025-10-01,Worsened,Risk commercial without catch shoulder detail between senior east.
+P0235,Andrew Thomas,43,Female,Cardiac Arrest,2025-09-08,No,2.82,General,304,Nicholas Carroll,Private,5403,2,11460,No,2025-09-26,Improved,Friend fast keep police magazine or ready.
+P0236,Jason Brooks,96,Male,Cardiac Arrest,2025-09-09,No,3.45,ICU,293,Matthew Wilcox,Private,1040,26,80292,No,2025-09-28,Stable,Space teacher always explain notice.
+P0237,Jennifer Foster,10,Other,Fracture,2025-08-24,Under Review,1.26,Private,412,Lisa Schmidt,MediCare,6638,1,190983,Yes,2025-10-11,Worsened,Parent some imagine today young wonder child animal language.
+P0238,Angela Walker,31,Male,Kidney Failure,2025-08-25,Pending,8.11,Isolation,129,Kimberly Anderson,None,1430,28,64846,Yes,2025-10-07,Improved,House recent finish end ground view improve.
+P0239,Cindy Simpson,45,Male,Stroke,2025-09-18,No,3.5,Surgery,282,David Lee,Arogya,3127,24,157432,No,2025-09-29,Improved,Laugh study action a.
+P0240,Gloria Lopez,41,Female,Hypertension,2025-08-25,Pending,5.96,Isolation,269,Mark Castro,Private,7430,8,138116,Yes,2025-09-22,Stable,Fund shoulder idea your spring none stuff late despite.
+P0241,Stacie Ray,22,Male,Cardiac Arrest,2025-08-31,No,6.8,Private,151,Lisa Ramsey,Private,1352,27,153022,No,2025-10-02,Worsened,Fire sport ahead cultural truth commercial point Republican.
+P0242,Jeffrey Brown,82,Male,Hypertension,2025-08-31,Under Review,1.38,ICU,101,Mathew Roberts,LifeLine,1907,2,141023,Yes,2025-10-09,Worsened,Support will recently laugh onto so real child.
+P0243,Kelly Moore,12,Other,Hypertension,2025-08-30,No,7.5,Isolation,333,Danny Adams,None,1393,3,92055,Yes,2025-09-19,Stable,Knowledge form health field season mother down will nearly thus.
+P0244,Justin Collins,91,Male,Stroke,2025-08-28,Yes,8.04,General,457,Carolyn Lewis,LifeLine,3492,2,180920,Yes,2025-09-29,Stable,Likely measure be door main its full every.
+P0245,Mr. Michael Herrera,86,Male,Cardiac Arrest,2025-09-10,Pending,1.5,Private,305,Michael Miller,Arogya,1614,5,71797,No,2025-10-14,Improved,Wide lay mother race hard read.
+P0246,Dawn Mayo,82,Female,Diabetes,2025-08-21,Yes,9.07,ICU,471,Donna Brooks,Arogya,3160,15,94367,Yes,2025-10-08,Stable,Step nature memory trial remember natural professional brother industry minute.
+P0247,David Wilson,94,Male,Stroke,2025-08-22,No,3.83,Surgery,171,Wendy Whitaker,LifeLine,3697,6,130945,Yes,2025-10-05,Worsened,Role phone themselves national.
+P0248,Kelly Hill,43,Female,COVID-19,2025-09-03,No,3.68,ICU,113,Kayla Barton,Private,6635,10,195825,No,2025-10-07,Improved,Because American treatment less talk social.
+P0249,James Hale,58,Other,Cardiac Arrest,2025-08-26,Under Review,1.57,General,408,Kenneth Orozco,None,6019,2,136614,No,2025-09-29,Stable,Voice build little college experience stand again small.
+P0250,Tara Andersen,2,Female,Kidney Failure,2025-08-26,Under Review,9.6,Isolation,162,Michael Allen,LifeLine,7485,11,144855,No,2025-10-16,Stable,Trial pattern matter ability position.
+P0251,Jamie Hernandez,34,Male,COVID-19,2025-09-06,Under Review,9.07,ICU,371,Matthew Scott,None,7655,12,155439,Yes,2025-10-09,Improved,Common night agree senior point expert idea conference north small.
+P0252,Matthew Parker,27,Male,Diabetes,2025-09-14,No,7.05,General,243,Karen Sellers,LifeLine,4109,20,31347,Yes,2025-09-20,Worsened,Laugh structure meeting girl pick dark table about rest step.
+P0253,Aaron Cox,32,Other,Diabetes,2025-09-10,Under Review,8.97,General,458,Peter Mitchell,None,3211,21,37536,Yes,2025-10-02,Unchanged,Voice hotel level up artist environment agree trouble just.
+P0254,Ashley Roberts,89,Female,Diabetes,2025-09-07,No,4.57,General,484,Brian Mahoney,Arogya,6723,29,121595,No,2025-10-09,Worsened,Why even within staff front such imagine.
+P0255,Felicia Sims,9,Male,COVID-19,2025-08-20,No,8.56,Private,227,Evelyn Campbell,LifeLine,2395,8,193305,Yes,2025-09-20,Improved,Condition project activity bad note peace.
+P0256,Christopher Garcia,45,Other,Fracture,2025-08-26,Pending,8.58,Private,288,Matthew Orr,None,2128,10,30317,No,2025-09-19,Worsened,Poor travel leader establish eat.
+P0257,Margaret Alexander,33,Male,Diabetes,2025-09-13,Yes,3.12,ICU,331,Erica Heath,MediCare,5779,5,108483,Yes,2025-09-22,Stable,Behind back approach table quality expect actually trade yourself.
+P0258,Andrea Steele,14,Female,Diabetes,2025-08-29,Pending,6.14,ICU,416,Ellen Stafford,None,4774,20,43366,No,2025-09-25,Improved,Sense a no country get here ahead try water.
+P0259,Samantha Church,93,Female,COVID-19,2025-09-12,Yes,5.5,ICU,451,Sierra Garrett,LifeLine,1982,13,13571,Yes,2025-09-23,Improved,Find skill newspaper perhaps shake view cause whole television.
+P0260,Hannah Welch,1,Male,Stroke,2025-09-17,Yes,2.09,Isolation,437,David Freeman,None,2034,16,52491,No,2025-10-17,Unchanged,Serve these service you today.
+P0261,Kyle Gray,7,Other,Pneumonia,2025-08-25,No,6.98,Isolation,343,Mark Griffin,LifeLine,3615,22,146298,Yes,2025-10-08,Stable,There work now protect form right loss total democratic.
+P0262,Cynthia Blake,50,Other,Diabetes,2025-09-17,Under Review,6.22,ICU,363,Megan Smith,LifeLine,2212,4,41844,Yes,2025-10-11,Stable,Fact do performance score government reach people east top set suggest.
+P0263,Travis Stanley,57,Other,COVID-19,2025-09-07,Under Review,7.98,Surgery,311,Joel Gonzalez,LifeLine,7168,22,53567,No,2025-09-28,Improved,Blue someone later in economic without.
+P0264,Christina Smith,94,Other,Stroke,2025-08-29,Under Review,5.73,Private,438,Jennifer Colon,Private,5785,3,61738,Yes,2025-09-26,Unchanged,Student professional specific receive thus yourself dog occur.
+P0265,Alexis Hurst,54,Male,Stroke,2025-08-22,Pending,5.47,Private,196,Elizabeth Hawkins,None,7964,3,124714,Yes,2025-09-19,Unchanged,Author exactly cup very still skin any much.
+P0266,David Parker,22,Other,Stroke,2025-08-23,Under Review,1.81,General,101,Stacy Blake,LifeLine,4385,9,39796,No,2025-09-29,Improved,Fact drive add across that election best Mr box.
+P0267,David Williams,53,Other,Diabetes,2025-08-30,No,6.4,ICU,426,David Gonzalez,Arogya,6217,18,20239,Yes,2025-10-18,Unchanged,Challenge much fact race.
+P0268,Mary Cameron,64,Other,COVID-19,2025-08-28,Under Review,7.96,Isolation,264,Cesar Bennett,MediCare,4660,7,121196,Yes,2025-10-16,Worsened,Show dream charge former do seek audience environmental as make.
+P0269,Suzanne Anderson,49,Female,Pneumonia,2025-08-26,Under Review,3.82,General,108,Manuel Jackson,Arogya,6474,16,139809,Yes,2025-10-08,Improved,Figure level individual live bit language bad toward apply.
+P0270,Crystal Reed,45,Male,Fracture,2025-08-31,Under Review,8.49,Private,424,Bryan Perry,LifeLine,2002,23,54753,No,2025-10-05,Stable,Drive arrive allow exactly could whom until.
+P0271,Sherri Yang,70,Other,Fracture,2025-08-23,Pending,7.64,ICU,284,Tyrone Gardner,LifeLine,5274,24,174145,Yes,2025-10-02,Worsened,Dark phone outside attention poor consumer big agree.
+P0272,Mrs. Kathy Lopez,49,Other,Stroke,2025-09-12,No,8.25,Private,123,Brenda Woods,None,5322,27,147517,Yes,2025-10-16,Worsened,But those yet rise simply industry later truth practice late.
+P0273,Jesse Martin,13,Female,Pneumonia,2025-08-30,Under Review,7.7,Surgery,476,Eric Soto,Private,2970,12,137714,No,2025-09-26,Improved,Challenge go join debate size style word.
+P0274,Lisa Garcia,62,Other,Hypertension,2025-09-05,Yes,9.42,General,266,Katherine Johnson,LifeLine,5734,29,46664,No,2025-10-15,Unchanged,Player hundred success special beat attention rich they box shoulder.
+P0275,Jessica Richard,74,Other,Hypertension,2025-09-07,Pending,2.96,ICU,447,Megan Ibarra,MediCare,4915,30,153415,Yes,2025-10-04,Stable,Apply not forget second race skin some teach heavy TV.
+P0276,Angela Mason,84,Male,Stroke,2025-09-04,Under Review,1.96,Surgery,327,Robin Shelton,LifeLine,6417,28,119614,Yes,2025-09-22,Improved,Piece big improve reflect produce into data big move.
+P0277,Shelia Wheeler,98,Female,Hypertension,2025-09-06,Under Review,2.93,Surgery,219,Francisco Vega,MediCare,5014,8,114701,Yes,2025-10-01,Improved,Point race prepare career social memory impact tend white administration Democrat.
+P0278,Karen Howard,88,Female,COVID-19,2025-09-18,Pending,3.47,Isolation,410,Julie Castro,None,3298,15,12427,Yes,2025-09-28,Improved,Crime happy return her seven begin.
+P0279,Cynthia Jenkins,29,Female,Kidney Failure,2025-09-09,Yes,4.68,ICU,348,Vincent Nguyen,LifeLine,3637,23,87791,No,2025-09-26,Unchanged,Particular state Mrs certainly myself agree along hospital general when.
+P0280,William Matthews,21,Other,Cardiac Arrest,2025-08-29,Yes,8.77,Isolation,304,John Miller,None,7329,10,40823,Yes,2025-10-14,Worsened,Yet oil be court scene across those medical option.
+P0281,Alisha Rojas,58,Female,Fracture,2025-08-25,Pending,1.5,Surgery,478,Wayne Johnson,None,6987,12,124158,Yes,2025-09-23,Stable,Affect threat able travel story player health lot control.
+P0282,Riley Mahoney,10,Other,Cardiac Arrest,2025-08-31,Under Review,5.8,ICU,413,Austin Reed,MediCare,4954,25,87128,Yes,2025-09-24,Worsened,Coach student fear team keep tree how.
+P0283,Cheryl Burgess,5,Male,Cardiac Arrest,2025-09-06,Pending,7.3,ICU,141,Daniel Vasquez,Private,2850,18,198728,Yes,2025-10-13,Stable,Page team future author their capital suffer itself.
+P0284,Mrs. Laura Silva,38,Male,Fracture,2025-09-10,Pending,2.02,ICU,278,George Cook,LifeLine,1752,10,187388,No,2025-10-06,Improved,Poor lay mission floor and small cell around find factor.
+P0285,Ethan Mckenzie,3,Other,Pneumonia,2025-09-11,Pending,5.91,ICU,319,Melanie Hester,MediCare,3161,28,81069,No,2025-09-24,Unchanged,Off safe business direction teacher become.
+P0286,Dana Simmons,41,Female,Stroke,2025-09-09,Pending,5.27,Isolation,343,Jose Ruiz,Private,7276,21,146965,Yes,2025-10-18,Improved,Speech about for who onto most morning into debate.
+P0287,Renee Jackson,34,Male,Stroke,2025-09-15,Yes,3.22,Private,437,Erin Stephenson,MediCare,3426,8,94511,Yes,2025-09-24,Improved,Fine hot bank commercial TV candidate a.
+P0288,Leah Rodgers,14,Other,Fracture,2025-09-11,Pending,3.5,ICU,458,Eric Morris,None,6827,17,171244,No,2025-09-30,Unchanged,Board wind act light government agreement.
+P0289,Ronnie Richardson,10,Female,Hypertension,2025-09-16,Under Review,8.06,General,151,Christine Smith,None,1678,29,107421,Yes,2025-09-20,Stable,Control work environment TV expert.
+P0290,Carla White,44,Male,Cardiac Arrest,2025-09-10,Under Review,2.3,ICU,475,Christopher Moore,MediCare,3891,9,157799,Yes,2025-10-07,Stable,Summer produce painting pattern short each choose.
+P0291,Daniel Salinas,22,Other,COVID-19,2025-08-26,No,5.28,Isolation,297,Angela Sanchez,MediCare,5575,11,180451,No,2025-10-10,Stable,Share market hear rule give during.
+P0292,Barbara Valdez,49,Other,Pneumonia,2025-08-29,No,4.31,ICU,250,Johnny Nelson,MediCare,7844,23,53501,Yes,2025-09-27,Worsened,News decide watch government PM.
+P0293,John Hernandez,21,Other,Fracture,2025-09-18,Pending,3.77,Private,410,Kathy Mcgee,MediCare,2985,18,47097,No,2025-10-18,Stable,Catch series store bar couple son benefit skill time.
+P0294,Daniel Oneal,94,Other,Cardiac Arrest,2025-09-14,No,6.81,Surgery,199,Michael Mosley,LifeLine,6402,17,86073,Yes,2025-09-25,Improved,Arm major federal in production they senior political trade.
+P0295,Katherine Adams,10,Female,Hypertension,2025-09-05,Pending,9.15,Isolation,464,Victoria Hill,LifeLine,6301,4,147167,No,2025-09-29,Unchanged,Language employee range cold this value during note drug similar.
+P0296,Kelly Esparza,71,Other,COVID-19,2025-08-20,Yes,1.31,ICU,173,Bryan Price,MediCare,7023,2,189574,Yes,2025-09-19,Unchanged,Five future face kitchen avoid party fire.
+P0297,Steven Fisher,12,Other,Kidney Failure,2025-08-30,Yes,7.66,ICU,366,Sarah Martin,Arogya,2686,12,63598,Yes,2025-10-04,Stable,Be election believe miss huge.
+P0298,Jeremy Jackson,44,Other,Diabetes,2025-08-20,Yes,8.19,ICU,392,Raven Brooks,LifeLine,6693,29,170956,Yes,2025-10-16,Improved,Manage like run visit mention.
+P0299,Joshua Saunders,77,Other,Stroke,2025-08-31,Yes,1.49,Surgery,466,Tammy Berry,Private,1639,14,197295,No,2025-09-27,Stable,Wind push support environmental operation suddenly.
+P0300,Alicia Lawson,79,Male,Hypertension,2025-09-02,Under Review,9.26,ICU,358,Dennis Ramos,MediCare,1615,23,107321,No,2025-10-11,Improved,Instead decision win management range case get practice half computer.
+P0301,Joshua Steele,62,Other,Kidney Failure,2025-08-20,Yes,7.04,Private,116,Eric Horton,MediCare,5051,20,146152,Yes,2025-10-11,Stable,List industry skill step answer crime education well.
+P0302,Molly Williams,91,Male,Hypertension,2025-09-01,Yes,3.28,Isolation,165,Lori Meyer DVM,MediCare,1493,16,168470,No,2025-09-21,Worsened,National firm leg because expert easy wide family gas.
+P0303,Rachel Collins,4,Female,Cardiac Arrest,2025-09-06,Under Review,4.46,Isolation,354,William Jackson,Private,2740,9,75860,Yes,2025-09-29,Stable,Treat hundred evidence move foot together.
+P0304,John Hopkins,56,Female,Kidney Failure,2025-09-13,Pending,6.75,ICU,144,Brandon Greene,Arogya,1107,3,133760,No,2025-09-23,Stable,Body yes pressure present Congress on box hand amount blood.
+P0305,Brenda Hicks,84,Male,Pneumonia,2025-09-10,No,7.31,Surgery,254,Kevin Price,MediCare,6492,7,131341,Yes,2025-10-01,Worsened,Read speak relate forget go resource.
+P0306,Mr. Robert Smith,22,Other,Fracture,2025-08-20,Pending,9.13,Isolation,444,Jacob Hart,LifeLine,2770,30,65212,No,2025-09-20,Stable,Life century small organization.
+P0307,Margaret Mccullough,78,Male,Cardiac Arrest,2025-09-13,Pending,7.17,General,380,Wanda Ochoa,LifeLine,4835,5,96553,Yes,2025-09-29,Improved,Door Mrs may kind than full sing citizen hotel need.
+P0308,Kristen Fox,56,Male,Stroke,2025-09-12,No,5.81,Surgery,339,Jacob Ramirez,None,7705,27,198777,No,2025-10-02,Stable,Story claim friend vote all trouble attorney.
+P0309,Micheal Zamora,21,Male,Diabetes,2025-08-20,Yes,3.13,Surgery,186,Mark Cooper,Private,4154,17,45478,No,2025-10-10,Stable,Physical organization second husband.
+P0310,Mark Paul,7,Other,Pneumonia,2025-09-08,Yes,4.98,ICU,328,Zoe Smith,None,2539,8,53054,No,2025-10-07,Stable,Manager soldier drop car affect low quality next teach individual.
+P0311,Daniel Harris,13,Other,Hypertension,2025-09-03,Yes,1.07,Isolation,159,Susan Washington,LifeLine,4994,10,147462,No,2025-09-28,Worsened,At growth order design nor large eye machine radio.
+P0312,Samantha Rogers,43,Male,Fracture,2025-09-18,Yes,9.65,Isolation,346,Tracy Mejia,Arogya,1856,24,197454,Yes,2025-10-12,Worsened,Prepare Democrat or building order different you bank.
+P0313,Courtney Paul,27,Female,COVID-19,2025-08-30,No,9.35,Isolation,439,Daniel Lester,Arogya,3788,18,134222,No,2025-10-11,Unchanged,Ability continue lot lot alone three.
+P0314,Ashley Frazier,25,Male,Stroke,2025-09-08,Yes,9.26,Isolation,376,Melissa Taylor,None,2709,7,12574,No,2025-10-13,Worsened,Try door across determine sport enough.
+P0315,Diane Jordan,53,Female,Diabetes,2025-09-14,Yes,3.71,Surgery,223,Alexander Jones,LifeLine,7668,4,93280,No,2025-09-25,Worsened,Military get sound institution mouth.
+P0316,Jeffery Rivera,90,Female,Cardiac Arrest,2025-09-10,Yes,9.43,Surgery,224,Michael Mason,LifeLine,5837,12,119131,No,2025-09-29,Improved,Across technology nearly religious right enough history activity send fly.
+P0317,Amber Mitchell,71,Other,Pneumonia,2025-09-03,No,7.81,ICU,208,Frederick Sandoval,MediCare,7239,24,56982,No,2025-09-21,Worsened,Education run great understand show Congress citizen data usually little.
+P0318,Elizabeth Vazquez,93,Female,COVID-19,2025-08-24,Under Review,3.68,Private,187,Robin Gray,Private,5322,27,49413,Yes,2025-10-10,Unchanged,Officer laugh someone number nor last school research smile.
+P0319,Lori Jones,94,Male,Diabetes,2025-09-18,No,8.73,ICU,485,Dr. Melody Hart,Arogya,5210,26,133337,No,2025-09-30,Unchanged,Cost population reach idea their upon treatment expect production he.
+P0320,Kristin Brewer,70,Male,Hypertension,2025-08-27,Yes,2.44,Isolation,437,Aaron Callahan,Private,3567,5,27576,No,2025-10-03,Worsened,Score travel later own rate ability manage technology.
+P0321,Carlos Rodriguez,34,Other,COVID-19,2025-09-06,No,4.95,Surgery,458,Johnathan Jordan,MediCare,7229,2,11468,No,2025-10-11,Worsened,Military arrive number product wait establish to carry wall win open.
+P0322,Stacy Skinner,85,Female,Cardiac Arrest,2025-09-02,Pending,3.85,Private,145,Paige Armstrong,MediCare,3554,8,91747,No,2025-10-08,Improved,Program my medical dinner certain beyond offer mother.
+P0323,Christopher Johnson,37,Male,COVID-19,2025-09-14,Pending,8.31,Surgery,154,Melissa Davis,MediCare,6804,23,193884,Yes,2025-10-05,Worsened,Consider week first life administration middle represent.
+P0324,Marc Dixon,39,Female,Hypertension,2025-09-12,Under Review,6.8,General,322,Scott Morgan,MediCare,4719,15,59197,Yes,2025-10-01,Unchanged,Amount by only else thank drug meet party.
+P0325,Dr. Derek Johnson MD,31,Female,Pneumonia,2025-09-01,Yes,8.1,ICU,466,Thomas Robinson,Private,6368,21,62236,No,2025-09-26,Improved,Race pretty age popular anyone own turn now market color.
+P0326,Elaine Whitehead,13,Other,COVID-19,2025-09-10,Under Review,3.47,ICU,114,Matthew Fernandez,Arogya,2261,25,191939,Yes,2025-10-13,Improved,Above far above who just business certainly training.
+P0327,Thomas Leon,7,Male,Hypertension,2025-09-09,Pending,1.72,ICU,182,Donald Mcintyre,MediCare,7945,15,34601,No,2025-10-04,Unchanged,Couple figure serve several take much pull.
+P0328,Debra Robertson,51,Male,Diabetes,2025-09-14,Under Review,8.02,Surgery,267,Carol Taylor,Private,5132,4,150963,No,2025-10-10,Improved,Example walk house quite find moment personal away have hour.
+P0329,Troy Zavala,74,Male,Stroke,2025-09-11,Pending,5.43,ICU,296,Laura Sexton,None,1865,1,130217,No,2025-09-29,Worsened,Worry long nature strategy of.
+P0330,Amy Wise,71,Female,Kidney Failure,2025-08-20,Pending,7.63,Surgery,492,Martha Conway,LifeLine,2065,16,96778,Yes,2025-09-19,Unchanged,Hand stand off raise pull.
+P0331,Angela Snyder,63,Other,Fracture,2025-09-10,No,9.34,General,243,Thomas Davis,MediCare,2792,27,34828,Yes,2025-10-05,Improved,Medical suggest behind control pay employee recently character site what.
+P0332,John Green,20,Male,Cardiac Arrest,2025-08-26,Yes,3.99,Surgery,212,Juan Williams,LifeLine,3978,2,26019,Yes,2025-09-19,Unchanged,Treatment better break here note material fill hard occur raise reduce.
+P0333,Theresa White,7,Other,Pneumonia,2025-09-05,Pending,4.8,General,468,Heather Lane,MediCare,4158,9,173832,No,2025-09-23,Stable,Color increase reason court after same mention.
+P0334,Katherine Mcclure,47,Other,Stroke,2025-08-24,Yes,9.27,Surgery,231,Carol Cochran,LifeLine,4706,9,132865,No,2025-09-20,Worsened,End professor own a course away ground south.
+P0335,Daniel Hunter,1,Other,Hypertension,2025-08-25,Under Review,1.9,Private,440,Melissa Harris,None,6082,19,165832,Yes,2025-10-17,Unchanged,School defense also break probably accept stand character imagine foreign.
+P0336,Brandon Wagner,55,Female,Stroke,2025-08-26,Under Review,2.44,Private,343,David Hood,None,5206,13,51013,No,2025-10-07,Improved,Health summer million collection pay dark.
+P0337,Miguel Donaldson,12,Female,COVID-19,2025-08-22,Pending,3.35,Isolation,443,Peter Mckee,LifeLine,2663,10,27503,No,2025-09-22,Stable,Country seem trip per federal local inside growth gun size.
+P0338,Lisa Myers,38,Other,Kidney Failure,2025-08-29,Yes,1.6,Isolation,163,Sherry Harris,Arogya,7389,27,101869,Yes,2025-10-11,Worsened,Husband sound institution least always do now.
+P0339,Paul Sims,85,Other,Cardiac Arrest,2025-09-02,Pending,4.79,Surgery,440,Stephanie Wood,Arogya,4278,3,176813,Yes,2025-09-26,Worsened,Indeed follow military better enjoy example avoid find.
+P0340,Jacob Moore,81,Female,COVID-19,2025-09-03,Pending,7.56,Isolation,169,Thomas Ryan,LifeLine,2539,2,156579,Yes,2025-09-26,Improved,Best write race three policy exist true.
+P0341,Roger Fisher,77,Male,Pneumonia,2025-08-27,No,5.93,General,373,Laurie Townsend,None,1562,9,69252,Yes,2025-10-07,Worsened,Party nature meeting of since accept reality.
+P0342,John Anderson,62,Other,COVID-19,2025-08-28,Under Review,3.94,General,424,James Kim,MediCare,3276,28,100428,Yes,2025-10-08,Improved,Allow will receive house fear assume.
+P0343,Margaret Cruz,26,Female,Diabetes,2025-09-01,Yes,7.26,General,471,Nicole Oliver,None,4465,20,174841,No,2025-10-01,Unchanged,Employee American later commercial.
+P0344,Jennifer Spencer,13,Other,Kidney Failure,2025-08-30,Under Review,7.86,ICU,351,David Andrews,LifeLine,2345,13,13703,No,2025-10-07,Improved,Road set event over thought often election into anyone perhaps.
+P0345,Daniel Parker,4,Male,Cardiac Arrest,2025-09-02,No,6.77,ICU,146,Loretta Warner,MediCare,6621,16,60499,No,2025-09-30,Worsened,Hold more break six think model.
+P0346,Rachel Petty,27,Male,Fracture,2025-08-27,Under Review,2.65,General,454,Denise Jackson,LifeLine,3516,1,81979,No,2025-10-12,Worsened,Price night network student decade per they through attention.
+P0347,Bailey Graham,22,Other,Stroke,2025-09-17,No,4.99,Private,270,Mitchell Perez,MediCare,5728,28,84498,Yes,2025-09-29,Worsened,Beautiful officer true believe sell take along.
+P0348,Jennifer Norman,82,Male,Pneumonia,2025-09-05,Under Review,6.77,Surgery,214,Jose Wall,Arogya,6311,13,121716,No,2025-09-25,Worsened,Card well spring quickly discuss rise environmental.
+P0349,Trevor Williamson,38,Other,Diabetes,2025-08-23,Yes,1.03,Isolation,394,Thomas Jackson,Arogya,1836,13,163214,Yes,2025-10-04,Worsened,Resource cost serious defense.
+P0350,Sandra Johnson,11,Male,COVID-19,2025-09-06,No,2.8,Surgery,492,Jonathan King,MediCare,2206,15,90150,Yes,2025-10-17,Worsened,Still they study return buy rich partner conference floor.
+P0351,Philip Allen,61,Female,Cardiac Arrest,2025-08-20,Under Review,3.75,Private,407,Alexander Gonzalez,Private,4776,2,106278,No,2025-10-01,Worsened,Might feeling assume mission last star.
+P0352,John Green,15,Other,Cardiac Arrest,2025-08-31,No,6.18,Private,133,Jessica Wright,Arogya,1877,8,173709,Yes,2025-09-25,Worsened,Carry price say item reach.
+P0353,Melissa Powell,40,Other,Hypertension,2025-09-10,Yes,2.0,Surgery,429,Anthony Suarez,MediCare,7103,7,115714,Yes,2025-09-20,Unchanged,Newspaper soon realize red truth suggest could national say.
+P0354,Vincent Gibson,51,Female,Fracture,2025-09-12,Under Review,3.25,Surgery,275,John Martinez,Arogya,1902,13,76781,No,2025-09-26,Unchanged,Teach west guess result turn man resource catch.
+P0355,Brittany Gibson,61,Male,Kidney Failure,2025-09-15,Pending,7.42,General,293,Brittney Jensen,MediCare,2970,6,157092,Yes,2025-10-12,Unchanged,Area crime movie record movie north box.
+P0356,Pamela Taylor,63,Female,Pneumonia,2025-08-20,Yes,7.91,General,467,Teresa Dean,MediCare,1135,22,151824,Yes,2025-09-22,Worsened,Stage along hand all author blood step.
+P0357,Jennifer Thomas,85,Male,COVID-19,2025-09-12,Yes,6.84,Isolation,480,Harold Ramirez,Private,4775,14,178191,Yes,2025-10-15,Improved,Fly stop analysis several turn generation kind.
+P0358,Dawn Rodriguez,34,Male,Fracture,2025-09-06,Yes,2.17,Private,476,Todd Case,LifeLine,2532,18,182849,No,2025-09-19,Improved,I when production police picture example forget.
+P0359,Kathy Hampton,12,Other,Hypertension,2025-09-14,Yes,6.35,Surgery,471,Michael Keller,LifeLine,3185,2,63107,No,2025-10-13,Improved,Admit still down today total police fill.
+P0360,Alicia Torres,83,Female,Pneumonia,2025-08-28,Pending,4.69,Private,295,Mason Flynn,None,1234,22,30309,No,2025-09-22,Improved,Year miss expert plant people adult nor very bed bill social.
+P0361,Victoria Simmons,70,Female,Kidney Failure,2025-09-08,Under Review,9.45,Private,434,Joshua Estrada,Private,4901,10,165356,No,2025-10-12,Improved,Great event discuss manage indicate letter.
+P0362,Ryan Martin,50,Female,Cardiac Arrest,2025-09-03,Yes,5.06,Private,428,Jeanette Jones,Arogya,6422,2,49956,Yes,2025-10-18,Improved,Available pattern ten want rate include stock next.
+P0363,Jamie Moore,24,Female,Cardiac Arrest,2025-09-01,Under Review,8.86,ICU,387,Lori Black,Private,5349,18,36994,No,2025-09-23,Unchanged,I inside information article factor.
+P0364,Angie Key,48,Male,Kidney Failure,2025-09-16,No,2.2,Surgery,323,Gregory Allen,LifeLine,4708,25,66738,No,2025-10-13,Worsened,Feeling clear including fall avoid provide choice.
+P0365,Jeffrey Lewis,49,Other,Fracture,2025-08-25,Yes,2.56,Surgery,219,Jacqueline Mcclure,None,3883,12,83396,No,2025-09-25,Worsened,Certain kitchen whatever position third job upon whatever turn back.
+P0366,Robert Thomas,48,Other,Pneumonia,2025-08-28,Yes,6.34,General,214,Sarah Maldonado,LifeLine,3175,30,56746,No,2025-09-29,Unchanged,Street senior enough popular heavy when star point beyond.
+P0367,Kenneth Scott,24,Female,Fracture,2025-09-10,Under Review,3.95,ICU,232,Michael Rich,Arogya,1969,1,78927,Yes,2025-10-08,Unchanged,There sport few try decade easy.
+P0368,David Phillips,58,Other,Hypertension,2025-09-07,Pending,3.54,General,159,Stephen Thomas,Private,5508,30,157760,No,2025-09-26,Improved,Sense budget court trial model the good wall throw.
+P0369,Dr. Timothy Richard MD,6,Other,COVID-19,2025-08-20,No,1.76,Surgery,248,Tammy Sharp,Arogya,1688,20,36823,No,2025-10-08,Worsened,Yard rather camera fight approach tonight watch.
+P0370,Frederick Curtis,34,Male,Kidney Failure,2025-09-11,Pending,4.31,Surgery,144,Kristie Robinson DDS,Arogya,3903,25,43214,No,2025-10-06,Improved,President listen bit result mission work same during.
+P0371,Calvin Bridges,57,Male,Kidney Failure,2025-08-28,Under Review,4.54,ICU,157,Tracy Scott,MediCare,4534,29,146922,No,2025-10-03,Worsened,Return different I accept run daughter add.
+P0372,Stephen Cunningham,60,Other,Hypertension,2025-09-14,Yes,4.4,Isolation,145,Noah Walsh,Arogya,2737,11,163961,No,2025-09-22,Stable,Evidence life where situation win black six policy.
+P0373,Jennifer West,34,Female,COVID-19,2025-09-18,Under Review,8.51,Private,274,Jason Martin,None,2233,30,179038,No,2025-10-01,Worsened,Look deal town account pass think.
+P0374,Nicole Hayes,29,Female,Cardiac Arrest,2025-09-11,Under Review,6.13,General,479,Anthony Stevens,Arogya,4251,27,110387,No,2025-10-07,Unchanged,Owner necessary concern above study.
+P0375,Greg Chang,35,Male,Diabetes,2025-08-24,Under Review,1.19,General,403,Vincent Daniels,Arogya,5113,30,96549,No,2025-09-25,Worsened,Politics adult record theory eight.
+P0376,Joseph Castillo,73,Other,Kidney Failure,2025-08-25,Under Review,1.21,General,196,Adam Harrison,MediCare,4529,9,160904,No,2025-10-08,Stable,Discuss information table manage brother father hear similar.
+P0377,Christy Green,8,Other,Fracture,2025-09-17,Yes,6.03,ICU,481,Melissa Patel,MediCare,5160,26,165233,Yes,2025-10-03,Improved,His however well food return argue guy.
+P0378,Rhonda Fitzgerald,20,Other,Stroke,2025-09-09,No,6.51,Private,159,Melanie Carlson,LifeLine,3733,25,168538,No,2025-10-16,Improved,City give particularly clearly others gun good.
+P0379,Casey Mcgee,97,Male,Cardiac Arrest,2025-08-31,Yes,3.06,General,393,Amber Norris,LifeLine,1435,19,82676,Yes,2025-10-17,Unchanged,Unit nor trade from past.
+P0380,Gregory Wood,90,Male,Hypertension,2025-09-12,Under Review,1.8,Isolation,288,Carlos Fox,Arogya,4615,7,171451,No,2025-10-17,Improved,Mr admit yeah home through else learn alone.
+P0381,Jennifer Johnson,86,Other,Hypertension,2025-08-28,Under Review,5.16,Isolation,165,Wayne Cox,LifeLine,3233,25,185242,No,2025-10-18,Worsened,Professor watch myself baby various radio per some west agency.
+P0382,James Chang,13,Female,Stroke,2025-08-26,Yes,3.36,Surgery,260,Beth Clark,None,4029,1,134100,Yes,2025-09-24,Worsened,Pass system agreement TV walk table record beyond few.
+P0383,Caleb Barnett,11,Female,Hypertension,2025-09-08,Pending,8.67,Private,294,Joshua Vasquez,None,1801,11,64868,No,2025-09-25,Improved,Rock decade where also structure fight.
+P0384,Derrick Fernandez,86,Male,COVID-19,2025-08-29,Pending,1.45,Surgery,395,Monica Williams,None,1402,24,54066,No,2025-10-02,Worsened,Responsibility sure along good study seem.
+P0385,Jason Johnson,45,Female,Fracture,2025-08-26,Pending,6.56,Surgery,477,Allison Williams,MediCare,6313,27,10700,Yes,2025-10-01,Stable,Myself approach service person key relate throw hope.
+P0386,Kristi Miller,70,Female,Kidney Failure,2025-09-06,Under Review,6.4,Private,100,Mrs. Laura Garner,MediCare,4133,20,70773,Yes,2025-09-22,Improved,Very treat himself management.
+P0387,Rhonda Golden,53,Other,Kidney Failure,2025-09-10,Yes,2.34,Surgery,259,Thomas Sherman,Private,6996,14,66739,Yes,2025-10-12,Worsened,Environmental best number cup sound drop upon major chair.
+P0388,Benjamin Johnson,97,Other,Hypertension,2025-09-10,Yes,9.62,Private,131,Christopher Copeland,None,4461,28,33943,No,2025-09-28,Improved,Money hard language quality space pattern letter finally receive.
+P0389,Jeremiah Adams,76,Female,Stroke,2025-09-01,Pending,2.53,Isolation,402,Joshua Kelley,Arogya,2588,14,171198,No,2025-10-08,Unchanged,Even some our stand environmental.
+P0390,Jacqueline Robinson,30,Male,Fracture,2025-08-24,Pending,6.11,Private,374,Patricia Lewis,LifeLine,3408,26,48401,No,2025-10-07,Improved,Would man car role myself strategy community.
+P0391,Joseph Rosales,71,Other,Pneumonia,2025-09-04,Yes,1.13,General,197,Jessica Russell,MediCare,2551,24,47573,Yes,2025-10-08,Worsened,Stock build color will guy protect you full ten government.
+P0392,Brian Raymond,8,Female,Fracture,2025-08-23,Under Review,5.73,ICU,298,Krista Wood,Arogya,4298,30,53206,No,2025-09-26,Improved,By hospital perform cut our.
+P0393,Jessica Anthony,50,Other,Hypertension,2025-09-16,Pending,7.96,Isolation,316,Thomas Scott,LifeLine,2447,24,134640,No,2025-10-16,Improved,Sit owner close hospital wish Republican bed hair father.
+P0394,Carly Carey,67,Other,Stroke,2025-09-18,No,9.35,ICU,263,Ann Wilson,LifeLine,5866,25,10064,No,2025-10-15,Worsened,Whom baby challenge bill college.
+P0395,Anthony Allen,54,Female,Stroke,2025-09-13,No,8.45,Isolation,494,Jonathan Garrett,None,3260,2,94761,No,2025-10-11,Unchanged,Lead until threat fish sit short hit do.
+P0396,James Burch,69,Female,Kidney Failure,2025-09-09,Yes,5.45,General,286,Erin Mitchell,Arogya,5338,26,30391,Yes,2025-09-22,Worsened,Value third five arm moment brother society capital similar Mrs protect.
+P0397,Charles Coleman PhD,88,Male,Hypertension,2025-09-06,Under Review,3.02,ICU,447,Thomas Robbins,Arogya,5976,4,23681,Yes,2025-10-03,Improved,Life store sit find indeed team assume back why executive.
+P0398,Sean Cooper,61,Female,Cardiac Arrest,2025-08-29,No,2.83,General,164,Karl Taylor,None,5043,18,45907,No,2025-10-06,Improved,Model question too watch nor anyone success everybody surface.
+P0399,Heather Ritter,74,Other,Diabetes,2025-09-01,Pending,9.51,General,366,Paula Warner,None,5248,13,144140,No,2025-10-15,Worsened,Official wind fight discuss level party soon including lot wind.
+P0400,Amber Thompson,31,Male,Fracture,2025-09-14,Under Review,8.32,Isolation,439,Karen Barr,None,4551,24,125261,Yes,2025-10-07,Unchanged,Worker rate film speak with way.
+P0401,Katherine Barber,61,Female,Cardiac Arrest,2025-09-08,Yes,3.4,Surgery,408,Nicholas Pierce,None,1894,30,121517,Yes,2025-10-10,Stable,From seat baby receive old my thank.
+P0402,Adam Lawson,39,Other,Kidney Failure,2025-09-12,Pending,7.72,General,402,Alexander Valenzuela,Private,6580,22,184284,Yes,2025-10-11,Stable,Pass particularly check interest space movement.
+P0403,Nicholas Patel,11,Male,COVID-19,2025-09-13,Under Review,4.44,General,213,James Smith,Arogya,1408,10,133650,Yes,2025-09-26,Stable,Right radio suddenly suffer.
+P0404,Eric Wright,51,Male,Kidney Failure,2025-09-03,Yes,4.88,Isolation,154,Jennifer Sanchez,LifeLine,6294,28,95744,No,2025-09-21,Stable,Thus and star consider spring whether list development ground argue.
+P0405,Gary Griffin,92,Male,Pneumonia,2025-08-23,Under Review,2.86,Private,302,Charles Lopez,LifeLine,3039,18,89313,No,2025-09-28,Stable,Model police similar analysis staff strategy single party.
+P0406,Maureen Young,5,Other,Diabetes,2025-09-11,No,2.94,Isolation,104,Katie Clark,None,1909,15,141170,No,2025-09-23,Stable,Different stock political development speech both civil interesting.
+P0407,Stephen Stewart,65,Other,COVID-19,2025-08-24,No,8.42,General,375,Bradley Mason,None,2798,14,40748,Yes,2025-10-14,Stable,Court dog over only maybe.
+P0408,Dominic Reyes,74,Male,Hypertension,2025-08-26,Yes,7.54,Isolation,335,Maria Oneill,Private,1943,19,73117,No,2025-10-03,Unchanged,Response industry recent poor issue very performance response all foreign.
+P0409,Danielle Stevens DDS,67,Other,Fracture,2025-08-28,No,2.7,General,261,Matthew Ramos,None,1435,24,156838,No,2025-10-16,Stable,Threat today to today recently.
+P0410,Samuel Garza,74,Male,Stroke,2025-08-22,Yes,2.62,ICU,174,Cindy Tanner,Private,1292,19,113087,Yes,2025-10-04,Unchanged,Deal per keep just citizen example kitchen.
+P0411,Haley Gardner,87,Male,Kidney Failure,2025-09-07,No,8.13,Private,251,Meagan Holden,Private,5712,25,108909,No,2025-10-09,Unchanged,Piece popular forward behind show fine way student tell little.
+P0412,Brad Miller,80,Other,Diabetes,2025-09-15,Under Review,1.26,ICU,212,Teresa Powell,None,3180,17,111064,No,2025-10-10,Improved,Your cover culture thus base turn heavy hit condition.
+P0413,Cheryl Jones,19,Other,Kidney Failure,2025-09-10,Under Review,9.79,ICU,355,Rachel Duncan,Private,2955,9,195137,Yes,2025-09-22,Improved,Easy any speech however despite look short occur nearly chair.
+P0414,April Nelson,16,Male,Pneumonia,2025-09-01,Yes,3.12,Private,448,Dawn Mullins,Private,1539,6,134381,Yes,2025-09-25,Improved,Strong protect tonight beat provide animal wide.
+P0415,Brenda Carroll,97,Other,Pneumonia,2025-09-04,Pending,5.06,ICU,333,Tyler Patel,LifeLine,5359,13,103058,Yes,2025-09-24,Unchanged,Prove value politics some.
+P0416,Kathy Long,58,Female,Pneumonia,2025-08-23,Under Review,3.23,Surgery,175,Kevin Miller,None,1827,15,91726,No,2025-10-02,Stable,Expert article approach each character few current product night.
+P0417,Jacob Bailey,23,Male,Cardiac Arrest,2025-08-29,Under Review,6.25,ICU,407,Kim Davis,MediCare,3256,24,146835,No,2025-10-03,Unchanged,Interest customer audience together human.
+P0418,Nicole Kennedy,22,Male,Fracture,2025-09-05,Yes,6.83,General,245,Megan Long,Private,2855,30,93092,No,2025-10-09,Unchanged,Big method begin enter.
+P0419,Sarah Matthews,28,Other,Fracture,2025-08-30,Yes,1.77,Private,174,Paul Jackson,None,6080,8,149116,No,2025-10-17,Worsened,Join new sense these happy.
+P0420,Brendan Kane,25,Other,Cardiac Arrest,2025-09-08,Pending,5.22,Isolation,482,Jennifer Meyer DVM,Private,6730,5,30499,No,2025-09-24,Worsened,Yeah range study market scientist.
+P0421,Anita Taylor,17,Other,COVID-19,2025-09-08,Yes,8.84,General,440,Joseph Cameron,Private,6864,30,168696,Yes,2025-10-17,Unchanged,Cover structure sort hand election spend suddenly series heavy skin.
+P0422,Lisa Thomas,6,Female,Pneumonia,2025-09-01,Pending,9.77,Surgery,459,Elizabeth Watson,LifeLine,4314,1,66072,No,2025-10-14,Improved,Theory anyone entire offer hundred concern current happy news involve.
+P0423,Edward Anderson,55,Other,Hypertension,2025-09-05,Yes,4.58,Private,117,Kristin Anderson,MediCare,4210,9,53546,Yes,2025-10-12,Unchanged,Just specific let lead benefit nor pretty.
+P0424,Heather Simon,11,Male,COVID-19,2025-09-04,Under Review,2.91,ICU,406,Dawn Mcdonald,LifeLine,4218,26,176138,Yes,2025-09-22,Unchanged,Power decide theory race Republican.
+P0425,Christine Irwin,88,Other,Pneumonia,2025-08-25,Yes,4.45,ICU,263,Rhonda Dennis,Arogya,1829,22,82807,No,2025-10-10,Stable,Upon plan reflect friend small.
+P0426,Christopher Flynn,56,Other,Cardiac Arrest,2025-08-23,No,4.81,General,258,Robert Sanders,MediCare,2801,9,196475,No,2025-10-13,Improved,Anything southern positive security field before bar hair field follow.
+P0427,Olivia Thompson,26,Male,Diabetes,2025-08-22,Under Review,6.37,General,357,Courtney Townsend,LifeLine,7012,3,47456,Yes,2025-10-16,Improved,Cell option meeting firm group need race approach.
+P0428,Dr. Shannon Wright,81,Male,Hypertension,2025-09-17,No,1.66,Private,452,Christopher Rodriguez,MediCare,7750,8,124620,Yes,2025-10-09,Improved,Class interview dog various product evening growth.
+P0429,Janet Wallace,19,Female,Stroke,2025-08-29,No,6.01,General,163,Jeffrey Chen,Arogya,6666,25,156928,No,2025-09-28,Worsened,Could score gun marriage call stage attack national.
+P0430,Robert Sanchez,77,Other,Cardiac Arrest,2025-09-18,Yes,1.47,General,240,Clarence Lewis,Private,3197,18,125775,Yes,2025-09-25,Stable,Join future five effort describe ever himself blue season later.
+P0431,Paul Baird,34,Female,Kidney Failure,2025-08-20,Yes,9.38,Private,461,Evan Santiago,None,5056,10,138475,Yes,2025-10-01,Worsened,Perform east outside throw spring student phone.
+P0432,Charles Garcia,41,Male,COVID-19,2025-08-28,No,5.24,General,393,Anna Boone,LifeLine,2685,11,192216,No,2025-10-12,Improved,Nation staff bad least article culture eat.
+P0433,Steven Rogers,94,Male,Pneumonia,2025-08-23,Under Review,4.19,Private,344,Pamela Lee,MediCare,2401,19,75677,Yes,2025-09-26,Worsened,Of but water college use knowledge listen prevent lot.
+P0434,Jaime Olson,9,Male,Cardiac Arrest,2025-09-14,Yes,6.46,Surgery,423,Kerry Hodge,MediCare,7436,13,189665,No,2025-10-06,Unchanged,Fear moment although remember parent.
+P0435,Jason Freeman,12,Male,COVID-19,2025-09-17,Under Review,7.04,General,210,Ian Benson,Arogya,2667,2,41520,No,2025-10-10,Improved,Especially probably body administration education thousand.
+P0436,Steve Price,50,Male,Hypertension,2025-08-28,Yes,8.22,General,353,Lawrence Barnes,Arogya,3847,20,156251,No,2025-10-07,Stable,Political increase rather she oil direction really cut.
+P0437,Carrie Gentry,72,Female,Pneumonia,2025-08-27,No,7.39,General,249,Kevin Jacobs,LifeLine,6217,9,124141,Yes,2025-10-14,Improved,Reveal reflect into central tree fear almost five.
+P0438,Breanna Jacobson,51,Other,Hypertension,2025-08-24,No,8.29,ICU,460,Pam Fritz,Arogya,3359,12,180942,Yes,2025-09-30,Worsened,Line eye size tell win make worry.
+P0439,Alexis Mitchell,71,Male,Cardiac Arrest,2025-09-18,Yes,1.05,General,292,Jennifer Lin,None,6782,9,101273,Yes,2025-09-24,Stable,Mother consider approach PM important quite way.
+P0440,Tina Scott,42,Other,Kidney Failure,2025-08-29,No,5.54,Private,130,Heather Mullins,LifeLine,5884,22,56664,No,2025-10-09,Stable,Among behavior play always seek number nature man far career.
+P0441,Jennifer White,36,Male,Diabetes,2025-09-11,Yes,4.43,ICU,270,Amy Cabrera,Private,3359,9,16631,No,2025-10-09,Improved,If address force view to turn buy idea.
+P0442,Vickie Sharp,67,Female,Kidney Failure,2025-08-21,Pending,9.8,ICU,178,Matthew Sims,None,7011,26,105862,No,2025-10-05,Worsened,Doctor whose economic natural shoulder life certain.
+P0443,Zachary Hutchinson,59,Female,Cardiac Arrest,2025-08-25,Yes,7.04,General,466,Jillian Durham,LifeLine,1025,21,132178,Yes,2025-10-10,Worsened,Set business mean letter describe.
+P0444,Robert Wood,2,Female,Stroke,2025-08-21,Under Review,2.19,Isolation,207,David Campbell,LifeLine,1772,26,185646,Yes,2025-10-18,Worsened,Ago on use prepare hot cut order.
+P0445,Curtis Gray,90,Female,Cardiac Arrest,2025-09-03,No,9.03,ICU,475,Brandon Jones,LifeLine,2516,25,100699,No,2025-09-30,Worsened,Less appear list activity.
+P0446,Amy Faulkner,80,Other,Pneumonia,2025-09-11,Yes,1.37,Private,215,Nicole Serrano,MediCare,5122,20,121169,No,2025-09-22,Improved,Hundred doctor determine born issue movement yes recent little.
+P0447,Megan Molina,76,Female,Stroke,2025-08-24,Yes,2.61,General,458,Wayne Davis,LifeLine,6738,1,66041,Yes,2025-09-30,Stable,Organization occur enjoy various ten kid.
+P0448,Timothy Kemp,67,Female,Pneumonia,2025-08-25,Yes,2.53,Private,476,Mitchell Schmidt,MediCare,6096,4,171736,No,2025-10-11,Unchanged,Run fine sign effort authority join stock threat hit.
+P0449,Melissa Tapia,54,Female,COVID-19,2025-09-05,Under Review,5.44,Isolation,126,Larry Mosley,LifeLine,4905,10,156746,No,2025-09-19,Worsened,Cup everyone design energy training your tax feel near bit.
+P0450,Jorge Ortiz,15,Male,Pneumonia,2025-08-28,No,4.05,General,497,Nicholas Ward,None,7054,19,60065,No,2025-09-29,Improved,Effect use value door more same measure TV near.
+P0451,Sarah Stanley,54,Female,Pneumonia,2025-09-02,Yes,5.21,Private,191,Sheryl Gallegos,MediCare,3501,22,110258,Yes,2025-10-16,Worsened,Quality situation agree decade official prevent.
+P0452,Derrick Boyd,20,Other,COVID-19,2025-09-18,No,1.81,Private,349,John Olson,None,7984,11,108095,No,2025-09-28,Stable,Their national summer industry class she energy discuss force effort.
+P0453,Miranda Kelly,19,Male,Diabetes,2025-09-09,Under Review,7.39,General,472,Monique Lopez MD,Arogya,6635,27,56925,No,2025-09-23,Worsened,Half difference term drug office now American.
+P0454,Debra Powell,73,Other,COVID-19,2025-09-16,Pending,4.9,Surgery,300,Jason Aguilar,MediCare,2954,9,12797,Yes,2025-10-14,Unchanged,Thought loss choice exist per back expert administration lead.
+P0455,Daniel Moran,76,Male,COVID-19,2025-08-24,Under Review,3.34,Surgery,253,Jodi Patterson,MediCare,2394,28,61337,Yes,2025-09-29,Unchanged,Recently reveal protect allow young floor force low follow work.
+P0456,Linda Smith,75,Other,COVID-19,2025-09-13,Pending,3.82,Isolation,437,Melissa Williams,Private,3581,6,125888,Yes,2025-09-21,Stable,Difficult explain pay manager player big.
+P0457,Alexandra Wilson,98,Other,Fracture,2025-08-28,Yes,9.81,ICU,181,Krystal Thomas,MediCare,6582,15,104631,No,2025-10-14,Unchanged,Pass last picture strong end since carry rate ready learn.
+P0458,Elizabeth Davis,13,Other,Diabetes,2025-09-04,No,5.49,ICU,111,Jill Knight,None,1568,15,147888,No,2025-09-26,Stable,Technology wide eye show record month half.
+P0459,Christine Gonzalez,14,Male,Pneumonia,2025-09-18,Pending,9.76,General,380,George Murphy,Private,2365,1,61088,No,2025-10-01,Improved,Here article fear bank line.
+P0460,John Vaughan,73,Other,Kidney Failure,2025-09-10,No,3.53,General,300,Chris Morales,LifeLine,2534,15,11471,No,2025-10-02,Improved,Pass behavior anything money daughter spend early.
+P0461,Mrs. Ashley Thompson,100,Other,Hypertension,2025-08-25,Yes,4.25,General,272,Brittany Howard,MediCare,3721,1,163665,Yes,2025-09-25,Unchanged,Benefit wish scientist particularly shake firm positive through subject.
+P0462,Melinda Romero DDS,13,Male,Diabetes,2025-09-16,No,4.87,General,316,Jake Santiago,LifeLine,4729,15,91367,Yes,2025-10-07,Worsened,Shake hear arm consumer a case class green medical meeting.
+P0463,Shane Miller,37,Other,Pneumonia,2025-09-06,Pending,9.13,Surgery,447,Robert Vaughn,Arogya,2161,2,96101,No,2025-09-19,Improved,Course need according record store benefit already.
+P0464,Frank Smith,69,Male,Fracture,2025-09-01,Yes,3.37,Isolation,342,Corey Romero,LifeLine,1104,12,34669,Yes,2025-10-11,Stable,Case success prove unit store area growth both answer hope occur.
+P0465,Michelle Lawrence,45,Female,Fracture,2025-09-12,Yes,8.47,Private,278,Adam Love,MediCare,6456,16,106696,No,2025-09-22,Improved,Foreign hit record be.
+P0466,Kim Hernandez,53,Other,Diabetes,2025-08-25,Pending,9.34,Private,487,Michael Weiss,LifeLine,4887,21,76521,Yes,2025-10-14,Unchanged,Analysis guess wish yeah design but decade season.
+P0467,Kent Gilbert,34,Male,Kidney Failure,2025-08-27,No,5.65,Surgery,300,Daniel Farmer,MediCare,4505,28,141804,No,2025-09-24,Unchanged,Modern visit ago deep should put their quality contain sound.
+P0468,Peggy Cordova,50,Female,Fracture,2025-08-26,Under Review,4.92,Isolation,300,Nicholas Martinez,MediCare,3736,18,13406,No,2025-10-03,Stable,Part oil democratic factor.
+P0469,Dawn Miller,84,Other,Hypertension,2025-09-16,No,2.48,General,136,Dennis Riddle,Private,1170,7,169062,No,2025-10-09,Unchanged,Push performance approach bad agency board language must.
+P0470,Steven Knapp,63,Female,Kidney Failure,2025-09-13,Pending,7.63,ICU,370,Taylor Davis,None,2454,14,81572,No,2025-09-30,Worsened,Strategy statement property even culture fall report list hard specific.
+P0471,James Webster,74,Other,Kidney Failure,2025-08-25,No,5.42,Surgery,472,Eric Smith,LifeLine,3161,2,18789,Yes,2025-09-22,Stable,Soldier loss into nation response work under.
+P0472,Vickie Jones,78,Male,Kidney Failure,2025-09-10,Under Review,9.55,Surgery,244,Bryan Nunez,LifeLine,1630,19,179664,Yes,2025-09-23,Worsened,Station whole trade land health beautiful impact major.
+P0473,Jennifer Bradley,61,Female,Kidney Failure,2025-08-23,No,6.0,General,244,Amanda Lee,None,2398,3,82076,Yes,2025-10-08,Improved,Outside ago reveal well budget entire future.
+P0474,Mary Henry,5,Female,Diabetes,2025-08-30,Yes,9.31,Surgery,456,Mary Levine,LifeLine,6564,9,178211,Yes,2025-09-20,Unchanged,Mr good direction capital then win.
+P0475,Jennifer Jackson,23,Female,Diabetes,2025-08-26,No,6.73,Private,199,Mary Robbins,Private,7228,29,135497,Yes,2025-09-25,Unchanged,Special hope any poor scientist them federal threat fight hard why.
+P0476,Mrs. Michelle Brown,36,Female,Kidney Failure,2025-09-12,Yes,4.96,General,458,Anna Blair,Arogya,7988,20,114410,Yes,2025-09-22,Improved,However despite ever put cold race pull data.
+P0477,Michael Steele,52,Other,COVID-19,2025-09-13,Under Review,2.7,Private,380,Brian Frost,None,1079,18,21512,No,2025-10-14,Unchanged,Success likely the past table another data.
+P0478,Sylvia Hawkins DDS,19,Male,COVID-19,2025-09-01,No,1.49,General,301,Thomas Hernandez,None,5866,11,192320,Yes,2025-10-06,Stable,Much animal follow goal little southern easy writer order hit quality.
+P0479,Kevin Alexander,80,Female,Diabetes,2025-09-08,Yes,2.65,ICU,149,Manuel Cortez,Arogya,3884,3,194618,Yes,2025-10-08,Worsened,Remain specific although brother successful involve.
+P0480,Erin Juarez,78,Male,Stroke,2025-08-22,Under Review,5.23,Private,167,Ronald Hill,None,4881,15,76332,No,2025-09-27,Unchanged,Sense writer already bed cold specific.
+P0481,Emily Rogers,88,Other,Kidney Failure,2025-09-06,Yes,2.47,General,265,Charles Barton,MediCare,5777,6,81873,No,2025-09-27,Improved,Clear international about when describe reveal get hear follow.
+P0482,Sharon Rivera,89,Male,Hypertension,2025-09-18,Yes,5.2,Surgery,485,Jeanne Keller,Arogya,1008,9,173910,No,2025-10-18,Stable,Coach occur parent drop support mission them father.
+P0483,Holly Ward,52,Male,Hypertension,2025-08-28,Yes,2.04,Surgery,397,Robert Wright,MediCare,5000,25,25001,No,2025-10-15,Improved,Become away foreign concern growth modern PM statement.
+P0484,Carolyn Davis,5,Other,Diabetes,2025-09-08,No,9.06,Isolation,127,Julie Robinson,LifeLine,3027,26,159993,Yes,2025-10-01,Unchanged,Ten subject listen wait into sort artist character about kid.
+P0485,Bobby Proctor,51,Female,Cardiac Arrest,2025-09-11,Yes,5.45,General,463,Sharon Henderson,MediCare,4871,9,17976,No,2025-09-24,Unchanged,Top rather first many and rise.
+P0486,John Jones,43,Other,Cardiac Arrest,2025-08-30,Pending,4.97,ICU,255,Zachary Nguyen,MediCare,1896,9,198227,Yes,2025-09-22,Worsened,Condition artist court thousand rather various identify need.
+P0487,Kelly Liu,89,Female,Stroke,2025-08-30,Under Review,9.9,Isolation,334,Hannah Luna,Private,1370,28,133419,Yes,2025-10-08,Worsened,Writer might decision marriage bad music.
+P0488,Matthew Ramos,31,Other,Cardiac Arrest,2025-09-04,Under Review,6.05,Surgery,435,Rachel Calhoun,LifeLine,7708,16,169264,No,2025-09-26,Unchanged,So report discover serve answer.
+P0489,William Warren,7,Male,Fracture,2025-09-01,No,5.12,ICU,183,Kevin Price,Private,1142,5,175737,No,2025-09-27,Stable,Hope why star place collection about nothing national stand.
+P0490,Dawn Valdez,96,Female,Stroke,2025-09-04,No,2.01,General,395,Randall Wagner,LifeLine,5647,8,129139,No,2025-10-14,Unchanged,Seat visit local wonder paper operation subject national.
+P0491,Robert Brown,61,Other,Cardiac Arrest,2025-09-03,No,7.48,Surgery,170,David Horne,MediCare,6570,21,138529,Yes,2025-10-13,Worsened,Meet thing way recently size together form thousand third.
+P0492,Harry Moore,35,Other,Stroke,2025-08-24,Pending,2.33,Isolation,326,Ernest Roberts,None,3381,6,55553,No,2025-10-04,Stable,Suggest brother street under beat do.
+P0493,Alex Walls,48,Other,COVID-19,2025-08-31,Under Review,4.15,Surgery,456,Brian Pearson,None,7843,5,134111,No,2025-10-02,Unchanged,Able medical only south clear.
+P0494,Lisa Byrd,3,Female,COVID-19,2025-08-27,Under Review,2.83,Private,347,Heather Gibson,None,2870,28,179750,Yes,2025-09-20,Stable,Traditional role situation detail work source customer.
+P0495,Melissa Morgan,44,Male,Kidney Failure,2025-09-06,No,3.56,Isolation,249,Johnathan Gordon,Private,5303,20,153022,No,2025-10-13,Improved,Push fall color treatment Democrat see.
+P0496,Jerry Werner,39,Other,Cardiac Arrest,2025-08-29,No,8.51,Surgery,174,Dillon Moore,Arogya,5121,21,37233,Yes,2025-09-26,Stable,Result loss specific board face figure can business get serve.
+P0497,Aaron Williams,40,Other,Stroke,2025-09-14,Yes,7.75,Isolation,207,John Lopez MD,Private,2370,2,20012,Yes,2025-09-22,Stable,Least guess me condition color success hundred.
+P0498,Paul Herrera,36,Male,Fracture,2025-08-26,No,8.4,General,211,George Morales,Private,7184,8,106871,Yes,2025-10-17,Unchanged,Admit also you production understand available.
+P0499,Christina Williams,63,Male,Pneumonia,2025-09-13,Under Review,6.07,Private,483,Margaret Hale,Arogya,2200,4,17559,No,2025-10-07,Worsened,Drop hand able gun call hear.
+P0500,Michael Robinson,90,Male,Cardiac Arrest,2025-09-15,Yes,6.97,Private,200,Robert Brown PhD,LifeLine,7350,21,170673,No,2025-09-29,Improved,Culture four able read how miss threat involve.
+P0501,Shane Porter,88,Male,Hypertension,2025-08-28,Pending,2.91,Surgery,476,Spencer Kennedy,None,1769,2,196990,Yes,2025-09-25,Worsened,Something brother walk site child industry stuff act.
+P0502,John Rodriguez,13,Other,Kidney Failure,2025-08-31,Pending,9.98,Isolation,433,Ruth Hoover,LifeLine,1819,6,50158,No,2025-10-10,Worsened,Huge so I vote tough although fight human.
+P0503,Michelle Perez,30,Other,Fracture,2025-09-18,Under Review,1.04,Isolation,104,Summer Stevenson,Arogya,3495,22,194979,Yes,2025-10-10,Worsened,Month dinner bar discussion sport within firm stage.
+P0504,Deborah Bennett,18,Female,Fracture,2025-08-31,Yes,7.9,Isolation,285,Brian White,MediCare,7585,17,56375,No,2025-10-18,Stable,Meet turn real most rise material.
+P0505,Renee Ramirez,39,Other,Stroke,2025-08-20,No,2.63,Private,471,Travis Larsen,Private,7030,28,44510,No,2025-10-10,Unchanged,Others after military size once carry.
+P0506,Jesse Abbott,96,Other,Kidney Failure,2025-09-01,No,9.28,Surgery,394,Sarah Kelly,None,3749,15,31711,Yes,2025-10-13,Worsened,Western apply sort summer report mission occur painting serious board.
+P0507,Heather Hunter,57,Male,COVID-19,2025-09-04,Yes,3.22,Isolation,152,Jennifer Rocha,LifeLine,4707,19,119988,No,2025-10-07,Unchanged,Generation partner against space color world sea movement worry that.
+P0508,Brian Douglas,100,Female,COVID-19,2025-09-17,Yes,5.48,Surgery,447,Marissa Hughes,LifeLine,5019,11,41307,Yes,2025-09-27,Unchanged,Key such kind street your remain control morning.
+P0509,Jonathan Dennis,42,Male,Stroke,2025-09-12,Pending,1.85,ICU,175,Ricardo Valentine,None,7019,2,24692,Yes,2025-10-04,Worsened,Eight body like cell our organization position project.
+P0510,Paul Smith,35,Other,Stroke,2025-09-02,No,3.96,General,292,Joe Fry,Private,3873,18,126228,Yes,2025-09-23,Worsened,The assume American gas two message learn sure eight.
+P0511,Arthur Sandoval,94,Other,Pneumonia,2025-08-21,Under Review,3.56,General,318,Lori Norris,MediCare,5470,23,177111,Yes,2025-10-18,Unchanged,Represent likely measure whether name whole you business rule.
+P0512,Sarah Hart,54,Other,Diabetes,2025-09-15,No,9.83,General,447,Matthew Scott,LifeLine,3108,8,196277,No,2025-09-26,Improved,Five reach finish soon cut within.
+P0513,Paul Wiggins,78,Female,COVID-19,2025-09-13,Pending,2.1,Isolation,186,Lauren Campbell,None,6434,2,26338,Yes,2025-09-23,Unchanged,Support by seek of join kid whose behind key.
+P0514,Michelle Scott,83,Male,Pneumonia,2025-08-27,Yes,4.36,General,128,Ashley Rojas,LifeLine,4985,23,92375,Yes,2025-10-03,Unchanged,Stage realize ever write participant message them senior cold.
+P0515,Matthew Huynh,12,Female,Kidney Failure,2025-09-09,No,9.36,Isolation,149,Carlos Rivera,Private,3076,9,35552,Yes,2025-09-20,Improved,White long for official its child simple production.
+P0516,Charles Brown,25,Other,Hypertension,2025-09-05,Yes,1.95,General,282,William Lewis,Private,3984,9,152628,Yes,2025-10-14,Worsened,Week water resource oil carry citizen use these unit.
+P0517,Curtis Daniels,57,Other,Fracture,2025-09-05,No,3.91,Private,342,Shannon Harris,MediCare,4758,1,82739,Yes,2025-10-16,Unchanged,Anyone open degree college cup including down strategy animal over.
+P0518,Laura Kelly,28,Male,Hypertension,2025-08-29,Under Review,1.26,Isolation,191,Willie Morgan,None,1111,22,60903,No,2025-09-28,Unchanged,Civil fall wish ten contain perform team buy actually lead item.
+P0519,Ernest Lee,53,Male,Pneumonia,2025-08-22,Under Review,5.14,Isolation,126,Johnny Wright,None,7780,28,181731,Yes,2025-10-02,Stable,Goal sign social for want.
+P0520,Jeremy Bush,95,Male,Stroke,2025-08-24,No,7.37,Surgery,160,Alexis Bridges,Arogya,3888,28,170957,No,2025-10-02,Worsened,Apply instead might at PM.
+P0521,Gregory Williamson,63,Male,Cardiac Arrest,2025-08-21,No,5.32,General,363,Emily Ward,None,3466,28,14371,No,2025-09-23,Stable,This all call care whom same thing national.
+P0522,Sean Bender,98,Other,Diabetes,2025-09-12,Yes,6.66,Private,432,John Hall,None,6817,12,97206,Yes,2025-10-09,Unchanged,He bank out about and listen.
+P0523,Melissa Barker,67,Female,Pneumonia,2025-08-29,Yes,3.42,Private,273,Jeffrey Henderson,LifeLine,3733,18,186158,Yes,2025-10-15,Stable,Party certainly heart success party live when management who Mrs enjoy.
+P0524,Francisco Mann,48,Male,Cardiac Arrest,2025-09-17,Pending,6.92,Surgery,403,Tanner Chavez,MediCare,5242,23,92963,Yes,2025-09-30,Stable,Drop final order father vote home matter owner expert.
+P0525,James Reyes,8,Male,Kidney Failure,2025-08-29,Pending,3.96,ICU,322,Zachary Wilson,Arogya,7344,2,195941,No,2025-10-06,Improved,Remain town cover affect less idea stock happy.
+P0526,Susan Tapia,66,Male,Kidney Failure,2025-09-04,No,1.39,General,176,Michael Ramirez,None,6438,20,54358,Yes,2025-09-24,Stable,Suddenly push ready door smile upon different director education to.
+P0527,Tina Hughes,21,Other,Diabetes,2025-08-28,Under Review,6.6,ICU,421,Joshua Byrd,LifeLine,7911,8,163838,No,2025-10-06,Improved,Hour eight conference particularly write nature have.
+P0528,Brandon Williams,9,Other,Diabetes,2025-09-12,Pending,5.08,Private,469,Barbara Perkins MD,Arogya,5880,12,199303,No,2025-10-03,Stable,According image list choice federal language picture husband.
+P0529,Deanna Padilla,40,Male,Pneumonia,2025-09-14,Pending,9.53,Isolation,306,Toni Bush,MediCare,4967,4,106011,Yes,2025-10-01,Improved,Sure town fact avoid either arm drug suddenly.
+P0530,Douglas Graham,91,Other,COVID-19,2025-09-01,Under Review,10.0,Surgery,225,Michael Chandler,MediCare,1923,3,145355,Yes,2025-09-26,Unchanged,Quickly visit woman participant prevent choice market walk.
+P0531,Kimberly Morton,65,Female,Cardiac Arrest,2025-09-08,Yes,9.16,Private,117,Sandra Crawford,MediCare,3211,17,13714,No,2025-09-19,Stable,Staff before without picture decision drop them speech authority.
+P0532,Tyler Barber,52,Other,Diabetes,2025-09-05,Yes,8.17,General,160,Kevin Snyder,Arogya,6617,15,184193,Yes,2025-10-10,Improved,Democratic position fish possible yeah size.
+P0533,Regina Johnson,18,Other,Cardiac Arrest,2025-08-20,Yes,2.16,Surgery,223,Kristina Price,Private,5254,4,115689,Yes,2025-09-28,Improved,Again water performance like draw bit enter.
+P0534,James Bauer,100,Male,Stroke,2025-08-24,No,8.77,ICU,303,Robert Nguyen,Arogya,6965,17,119151,No,2025-09-19,Stable,Those those state office letter lay night.
+P0535,Chad Christian,68,Female,Cardiac Arrest,2025-09-01,No,8.21,Isolation,350,Jason Nguyen,MediCare,6241,3,185039,Yes,2025-10-11,Stable,Simply east rock name enjoy yes politics imagine alone.
+P0536,Sierra Thompson,73,Other,Kidney Failure,2025-09-07,Yes,3.55,Surgery,254,Jesse Steele,LifeLine,1169,8,185542,No,2025-10-10,Stable,Develop take true measure attorney.
+P0537,Justin Mack,4,Male,Fracture,2025-08-29,Under Review,8.18,Surgery,452,Mr. Timothy Campbell,Arogya,2211,7,26117,Yes,2025-09-28,Stable,It case billion operation father believe.
+P0538,Kara Hartman,23,Female,Kidney Failure,2025-09-08,Yes,7.69,Private,405,Leah Hardin,LifeLine,4361,11,27027,No,2025-10-18,Unchanged,Thousand although civil vote past growth such happy night.
+P0539,Jamie Vincent,25,Male,COVID-19,2025-08-23,Yes,5.92,Isolation,188,Paula Valentine,Private,2804,19,60578,Yes,2025-09-19,Stable,Travel parent American discussion read involve TV.
+P0540,Lisa Barnes,26,Male,Fracture,2025-09-06,No,6.42,Isolation,434,Jennifer Santos,MediCare,6401,12,141471,No,2025-10-09,Improved,I however wonder alone product Congress stay smile.
+P0541,Christine Bullock,8,Other,Cardiac Arrest,2025-09-12,Under Review,1.83,Isolation,481,Maria Williams,MediCare,2160,27,48669,Yes,2025-09-19,Worsened,Return strong within like this community explain his then.
+P0542,Rebecca Walton,32,Other,Diabetes,2025-09-02,Pending,3.3,Isolation,292,Nathan Marks,LifeLine,3926,27,79897,No,2025-09-30,Unchanged,Method message matter share usually rich individual forward.
+P0543,Catherine Parks,5,Female,Hypertension,2025-08-25,Under Review,3.16,Isolation,497,Bryan Wade,Private,5078,22,32011,No,2025-10-17,Stable,Yourself a early about note box hotel.
+P0544,Emily Horne,59,Female,Pneumonia,2025-09-14,No,7.94,Private,454,Derek Morris,MediCare,1253,14,55242,No,2025-10-16,Stable,Early occur over example top moment almost.
+P0545,Toni Gross,7,Female,COVID-19,2025-09-11,Pending,4.59,Isolation,443,Jennifer Reid,Arogya,3001,3,126234,Yes,2025-09-29,Stable,Near rate huge consider grow soon security forget eye.
+P0546,Tyler Mayer DVM,47,Male,Diabetes,2025-08-27,No,1.18,Private,437,Lauren Duran,LifeLine,5731,21,21667,Yes,2025-10-09,Improved,Law actually decide maybe include information somebody always take near.
+P0547,Amy Thomas,91,Other,Stroke,2025-09-13,Yes,2.87,Private,145,Sean Marshall,Private,7070,14,82227,No,2025-10-13,Improved,Fly tax approach race begin on voice.
+P0548,Kelsey Benitez,26,Other,Diabetes,2025-09-05,Pending,4.5,Isolation,498,Paula Ruiz,LifeLine,6700,29,169522,Yes,2025-10-10,Stable,Ten meet certain material personal model student plan improve.
+P0549,Derek Stewart,36,Male,Fracture,2025-09-13,No,4.62,ICU,337,Debra Graham,MediCare,4528,10,62083,Yes,2025-09-28,Improved,Some production near scientist scientist loss.
+P0550,Melissa Clark,48,Male,Fracture,2025-09-17,Yes,6.82,General,432,Adam Kim,LifeLine,3944,5,190542,Yes,2025-09-27,Stable,Series success effort management mention price word book.
+P0551,Jason Fox,60,Female,Kidney Failure,2025-08-20,No,9.59,Isolation,295,Andrew Matthews,Arogya,2690,1,142504,Yes,2025-10-10,Stable,Measure state thought responsibility.
+P0552,Jay Cruz,65,Other,Pneumonia,2025-08-20,Under Review,2.39,General,240,Angel Davis,MediCare,7097,11,117282,Yes,2025-10-01,Stable,Various anyone kitchen power street.
+P0553,Edward Harrison,51,Male,Hypertension,2025-09-01,No,3.69,Private,423,Ricky Hawkins,Private,1731,20,55342,Yes,2025-10-17,Worsened,In word often mind inside scene development fact again many body.
+P0554,Timothy Bradley,82,Male,Cardiac Arrest,2025-08-24,Under Review,8.21,ICU,434,Matthew Palmer,Private,2587,26,176540,Yes,2025-10-16,Improved,Ok account too fish.
+P0555,Holly Lane,16,Female,Diabetes,2025-09-01,No,7.62,Private,327,Brittany Williams,MediCare,4094,12,10845,No,2025-10-07,Improved,Of Republican tend church which serve from your herself old attorney.
+P0556,Christopher Palmer,88,Female,Stroke,2025-09-12,Yes,9.3,ICU,288,Jerry Chang,Private,6232,11,91569,No,2025-10-12,Stable,When some short read evidence question author walk strategy.
+P0557,Nathan Lopez,4,Female,Pneumonia,2025-09-08,Under Review,9.13,Private,105,Joel Smith,None,1884,14,81765,No,2025-10-02,Stable,Some travel truth next night people level option large.
+P0558,Patrick Rivera,31,Female,Diabetes,2025-09-01,Under Review,6.43,Surgery,161,Tracy Rodriguez,MediCare,3243,29,156947,No,2025-10-10,Worsened,Health about anyone between whole.
+P0559,Mary Olson,48,Other,Diabetes,2025-09-18,Yes,4.23,Surgery,159,Marissa Ayala,MediCare,6135,21,101929,Yes,2025-10-06,Unchanged,Certain pay always pick decision likely third bed compare vote.
+P0560,Melissa Parks,63,Other,Fracture,2025-08-25,Under Review,1.87,Surgery,142,Leah Murphy,Arogya,6560,12,40858,Yes,2025-09-27,Improved,Pull television half participant project.
+P0561,Toni Salas,77,Female,Fracture,2025-09-09,No,4.31,ICU,162,Jonathan Warren,MediCare,5463,16,99509,Yes,2025-10-06,Worsened,Social north lot spend growth here foreign eye eight.
+P0562,Sara Thompson,58,Other,Hypertension,2025-08-28,No,2.8,Private,350,Rebecca Marshall,Arogya,4680,10,132225,No,2025-09-30,Improved,Design animal turn significant news idea.
+P0563,William Mills,23,Other,COVID-19,2025-09-03,Under Review,5.01,General,428,Dana Taylor,MediCare,5316,20,158943,No,2025-09-30,Worsened,Lay test politics at price.
+P0564,Jacob Robertson,61,Male,Hypertension,2025-08-25,No,4.49,ICU,442,Robert Sanchez,Arogya,2433,1,192528,No,2025-10-11,Improved,Evidence challenge budget by whether during pay own support worker simply.
+P0565,Emma Chambers,76,Other,Diabetes,2025-08-22,Under Review,3.42,ICU,360,Barbara Howard,Arogya,3173,6,32569,Yes,2025-09-21,Worsened,Central five police price nothing.
+P0566,Sharon Woodward,71,Other,COVID-19,2025-09-03,Pending,6.4,ICU,215,Jennifer Underwood,None,6562,12,158423,No,2025-10-01,Unchanged,Certain area voice describe car agree near Democrat discover.
+P0567,Colleen Williams,45,Female,COVID-19,2025-08-23,No,1.81,Private,111,Kathleen Perez,Private,3857,2,131374,Yes,2025-10-11,Stable,Hundred next official cover professor no themselves.
+P0568,Jamie Murphy,45,Female,COVID-19,2025-09-16,Under Review,4.8,ICU,400,Lance Martinez,LifeLine,3713,10,33111,Yes,2025-10-14,Worsened,On business pattern wall side nice.
+P0569,Pamela Barron,21,Female,Pneumonia,2025-08-25,No,4.31,Surgery,393,Vanessa Carter,Arogya,4203,30,40477,No,2025-10-10,Improved,Affect phone choice common discussion true many billion.
+P0570,Karen Roberts,34,Male,Stroke,2025-09-04,Pending,2.68,General,393,Paul Grant,None,5826,5,33740,No,2025-10-13,Stable,Dark new man growth thousand catch.
+P0571,Travis Ayala,96,Male,Diabetes,2025-09-16,Pending,6.68,Private,345,Brenda Williams,Arogya,4418,30,57841,No,2025-09-23,Stable,State significant forward professional official upon his analysis sport sometimes.
+P0572,Joseph Lozano,89,Female,Kidney Failure,2025-09-08,No,1.84,General,240,Brett Davenport,LifeLine,3263,19,32653,Yes,2025-09-29,Improved,Her able may ahead anyone item.
+P0573,Mark Cannon DVM,12,Male,Pneumonia,2025-09-11,Pending,5.62,Private,455,Kathleen Fowler,MediCare,3533,1,58669,No,2025-10-08,Improved,Sport would watch always sure day indicate last including.
+P0574,Maria Petersen,37,Male,Pneumonia,2025-09-02,No,9.76,Private,481,Margaret Taylor,Arogya,2561,4,93231,No,2025-09-29,Unchanged,Television assume let mention stand coach performance several where.
+P0575,Scott Bautista,4,Other,Diabetes,2025-08-20,Yes,7.09,Private,148,Sally Brown,None,1336,20,164966,No,2025-09-24,Improved,Style grow heart talk phone power surface article stuff ready.
+P0576,Juan Alvarez,50,Other,Diabetes,2025-08-25,Yes,6.83,Private,403,Rebecca Holland,Private,5747,7,174265,Yes,2025-10-12,Improved,Indicate past ground financial when.
+P0577,Jessica Riddle,7,Other,Kidney Failure,2025-09-07,Pending,7.42,General,192,Lindsey Hancock,MediCare,5260,26,15271,No,2025-09-19,Stable,Carry true traditional course up much every science.
+P0578,Erik Roth,21,Female,Kidney Failure,2025-09-14,No,9.38,Surgery,296,Kayla Lynn,Private,6749,11,54390,No,2025-10-08,Stable,Rule wait unit seem man create another short growth.
+P0579,Alexandra Tyler,74,Female,COVID-19,2025-08-24,Yes,5.75,General,347,Edgar Park,LifeLine,3812,17,12736,Yes,2025-10-15,Improved,Hard fire program plant bank mean design safe.
+P0580,Martha Powell,100,Female,Kidney Failure,2025-09-13,Under Review,6.83,Surgery,430,Michael Ross,MediCare,7833,23,67023,Yes,2025-10-09,Improved,Poor commercial too available young under.
+P0581,Christopher Gibbs,28,Male,Kidney Failure,2025-08-25,Under Review,1.76,Private,459,Douglas Hall,Private,6016,25,177233,No,2025-10-05,Unchanged,Each response couple turn not water coach.
+P0582,Tina Riley,29,Other,Cardiac Arrest,2025-09-01,Under Review,5.21,ICU,322,Henry Watkins,None,2007,24,108180,No,2025-10-03,Improved,Discussion too dream weight administration guy practice.
+P0583,Kimberly Turner,83,Other,Stroke,2025-08-29,No,1.71,Private,252,Johnathan Adams,None,4550,17,130677,Yes,2025-09-24,Improved,Hope happy traditional box continue bar large.
+P0584,Judy Ball,29,Female,Fracture,2025-09-18,Pending,8.21,Private,392,David Miller,Private,7515,26,31305,No,2025-10-04,Worsened,Until commercial however factor fine though.
+P0585,Roy Rodriguez,87,Female,Kidney Failure,2025-08-23,No,3.7,Private,164,Mark Tyler,MediCare,4727,19,199864,No,2025-10-17,Unchanged,Event truth run tend tree write hospital training party above.
+P0586,Alyssa Colon,27,Female,Hypertension,2025-09-10,Pending,9.86,Isolation,150,Robert Ramirez,Arogya,5642,23,74679,Yes,2025-09-28,Worsened,Morning certainly now particular rich hand door.
+P0587,Richard Malone,35,Female,Fracture,2025-09-04,No,7.16,Isolation,266,Rebecca Guzman,LifeLine,7492,12,90683,Yes,2025-10-14,Unchanged,Too research cup indicate stuff.
+P0588,Theresa Perez DVM,84,Female,Hypertension,2025-09-11,No,3.7,Surgery,132,Isaac Ramirez,LifeLine,7490,7,188491,Yes,2025-10-02,Improved,Provide shoulder another power hear pass.
+P0589,Alan Walker,53,Female,Cardiac Arrest,2025-09-05,No,3.24,ICU,465,David Nguyen,None,3842,13,178379,Yes,2025-09-26,Worsened,Image manager us sometimes body middle though.
+P0590,Mr. Austin Glenn,66,Female,COVID-19,2025-08-22,Yes,4.85,Isolation,375,Danny Aguilar,MediCare,3362,27,60092,Yes,2025-10-04,Unchanged,Civil end kid ready indicate speech five apply special.
+P0591,Benjamin Phillips,3,Other,COVID-19,2025-09-16,Under Review,6.12,Surgery,194,Michael Lopez,MediCare,1902,19,44795,Yes,2025-09-20,Unchanged,Artist where key either improve.
+P0592,Marie Sanders,100,Male,Kidney Failure,2025-09-01,Under Review,5.96,General,307,Christopher Camacho,LifeLine,1068,2,91392,Yes,2025-10-04,Improved,Billion he environmental base hit animal over summer degree matter.
+P0593,Angela Cruz,99,Male,Fracture,2025-09-05,No,9.26,Isolation,458,Pamela Brown,LifeLine,5087,22,23981,Yes,2025-10-13,Stable,Despite choice Republican investment night.
+P0594,Antonio Whitney,88,Other,Pneumonia,2025-09-15,Under Review,5.62,General,110,Andre Hunter,LifeLine,6615,24,109433,No,2025-10-13,Unchanged,Design forget age long before candidate yard determine.
+P0595,Jillian Gutierrez,2,Other,Pneumonia,2025-09-02,Under Review,5.6,General,301,Tracy Moore,LifeLine,2205,5,195051,Yes,2025-10-10,Unchanged,White similar experience serve fund she leave southern Republican outside.
+P0596,Austin Wood,61,Male,Cardiac Arrest,2025-08-29,Pending,4.72,General,384,Kristy King,Private,4820,13,85255,Yes,2025-09-27,Improved,Off reflect policy especially hope assume expect.
+P0597,Danielle Mueller,17,Female,COVID-19,2025-09-03,Yes,5.18,Isolation,374,Peter Martin,Private,6578,25,56662,Yes,2025-10-13,Stable,Subject beyond nature finally minute half environment staff.
+P0598,John Olson,83,Male,Fracture,2025-09-05,Under Review,7.48,General,371,Debra English,Private,2230,21,83128,No,2025-10-07,Stable,Without scientist born although every fall.
+P0599,Shannon Cole,23,Other,Stroke,2025-09-10,No,8.32,Surgery,350,Anthony White,Private,5285,3,46811,No,2025-09-20,Stable,Much serious if green them law himself whose charge.
+P0600,Jennifer Mccarty,77,Male,Cardiac Arrest,2025-09-13,No,4.2,Surgery,132,Christina Washington,Arogya,3373,3,158121,No,2025-09-21,Worsened,Wonder dog citizen stop prove next.
+P0601,Philip Huff,2,Female,Kidney Failure,2025-08-26,Pending,6.27,Surgery,365,Christopher Davis,None,6110,30,92717,Yes,2025-10-17,Unchanged,Owner customer itself street similar front tend support.
+P0602,Kenneth Barnett,29,Other,Pneumonia,2025-09-13,Under Review,7.92,Isolation,399,Cody Pacheco,LifeLine,5572,8,118523,No,2025-10-02,Stable,Under student fill degree remember participant real catch.
+P0603,Melissa Johnson,33,Other,Stroke,2025-09-13,No,1.15,Isolation,375,Jeff Thomas,Arogya,6442,19,69234,Yes,2025-10-17,Worsened,Attack leader low away sister.
+P0604,Natalie Velez,78,Male,Hypertension,2025-08-29,No,7.66,Private,465,Donald Long,Arogya,2332,17,59347,Yes,2025-10-05,Stable,Every nation center base less main mother others sing simply.
+P0605,Melissa Brooks,40,Other,Hypertension,2025-09-01,Yes,5.17,ICU,433,Stephanie Evans,Arogya,3487,19,81512,Yes,2025-10-18,Worsened,Property indicate short speech rather.
+P0606,Jennifer Fowler,92,Male,Cardiac Arrest,2025-08-30,Under Review,8.08,Private,163,Jason Warren,Private,4988,21,62225,Yes,2025-09-26,Stable,Last enter stock ready although join believe article free physical.
+P0607,Daniel Miller,91,Male,Kidney Failure,2025-09-09,Yes,8.59,General,485,Patrick Ibarra,None,3361,18,56428,No,2025-09-19,Stable,Argue prove recognize personal deal good more long.
+P0608,Adrienne Martinez,83,Other,COVID-19,2025-09-16,Yes,1.41,Isolation,485,Jerome Pacheco,MediCare,1529,24,87314,Yes,2025-09-21,Unchanged,Some great guess rate ask exactly.
+P0609,Brandon Sanchez,36,Other,COVID-19,2025-08-30,Under Review,4.75,Isolation,206,Michael Elliott,None,7551,14,77988,Yes,2025-09-25,Unchanged,Perhaps student everyone low take how Congress yeah member material.
+P0610,Kelly Martinez,55,Male,COVID-19,2025-08-29,Yes,7.34,General,437,Justin Vincent,LifeLine,3414,18,192860,Yes,2025-09-26,Stable,Recently apply thank Mr yes claim vote popular third world.
+P0611,Ashley Alvarez,49,Other,Stroke,2025-09-16,Under Review,3.83,Isolation,160,Michael Bennett,LifeLine,1127,24,125238,No,2025-10-08,Unchanged,Else agent nor box could husband wall pay kitchen there.
+P0612,Bonnie Krueger,45,Other,Hypertension,2025-08-29,Under Review,7.52,Isolation,192,Michelle Duran,Private,4718,4,79348,Yes,2025-10-05,Unchanged,Land run address material claim share impact.
+P0613,Kayla Sullivan,59,Female,Fracture,2025-08-30,Under Review,7.82,Surgery,406,Linda Johnson,Private,1335,28,34225,No,2025-10-07,Worsened,Project develop me game consumer partner institution shoulder.
+P0614,Sara Robinson,33,Other,Cardiac Arrest,2025-09-16,Yes,5.05,ICU,455,Sarah Pratt,MediCare,2780,29,138420,No,2025-10-15,Unchanged,He future its let line simple detail.
+P0615,Connie Harmon,28,Male,Diabetes,2025-09-13,Under Review,8.27,Private,192,Julian Moreno,LifeLine,3318,17,103101,No,2025-10-07,Worsened,Important plan impact that strong inside.
+P0616,Joseph Chapman,60,Male,Cardiac Arrest,2025-09-15,Under Review,4.07,General,102,Tracy Nguyen,Private,7762,26,161701,No,2025-09-20,Unchanged,Suffer create conference purpose security analysis bar national.
+P0617,Dr. Janet Reed,39,Other,Stroke,2025-09-13,No,9.26,Surgery,384,Jonathan Odonnell,None,5858,2,105319,No,2025-10-12,Worsened,Fine and white town individual yourself follow next mission.
+P0618,Eric Roberts,87,Female,Fracture,2025-09-14,Yes,8.29,General,328,Terrence Hays,MediCare,2011,20,101451,Yes,2025-09-25,Unchanged,Red hit three until.
+P0619,Juan Perry DDS,67,Other,Cardiac Arrest,2025-08-24,Yes,2.9,Private,260,Brooke Johnson,MediCare,1435,16,178250,Yes,2025-10-03,Worsened,Prove quickly whole religious feel say little weight care rate term.
+P0620,Brian King,80,Other,Stroke,2025-08-26,Under Review,1.7,ICU,162,Collin Palmer,LifeLine,5000,22,147112,No,2025-09-23,Unchanged,Receive world deep condition store clearly figure body degree.
+P0621,April Ruiz,51,Female,COVID-19,2025-09-08,No,9.84,Isolation,120,Gregory Drake,Arogya,3505,17,127879,Yes,2025-10-16,Improved,Employee report relate meeting camera offer happen number trade policy forget.
+P0622,Wendy Kim,75,Other,Stroke,2025-09-07,No,3.33,Private,165,Erin Case,Private,1041,17,175419,No,2025-10-18,Improved,Pick officer into job expect also course face.
+P0623,Kathryn Strickland,14,Male,Cardiac Arrest,2025-08-21,Pending,7.06,Private,394,Christina Smith,MediCare,4525,15,190103,Yes,2025-10-02,Improved,Deep season cover eye look price want follow.
+P0624,Thomas Mora Jr.,1,Female,Hypertension,2025-08-24,Pending,4.9,General,205,Michelle Evans,None,3885,11,54688,Yes,2025-09-26,Stable,New deep oil visit others.
+P0625,Melissa Adams,66,Female,Cardiac Arrest,2025-08-21,No,1.16,Isolation,434,Amber Porter,MediCare,6408,9,19628,No,2025-10-01,Unchanged,Present the glass trouble eight.
+P0626,Julie Watts,85,Male,Pneumonia,2025-09-08,Yes,4.55,Isolation,182,Natalie King,None,7833,7,163412,Yes,2025-09-20,Worsened,Sometimes carry offer audience skin.
+P0627,Kristine Sims,48,Other,Diabetes,2025-08-20,Yes,1.12,Isolation,144,Maria Pace,Arogya,1005,27,111103,No,2025-09-29,Worsened,Almost federal power crime since should.
+P0628,Morgan Ingram,72,Other,Stroke,2025-09-16,Under Review,6.9,Surgery,387,Daniel Figueroa,LifeLine,1408,19,50816,Yes,2025-10-08,Worsened,Among information fear many that.
+P0629,Rachel Ruiz,83,Female,Kidney Failure,2025-09-04,Pending,5.14,Private,231,Anthony Dixon,Arogya,3059,10,151020,Yes,2025-10-02,Unchanged,Such throw cultural office ever drive exist woman time often.
+P0630,Melanie Diaz,77,Male,Pneumonia,2025-08-30,No,4.65,Private,485,Alex Lyons,LifeLine,2128,30,159084,Yes,2025-09-25,Worsened,Themselves wish science fear draw discover little food worker past avoid.
+P0631,Mary Elliott,78,Female,Cardiac Arrest,2025-08-23,Under Review,6.92,Surgery,117,Wendy Fischer,MediCare,3868,8,65223,Yes,2025-10-02,Worsened,Save able member service pass sound consumer customer.
+P0632,Sarah Moore,37,Other,Stroke,2025-09-01,Yes,7.7,ICU,143,Gina Harrison,Arogya,3320,11,194074,No,2025-10-11,Worsened,Head key human outside start able.
+P0633,Julie Mcguire,39,Other,Diabetes,2025-09-04,Under Review,7.53,Surgery,163,Sara Petersen,Private,7432,8,123732,Yes,2025-10-05,Worsened,Story music spring bit western special animal nor machine dog.
+P0634,Zachary Brown,88,Male,COVID-19,2025-08-24,Under Review,3.73,ICU,359,David Davis,Arogya,5112,26,100943,Yes,2025-10-08,Improved,Rest carry quality from arrive term color herself author mission number.
+P0635,Kayla Weaver,14,Female,Diabetes,2025-08-29,No,8.32,General,252,Maria White,Arogya,6450,25,179347,No,2025-10-07,Improved,Shoulder manager response area especially energy table thought.
+P0636,Meagan Green,62,Female,Pneumonia,2025-08-22,Under Review,6.55,General,286,Donald Smith,MediCare,7298,12,188786,Yes,2025-09-29,Worsened,Response crime realize table.
+P0637,Hector Curtis,9,Other,Kidney Failure,2025-08-26,No,7.22,Private,378,Brian Simmons,MediCare,5593,8,85678,Yes,2025-09-27,Worsened,Forget show go speak phone though his hard number weight.
+P0638,Patrick Rodriguez,44,Male,Hypertension,2025-09-15,Pending,9.67,Surgery,187,John Olson,LifeLine,2270,15,64380,No,2025-10-07,Stable,Morning energy able and camera up nothing.
+P0639,Stacy Chambers,36,Other,Pneumonia,2025-09-10,Under Review,7.08,Surgery,316,Robert King,None,1704,11,99700,No,2025-09-20,Improved,Throw alone another above child while what section participant serious.
+P0640,Michelle Coleman,82,Male,Fracture,2025-09-02,Yes,8.24,Surgery,436,Emily Scott,Arogya,6842,24,193410,No,2025-10-18,Unchanged,Fly describe wall reduce game participant.
+P0641,Jose Butler,42,Other,COVID-19,2025-08-20,Yes,1.79,Surgery,100,Michelle Rodriguez,None,3217,4,142059,No,2025-09-25,Worsened,Guy go turn future realize early who.
+P0642,Mary Moore,36,Other,Hypertension,2025-08-22,Under Review,2.22,Isolation,227,Vicki Lee,Arogya,2168,23,154601,Yes,2025-09-25,Improved,Hear late others nearly give.
+P0643,Robert Davis,34,Male,Cardiac Arrest,2025-09-11,Pending,2.72,Isolation,253,Sue Smith,None,7005,8,80503,Yes,2025-10-17,Worsened,Film hold recognize imagine fact technology wear.
+P0644,Christopher Chaney,84,Other,Cardiac Arrest,2025-09-03,Yes,8.34,General,123,Patricia Ray,LifeLine,2611,15,33791,No,2025-09-21,Unchanged,Phone material news station idea onto thought option late.
+P0645,Allen Williams,92,Male,COVID-19,2025-09-02,Pending,7.26,Isolation,365,Kimberly Bowen,MediCare,4539,24,144551,No,2025-10-05,Stable,Success song help Mrs contain national religious modern.
+P0646,Samantha Phillips,84,Female,Stroke,2025-09-01,Under Review,2.69,ICU,500,Francis Blackwell,Private,5794,29,65239,No,2025-10-04,Worsened,Actually movement in there professor population inside center.
+P0647,Glen Hensley,39,Male,Kidney Failure,2025-08-28,Pending,1.24,Surgery,250,Ryan Frazier,None,1661,14,77689,No,2025-09-20,Improved,Art marriage director finish message thing.
+P0648,Amanda Smith,25,Male,Hypertension,2025-08-22,No,5.33,Isolation,437,Kelsey Harrison,MediCare,3382,12,67214,Yes,2025-10-09,Improved,Family either what majority next try.
+P0649,Tina Thomas,20,Other,Diabetes,2025-09-09,Yes,2.31,General,373,Michael Love,Arogya,2792,3,132601,No,2025-09-24,Improved,Then dog light six for amount.
+P0650,Philip Brown,67,Other,Fracture,2025-08-27,Pending,3.18,Isolation,327,Jonathan King,Arogya,1263,12,78379,No,2025-09-25,Improved,Many support argue trial few.
+P0651,Teresa Ali,98,Other,Cardiac Arrest,2025-08-28,Yes,8.58,ICU,171,Shawn Clark,None,4876,18,18243,Yes,2025-10-09,Stable,Hope certain reduce successful hair great view nothing.
+P0652,Rebecca Jackson,31,Male,Kidney Failure,2025-09-02,Pending,8.72,Private,395,Joseph Cooke,None,3905,17,40224,No,2025-10-06,Stable,Long involve history always office seat surface.
+P0653,Jimmy Snow,8,Other,Kidney Failure,2025-08-30,Yes,5.85,Surgery,351,Andrew Graham,Private,3037,3,145536,No,2025-09-23,Worsened,Seek decade unit summer cover daughter cost blue.
+P0654,Sierra Fitzgerald,77,Other,Kidney Failure,2025-09-11,Yes,1.77,Isolation,455,Maureen Smith,LifeLine,7649,30,182577,Yes,2025-10-17,Worsened,Fish specific mind contain by look.
+P0655,Elizabeth Marshall,52,Female,Stroke,2025-09-10,Under Review,7.93,Private,260,Paula Roth,None,6558,12,175442,Yes,2025-10-13,Improved,Keep across phone beautiful yourself especially.
+P0656,Elizabeth Turner,85,Female,COVID-19,2025-08-23,Pending,2.33,ICU,367,Melissa Martin,Arogya,6218,21,58870,Yes,2025-09-20,Unchanged,Affect through media compare her rise close table single know.
+P0657,Bryan Rios,41,Male,Stroke,2025-09-12,Under Review,4.8,General,280,Mitchell Kim,Private,4164,16,134573,Yes,2025-10-17,Unchanged,Themselves eight measure join let fall position present air.
+P0658,Renee Richardson,88,Male,Cardiac Arrest,2025-08-29,Yes,2.05,ICU,410,Monica Porter,Private,4461,20,46651,Yes,2025-09-30,Improved,Bring senior type easy customer become.
+P0659,Christopher Mueller,18,Female,Stroke,2025-09-06,Pending,9.12,Surgery,375,Jose Nelson,Arogya,4269,8,132485,Yes,2025-10-08,Stable,Machine toward light big agree politics seek window.
+P0660,Tiffany Flores,93,Male,Diabetes,2025-09-15,Pending,7.65,General,361,Jeremy Boyd,Arogya,1803,15,163831,Yes,2025-10-09,Worsened,Partner hold field be game student step same sell.
+P0661,Bailey Ho,4,Male,Cardiac Arrest,2025-08-31,No,5.01,ICU,207,Brett Berry,MediCare,3140,26,94670,Yes,2025-10-11,Worsened,Memory boy place last sign boy about candidate experience.
+P0662,Laura Hall,84,Female,Stroke,2025-09-12,Yes,5.37,Surgery,452,Samantha King,None,3474,14,107591,No,2025-10-02,Improved,Yes end election design probably create summer.
+P0663,Lisa Pena,64,Female,COVID-19,2025-09-09,No,1.18,Isolation,150,Jason Pearson,Private,5890,8,157788,No,2025-10-18,Unchanged,Week fall edge air particular approach group.
+P0664,Denise Stokes,38,Male,Fracture,2025-09-15,No,5.05,ICU,439,Douglas Smith,None,3545,19,109066,Yes,2025-10-13,Unchanged,Use ball common course color minute.
+P0665,Frank Evans,34,Male,Kidney Failure,2025-09-02,Pending,3.18,General,122,Scott Ball,Arogya,2419,27,182570,Yes,2025-10-04,Improved,Its science pay very air ready million capital.
+P0666,Rebecca Lindsey,54,Other,Diabetes,2025-09-08,No,3.65,General,221,Pamela Brooks,MediCare,5619,27,164243,Yes,2025-10-15,Improved,Style of boy event difficult share shake right fund phone style.
+P0667,Joe Gibson,52,Male,Fracture,2025-08-25,Yes,8.47,ICU,118,Lori Russell,Private,4570,5,18873,No,2025-10-14,Worsened,Least help game hotel need on mother purpose strong.
+P0668,Nicole Padilla,50,Other,Pneumonia,2025-09-14,Under Review,4.53,Isolation,196,James Anderson,MediCare,6561,30,94507,Yes,2025-10-09,Worsened,Dinner despite mouth form develop stuff card different use total.
+P0669,Heather Sparks,95,Female,Diabetes,2025-09-17,No,4.0,Private,172,Kendra Mccormick,LifeLine,3641,18,193838,No,2025-10-12,Worsened,None nature idea sort send production population certain resource.
+P0670,Gina Payne,5,Female,COVID-19,2025-09-18,No,1.92,General,253,Marissa Freeman,Private,7589,8,37423,No,2025-10-06,Worsened,Event huge simply benefit eat enjoy statement need them.
+P0671,Lauren Torres,75,Female,Diabetes,2025-09-07,Pending,8.63,General,210,Roy Sosa,MediCare,5736,25,175012,No,2025-09-20,Improved,Black power so top ability single.
+P0672,Michelle Case,91,Female,COVID-19,2025-08-31,Pending,4.89,Private,168,Tony Price,LifeLine,2140,30,104079,No,2025-10-11,Worsened,Fish important best quite risk edge herself manager water.
+P0673,Miguel Walker,74,Male,Fracture,2025-09-18,Pending,4.74,Surgery,408,Tamara Scott,MediCare,6597,14,12070,Yes,2025-09-26,Stable,Century agree investment not discover.
+P0674,Charles Patel,25,Male,Diabetes,2025-08-23,Under Review,5.46,ICU,382,Lisa Robinson,Arogya,7288,22,51615,No,2025-10-14,Unchanged,Hit government total get war.
+P0675,Laurie Turner,44,Other,Stroke,2025-09-02,Pending,6.21,Isolation,210,Elizabeth Holmes,None,2634,19,120469,No,2025-09-21,Stable,Four trade debate training perform guy send glass.
+P0676,Bailey Jackson,93,Female,Kidney Failure,2025-08-26,Yes,7.58,ICU,402,Kristina Graham,LifeLine,3048,22,134648,No,2025-10-01,Stable,Little tree that again sport west majority north.
+P0677,Michelle Stevens,92,Male,Hypertension,2025-08-30,Yes,9.99,Private,283,Robert Alexander,Private,2111,5,97742,Yes,2025-09-30,Unchanged,Bit mother fire radio order.
+P0678,Mrs. Stephanie Snow MD,29,Other,Fracture,2025-09-04,Pending,1.33,Surgery,242,Mark House,None,4410,20,98256,Yes,2025-10-05,Worsened,Message success interview wall together establish word beautiful cell message attorney.
+P0679,Jessica Bowers,88,Other,COVID-19,2025-09-12,Pending,4.6,ICU,165,Robert Williams,MediCare,5540,9,179838,No,2025-10-13,Unchanged,New scene step media focus difference.
+P0680,Norman Novak,69,Other,Fracture,2025-09-07,Under Review,5.62,General,473,Jacob Jackson,LifeLine,2634,26,36268,Yes,2025-10-04,Improved,Church mission suddenly official oil note nation summer return determine.
+P0681,Alicia Richardson,82,Female,COVID-19,2025-08-23,Under Review,7.52,Private,418,Taylor Rios,None,3466,10,59050,Yes,2025-10-13,Improved,Doctor claim create Democrat conference low weight dinner grow Mr.
+P0682,William Mills,61,Other,Fracture,2025-09-18,Yes,9.42,Isolation,316,Gregory Willis,None,3498,11,103848,Yes,2025-10-18,Worsened,Call fast hear front control write doctor rich material do.
+P0683,Manuel Jordan,86,Female,Stroke,2025-09-13,Under Review,9.15,Isolation,138,Paul Williams,MediCare,1701,11,90288,Yes,2025-10-12,Improved,Onto race ahead kitchen account product high.
+P0684,James Scott,46,Other,Fracture,2025-08-26,Pending,8.81,General,381,Deborah Rice,Arogya,3435,4,52662,Yes,2025-09-22,Worsened,Pull good letter money part.
+P0685,Alexis Schultz,65,Other,Diabetes,2025-09-18,Under Review,3.09,ICU,230,Jacob Lewis,None,5642,3,132379,Yes,2025-10-16,Worsened,Quality off including build feeling three civil.
+P0686,Tara Lowery,39,Other,Fracture,2025-09-02,Pending,1.55,General,233,Monique Hall,None,6147,14,153334,Yes,2025-09-26,Stable,Project fight modern laugh can true few suffer.
+P0687,Michael Zamora,22,Male,Fracture,2025-09-18,Yes,1.17,Surgery,295,Kylie Wong,Private,4777,14,58800,Yes,2025-10-11,Unchanged,Together later real meeting probably similar simple expert international site.
+P0688,Roy Savage,85,Female,Kidney Failure,2025-09-02,No,6.19,Isolation,432,Carl Duran,None,5471,17,15701,No,2025-10-14,Improved,Appear short action various in democratic population nation.
+P0689,Mark Wood,72,Other,Pneumonia,2025-09-06,Under Review,5.98,Isolation,183,Jacob Marquez,MediCare,2502,5,125083,No,2025-09-27,Unchanged,Money find industry oil yourself.
+P0690,Gregory Hernandez,24,Female,Pneumonia,2025-08-24,Yes,3.41,ICU,304,Crystal Reid,MediCare,4079,19,171641,Yes,2025-10-17,Unchanged,Too piece alone ever young far upon result create allow reduce.
+P0691,Amanda Day,38,Female,Fracture,2025-09-16,Yes,6.83,Isolation,333,Kimberly Norton,LifeLine,7409,16,129654,No,2025-09-24,Worsened,Customer myself bring we west.
+P0692,Jonathan Jordan,13,Other,Kidney Failure,2025-08-20,Under Review,9.0,General,142,Austin Stevenson,MediCare,7830,21,165602,No,2025-10-10,Stable,Away guess interview modern.
+P0693,Nancy Avila,61,Other,Fracture,2025-09-01,No,2.05,General,230,Carol Cunningham,None,4579,29,160985,No,2025-09-27,Improved,Attorney opportunity example prove his as today else hope.
+P0694,Jake Schneider,17,Male,Cardiac Arrest,2025-09-01,Pending,6.6,General,446,Michael Valdez,None,1786,25,192058,Yes,2025-10-01,Unchanged,Development heavy wind fish on baby leave how.
+P0695,Denise White,95,Other,Kidney Failure,2025-09-12,Yes,6.82,Private,317,Ms. Destiny Stephens,LifeLine,2135,7,124024,No,2025-09-25,Unchanged,Enter from call answer production course sure.
+P0696,Zachary Lee,34,Female,Diabetes,2025-09-05,Yes,5.03,Isolation,455,Benjamin Parker,None,5313,29,114682,No,2025-09-21,Unchanged,Radio run result where year.
+P0697,Veronica Tanner,93,Female,Diabetes,2025-09-02,No,4.93,Isolation,173,Sydney Miller,Arogya,4620,6,134144,Yes,2025-10-06,Improved,Clearly charge away organization buy major early animal anything.
+P0698,Craig Brown,72,Male,Stroke,2025-09-15,Pending,2.45,General,374,Tammy Harper,MediCare,6686,29,73855,No,2025-10-05,Unchanged,Everyone performance behavior every computer.
+P0699,Mark Malone,98,Other,Hypertension,2025-08-30,Yes,7.54,Surgery,204,Jennifer Daniels,Arogya,3566,15,76210,No,2025-09-28,Worsened,Dinner road strong eight candidate ready should.
+P0700,Calvin Burton,24,Female,Stroke,2025-08-26,No,5.22,Surgery,136,Paul Williams,Arogya,5127,1,199627,No,2025-09-27,Stable,Million realize stay type win.
+P0701,Jack Lopez,88,Female,Fracture,2025-09-03,Under Review,4.94,Private,422,Theresa Friedman,Private,6612,6,107836,Yes,2025-10-11,Stable,Human focus energy leg man support so capital work improve send.
+P0702,Sandra Sanchez,43,Female,COVID-19,2025-08-20,No,5.57,Surgery,475,Taylor Gill,None,6837,4,167533,No,2025-09-22,Worsened,Respond others account if evening child he like.
+P0703,Jessica Nelson,84,Female,Pneumonia,2025-08-27,No,6.29,General,237,Tiffany Brown,LifeLine,3929,14,98572,No,2025-10-11,Unchanged,Fight sort hope almost imagine ask.
+P0704,Kevin Rivas,12,Female,Fracture,2025-08-31,Yes,7.16,Surgery,424,Timothy Thomas,None,4836,9,136499,No,2025-10-01,Worsened,Create around for fill anything nearly administration American.
+P0705,Samantha Peters,29,Other,Fracture,2025-08-28,Pending,9.3,Isolation,456,Toni Larson,MediCare,3901,25,187879,Yes,2025-10-13,Improved,Wife attack every law think outside.
+P0706,Ruben Ayala,46,Male,Cardiac Arrest,2025-08-25,Under Review,8.68,Private,430,Susan Ellis,Arogya,4503,18,115159,No,2025-09-29,Improved,Watch want card drive product behavior what military do.
+P0707,Sara Nelson,29,Other,Stroke,2025-08-22,No,7.44,General,198,Misty Fisher,None,4821,23,88688,No,2025-10-14,Unchanged,Form animal hold nice college.
+P0708,Erin Howard,96,Male,COVID-19,2025-08-31,Under Review,5.22,ICU,465,Emily Jones,MediCare,4444,30,20519,No,2025-10-14,Improved,It executive simple local guy way do.
+P0709,Amy Lam,40,Female,COVID-19,2025-08-30,Pending,8.95,General,290,Deanna Roberson,Private,4360,16,71421,No,2025-10-15,Unchanged,Drop window stop some area many range response walk.
+P0710,Nicholas Baxter,54,Male,COVID-19,2025-08-28,Under Review,7.51,Isolation,388,Tracy Williams,LifeLine,4778,24,142896,Yes,2025-10-04,Worsened,Property western because someone outside ball news.
+P0711,Daryl Shelton,43,Male,Cardiac Arrest,2025-09-11,Under Review,4.51,ICU,436,Brian Martin,None,1226,4,38273,No,2025-10-13,Unchanged,Change game challenge though allow exactly happy side.
+P0712,Paula Phillips,48,Male,Kidney Failure,2025-09-01,Yes,4.75,Isolation,431,Abigail Marshall,LifeLine,5578,5,120358,No,2025-09-28,Unchanged,Help soldier remain issue answer west likely thank.
+P0713,Christopher Ortiz,34,Other,Pneumonia,2025-08-21,Pending,9.47,Surgery,361,Dr. Joann Smith,LifeLine,1216,28,121645,Yes,2025-09-20,Unchanged,Class expect majority party street answer how result officer political.
+P0714,Amy Lewis,75,Other,Hypertension,2025-08-31,No,6.87,General,409,Regina Garza,Arogya,7281,2,80611,No,2025-09-19,Improved,Environment change must half attention start brother perhaps.
+P0715,Christina Harris,38,Female,Fracture,2025-08-23,Yes,4.24,Surgery,183,Willie Martin,Private,4448,27,161385,No,2025-10-07,Improved,If laugh same guess often free kind allow interesting.
+P0716,Donald Zimmerman,60,Male,Hypertension,2025-09-06,Yes,5.25,Private,314,Jonathan Dixon,MediCare,1724,14,115054,Yes,2025-09-28,Unchanged,Candidate mouth treatment unit rather senior have open staff year.
+P0717,Thomas Klein,16,Male,Kidney Failure,2025-09-07,No,9.74,Surgery,178,Michelle Cantu,Private,7191,1,165471,Yes,2025-10-02,Improved,Break newspaper leader lose ago well everybody.
+P0718,Karen Sanders,61,Male,Fracture,2025-09-15,Pending,2.46,Isolation,261,Dylan Campbell,None,2151,23,17485,Yes,2025-10-05,Improved,Other hair hope ten thought agree available week.
+P0719,Megan Tran,7,Male,Diabetes,2025-08-21,Under Review,2.86,Isolation,322,Sean Harrell,MediCare,6039,6,52998,Yes,2025-09-29,Improved,Note short speech any fact director account behavior meet.
+P0720,Robert Rogers,82,Female,Hypertension,2025-08-31,Pending,7.22,Isolation,294,Jeffrey Ward,Arogya,3477,3,144271,No,2025-10-02,Worsened,Support bed campaign situation miss seat watch source.
+P0721,Alex Taylor,75,Other,Hypertension,2025-09-02,Pending,1.78,Surgery,113,Brenda Pittman,None,7444,5,53616,Yes,2025-09-28,Worsened,Paper knowledge before address family dinner nation.
+P0722,Jeffrey Ortega,75,Other,Fracture,2025-09-14,Under Review,5.35,ICU,409,Jessica Burns,None,2987,17,88795,Yes,2025-10-08,Stable,Week measure trade somebody.
+P0723,Nicholas Bryant,80,Male,Fracture,2025-09-06,Under Review,2.56,ICU,226,Richard Pearson,LifeLine,5754,28,166460,No,2025-09-23,Unchanged,Hundred increase company cost street.
+P0724,Mr. Gregg Bradford,10,Other,COVID-19,2025-08-20,Under Review,2.41,Private,139,Mary Moore,MediCare,5195,17,192879,Yes,2025-10-04,Stable,Usually senior value night kind.
+P0725,Richard Burke,61,Male,COVID-19,2025-09-10,Pending,5.43,Isolation,238,Maria Farley,LifeLine,4056,30,147385,No,2025-10-13,Worsened,Modern institution behind surface say benefit benefit only.
+P0726,Brandy White,25,Female,Cardiac Arrest,2025-08-24,No,8.14,Private,163,Robert Lee,MediCare,2042,13,62025,No,2025-10-18,Improved,Already eye audience speak lot.
+P0727,Kyle Fisher,65,Female,Diabetes,2025-08-23,Pending,9.49,Private,372,Janet Huerta,None,6086,29,158894,No,2025-10-12,Unchanged,Kitchen work line other choose customer want what check prove catch.
+P0728,David Blake,16,Other,Cardiac Arrest,2025-08-30,No,5.44,Isolation,156,Jessica Drake,Arogya,5450,14,46581,No,2025-10-13,Stable,Card in investment represent today simply.
+P0729,Brian Sullivan,88,Male,Stroke,2025-08-29,Pending,3.11,Surgery,450,Sandra Webster,Arogya,5633,12,44050,Yes,2025-10-09,Worsened,A season what service develop enjoy.
+P0730,Michael English,49,Female,Diabetes,2025-09-02,No,6.01,General,380,Jorge Watson,LifeLine,3403,5,183908,Yes,2025-09-30,Worsened,Fire nature boy hour painting poor season treatment training war.
+P0731,Timothy Nunez,68,Other,COVID-19,2025-09-06,Under Review,9.99,Isolation,308,Michael Smith,MediCare,1438,13,97332,No,2025-09-26,Unchanged,Where find decision recent space teacher system risk.
+P0732,Robert White,39,Female,COVID-19,2025-09-05,Pending,4.23,General,133,Andrew Taylor,LifeLine,7187,23,24103,Yes,2025-09-29,Stable,Garden claim want animal physical.
+P0733,Gary Luna,53,Female,COVID-19,2025-08-25,Pending,3.35,General,268,Nicole Boone,MediCare,7923,18,33697,Yes,2025-10-05,Worsened,Memory word church one mention.
+P0734,April Taylor,7,Male,Pneumonia,2025-09-05,Yes,7.09,Surgery,427,Mr. Larry Ward,Arogya,4216,8,91074,Yes,2025-10-02,Worsened,Serve book establish price see seven shake lay break send.
+P0735,Jamie Lewis,20,Other,Fracture,2025-09-17,No,2.57,Isolation,145,Craig Colon,None,2031,23,47083,Yes,2025-09-29,Improved,Various clear whom up than.
+P0736,Kristen Caldwell,18,Male,Hypertension,2025-08-20,Pending,8.74,Isolation,285,David Smith,MediCare,4300,10,100728,Yes,2025-10-03,Unchanged,Century as popular open hit south.
+P0737,Donald May,26,Other,Hypertension,2025-08-30,Pending,5.53,Isolation,270,Kathryn Gonzales,Arogya,6489,4,130248,No,2025-10-16,Improved,Thing someone I carry size.
+P0738,Aaron Gentry,44,Female,Kidney Failure,2025-09-12,Under Review,8.26,General,498,Kimberly Yang,None,1048,11,113807,Yes,2025-10-04,Unchanged,Particularly clear fish place but record father himself design within.
+P0739,Julie Johnson,53,Male,Hypertension,2025-09-06,No,4.04,Surgery,239,Jennifer Medina,None,4791,29,53343,Yes,2025-10-07,Stable,Discuss article idea experience.
+P0740,Stephen Hughes,73,Male,COVID-19,2025-09-08,No,2.03,ICU,174,Jeremy Jones,Private,7614,27,130740,No,2025-10-05,Worsened,Manage worker pull teach realize.
+P0741,John Parsons,59,Male,Diabetes,2025-09-13,Pending,3.04,Isolation,215,Christopher Brown,LifeLine,7250,29,10221,Yes,2025-10-02,Improved,Hotel future agreement relationship record he record of young easy.
+P0742,Kevin Trujillo,19,Male,Diabetes,2025-09-09,No,6.06,ICU,240,Mrs. Tammy Brown,Arogya,5243,11,182650,Yes,2025-10-11,Improved,Father deep cultural south expect natural number exist.
+P0743,Becky Richmond,41,Other,Cardiac Arrest,2025-09-12,No,5.38,General,105,Amanda Miller,LifeLine,4770,19,48663,No,2025-10-13,Stable,Effect mind almost all information.
+P0744,Elizabeth Mack,92,Other,Diabetes,2025-09-02,No,9.94,General,150,Gordon Carney,MediCare,7874,20,62535,Yes,2025-09-24,Unchanged,Environment bill new catch over travel hand role and.
+P0745,Heather Aguilar,24,Male,Kidney Failure,2025-08-29,No,8.06,Private,293,Erin Daniels,MediCare,1445,20,55106,Yes,2025-10-01,Unchanged,Member according outside reflect less he ask write science.
+P0746,Jessica Stevens,100,Male,Diabetes,2025-09-10,No,7.92,Surgery,213,Jonathan Green Jr.,None,1693,4,88979,Yes,2025-10-08,Worsened,Anyone itself certainly perform necessary hundred policy head.
+P0747,Brandon Carter,11,Other,Cardiac Arrest,2025-09-09,Yes,7.93,Private,293,Jessica Hodges,Arogya,1448,24,90616,Yes,2025-10-08,Improved,Theory score fine great weight prove range.
+P0748,Lauren Wilson,63,Other,Pneumonia,2025-09-06,Yes,6.01,ICU,153,Sharon Williams,Arogya,3213,2,31069,Yes,2025-10-04,Unchanged,Her indicate western four exactly site.
+P0749,Cassandra Santana,43,Male,Hypertension,2025-09-08,Pending,9.07,General,500,Mrs. Patricia Terry DDS,LifeLine,7798,3,58390,No,2025-10-15,Unchanged,Focus eat agent mind charge production red.
+P0750,Jason White,81,Other,Hypertension,2025-09-13,No,8.68,Isolation,163,Stephanie Reyes,LifeLine,6323,24,71914,Yes,2025-09-26,Worsened,Movie interesting woman safe source whole.
+P0751,Daniel Schmitt,23,Male,Cardiac Arrest,2025-08-20,Under Review,8.86,Isolation,189,Dr. Douglas Nelson,Arogya,1876,30,63299,No,2025-09-30,Unchanged,Reveal front understand dream box after nice do ok.
+P0752,Miss Cheryl Bender,41,Male,COVID-19,2025-09-16,Pending,6.44,Surgery,369,Megan Brown,None,3731,12,124438,Yes,2025-10-06,Improved,Sense author meet glass by many else discuss.
+P0753,Dr. Timothy Green,82,Male,Diabetes,2025-09-14,Pending,1.94,ICU,472,Kayla Carter,None,5868,15,33636,No,2025-09-26,Improved,Camera dark each sister anyone consumer later month per.
+P0754,Mary Smith,8,Female,Cardiac Arrest,2025-08-21,No,1.45,Private,256,Samuel Davis,None,1797,30,199827,No,2025-09-20,Stable,End involve citizen each ground stop various take staff treatment.
+P0755,Yvonne Rosales,1,Male,Diabetes,2025-08-31,No,9.52,ICU,401,Jonathan Lucas,Private,7733,14,74155,No,2025-09-30,Unchanged,Significant week off by raise phone despite single player difficult.
+P0756,Arthur Li,58,Other,Cardiac Arrest,2025-08-25,Yes,8.19,ICU,350,Patricia Finley,LifeLine,3380,21,50406,No,2025-10-01,Stable,However memory garden address attention nice.
+P0757,Crystal Choi,36,Female,COVID-19,2025-09-07,Pending,9.66,Surgery,148,Laura Marsh MD,None,5632,15,189493,No,2025-10-11,Improved,My TV college herself people six than often science.
+P0758,Raymond Willis,27,Other,Stroke,2025-08-24,Pending,7.8,Private,370,Janice Sanchez,Arogya,4944,24,155581,No,2025-10-02,Unchanged,Rate ready baby wide else age perhaps most gun.
+P0759,Kevin Chapman,98,Other,Hypertension,2025-09-11,No,9.77,Isolation,278,Ronald Mcclain,Private,6657,27,108109,No,2025-09-20,Improved,Anything from cost center toward building field general rock.
+P0760,James Bartlett,100,Other,Diabetes,2025-08-30,Pending,8.03,Isolation,458,Roger Williams,None,3714,14,11296,Yes,2025-10-09,Worsened,Strong practice way listen any impact building Republican politics and.
+P0761,Mark Evans,22,Male,Stroke,2025-08-21,Under Review,6.49,General,392,Joel Patterson,MediCare,1498,10,135132,No,2025-10-15,Worsened,Again need wish few fill whole character student world.
+P0762,Aaron Phillips,74,Other,Stroke,2025-08-28,No,8.73,Private,244,Shannon Small,Private,1994,25,51767,Yes,2025-10-04,Stable,Long manager they season local of chance pattern point.
+P0763,Mike Brown,98,Other,Hypertension,2025-08-22,Pending,1.92,General,382,John Baker,Private,7065,16,100364,Yes,2025-09-25,Unchanged,Assume movement there work opportunity leader mind weight town.
+P0764,Charles Meyer,21,Other,Fracture,2025-08-23,Yes,6.06,Surgery,238,Ryan Morris,LifeLine,5789,23,36191,No,2025-09-24,Unchanged,Marriage administration nice their high enough old say Republican since.
+P0765,Nicholas Lamb,63,Female,Diabetes,2025-08-27,Yes,5.57,ICU,411,Jesse Rodriguez,MediCare,6524,5,133417,No,2025-09-19,Improved,He first stage local big.
+P0766,Jesse Campbell,98,Male,Stroke,2025-09-08,Under Review,2.5,Isolation,150,Michael Smith,Private,5184,24,154134,Yes,2025-10-12,Improved,Although security stock section yourself participant fill power whether.
+P0767,Terry Rodgers,100,Male,Cardiac Arrest,2025-08-31,Under Review,2.06,ICU,124,Meghan Bennett,Private,7056,6,190036,Yes,2025-09-26,Unchanged,Time figure have reason official difficult resource.
+P0768,Lisa Haynes,12,Female,Fracture,2025-09-09,No,2.85,ICU,187,Kristin Spears,LifeLine,6873,24,113297,Yes,2025-09-20,Stable,Left hospital off consumer wait behind.
+P0769,Lisa Sweeney,17,Other,Hypertension,2025-09-15,Under Review,4.25,Isolation,262,Natalie Ortiz,Arogya,1434,25,193180,No,2025-10-18,Stable,Build share idea her reason certain result wall.
+P0770,Sarah Coleman,79,Female,Hypertension,2025-08-20,Pending,7.56,Isolation,484,Raymond Williams,Arogya,6747,19,65703,Yes,2025-09-22,Worsened,Term anything town central join somebody light forget threat myself.
+P0771,Charles Anthony,56,Female,Pneumonia,2025-09-09,No,7.37,Private,299,Nicole Reyes,MediCare,2679,30,133812,Yes,2025-10-14,Stable,Send participant heavy newspaper writer skill expert walk strategy cup democratic.
+P0772,Jocelyn Long,82,Male,Pneumonia,2025-08-29,Yes,7.86,Isolation,192,Shannon Burton,LifeLine,5229,27,185226,No,2025-10-04,Unchanged,Government magazine particular leave sometimes yes hope.
+P0773,Jason Rodriguez,55,Male,Fracture,2025-09-03,Pending,5.49,General,276,Dawn Phillips,None,2180,30,108642,Yes,2025-09-19,Worsened,Difference forward describe win threat clear sign industry usually defense.
+P0774,Kathy Bell,52,Female,Fracture,2025-08-22,Pending,8.83,Isolation,479,Francis Frey,LifeLine,5604,17,131499,Yes,2025-10-13,Improved,Score position model exist accept.
+P0775,Bryan Baker,55,Other,Diabetes,2025-09-01,Under Review,2.39,ICU,447,Margaret French,None,7065,3,195132,No,2025-10-03,Worsened,Physical loss young until system hot.
+P0776,Colin Rubio,62,Male,Diabetes,2025-08-20,Pending,4.27,ICU,372,Jillian Garcia,Arogya,5057,5,73633,Yes,2025-10-08,Worsened,Front too girl fire believe run either.
+P0777,Laura Garcia,50,Other,Kidney Failure,2025-08-29,No,8.37,Private,382,Steve Edwards,MediCare,2117,29,35119,No,2025-10-03,Improved,Bit she compare card sense through marriage look.
+P0778,Mrs. Allison Rojas DDS,1,Male,Hypertension,2025-09-11,Under Review,2.11,ICU,404,Valerie Jackson,None,2831,1,111600,No,2025-09-22,Worsened,Kid Republican one write attorney.
+P0779,Mackenzie Smith,5,Other,Cardiac Arrest,2025-08-20,Pending,2.82,General,306,Andrea Rosario,Arogya,6535,19,43686,Yes,2025-10-04,Unchanged,Again stuff beat land effect during science herself.
+P0780,Margaret Phillips,69,Other,Fracture,2025-08-31,Yes,9.73,Private,344,Jill Horn,Private,6240,19,93455,Yes,2025-10-09,Stable,Anyone recent within all draw.
+P0781,Candice Thomas MD,26,Other,Hypertension,2025-08-24,Under Review,7.92,Isolation,403,Johnny Gordon,MediCare,7981,12,45003,No,2025-09-27,Unchanged,Change all cold necessary lawyer forward.
+P0782,Amanda Guzman,94,Female,COVID-19,2025-09-16,Yes,1.06,Isolation,165,Thomas Lee,None,2267,22,114827,Yes,2025-09-28,Worsened,Official right wife move perhaps.
+P0783,Jorge Logan,48,Male,Hypertension,2025-09-08,No,8.51,Isolation,232,Ryan Holt,LifeLine,3464,21,95750,Yes,2025-09-26,Unchanged,Process tell read grow mention trip rise smile newspaper under.
+P0784,Angela Wheeler,2,Other,Pneumonia,2025-09-17,Yes,5.26,ICU,104,Kristi Richard,None,6146,15,84237,No,2025-10-03,Improved,Military none type particular seven authority one rather everybody since.
+P0785,Elizabeth Brown,42,Other,Stroke,2025-09-17,Pending,3.58,ICU,451,Stephanie Carson,Private,3546,13,186881,Yes,2025-09-29,Worsened,Goal economic fight form same term.
+P0786,Robert Torres,97,Female,Kidney Failure,2025-09-08,Yes,2.54,Surgery,362,Joseph Larson,MediCare,6891,11,121304,No,2025-09-27,Unchanged,Fact involve year almost radio low hot pretty.
+P0787,Cody Sharp,68,Female,Fracture,2025-09-18,Under Review,3.39,General,465,Juan Wilson,MediCare,1052,15,166483,Yes,2025-09-20,Improved,According picture drug reduce social medical.
+P0788,Todd Hays,25,Other,Pneumonia,2025-08-22,No,7.44,Isolation,179,Marco Buchanan,LifeLine,7599,6,113245,Yes,2025-09-24,Improved,Thank last keep include true performance plant believe consider.
+P0789,James Elliott,3,Other,Pneumonia,2025-08-26,Under Review,4.74,General,436,Seth Morris,LifeLine,4972,17,150015,Yes,2025-10-01,Unchanged,Miss use scene different small however his deal.
+P0790,William Brewer,87,Male,Pneumonia,2025-08-27,Pending,6.66,Isolation,164,Melissa Carson,None,6109,24,28784,No,2025-10-01,Stable,Traditional run black course account short allow after treatment.
+P0791,William Lamb,1,Male,Hypertension,2025-09-11,Yes,3.21,Private,173,Dawn Young,Private,6634,19,100929,Yes,2025-10-03,Stable,After usually security plant author day personal.
+P0792,Christopher Jones,81,Female,Kidney Failure,2025-09-09,Pending,7.78,General,293,Megan Gonzales,LifeLine,2644,9,138007,No,2025-10-01,Stable,Identify suggest determine discover short your.
+P0793,Dustin Scott,94,Female,Pneumonia,2025-09-08,Yes,5.77,General,390,Elizabeth Barron,Private,1939,25,185604,No,2025-10-13,Unchanged,Sit music action end deep.
+P0794,Peter Meadows,32,Male,Diabetes,2025-08-27,No,8.08,ICU,476,Zachary Randolph,None,1550,4,163728,Yes,2025-10-13,Worsened,Kitchen subject game discover own create only show.
+P0795,Zachary Duran,29,Male,Fracture,2025-09-05,No,2.24,Surgery,236,Dawn Lewis,LifeLine,1000,8,17050,Yes,2025-09-30,Unchanged,Hope go hospital stock attention from may.
+P0796,Donald Trujillo,89,Male,Diabetes,2025-08-31,Pending,4.86,ICU,127,Cheryl Evans,Arogya,2253,10,68115,No,2025-09-30,Improved,Inside prevent right clear officer join Mr.
+P0797,Cynthia Brown,45,Male,Diabetes,2025-09-16,No,9.26,General,471,Andrew Jones,LifeLine,5946,16,169520,Yes,2025-10-12,Unchanged,Cold economic central participant state minute.
+P0798,Joseph Sandoval,40,Other,Cardiac Arrest,2025-08-20,Yes,9.08,Private,427,Cristian Vazquez,LifeLine,1991,11,56703,No,2025-09-26,Worsened,Human state hotel over fine where be race.
+P0799,Kyle Smith,17,Other,Fracture,2025-08-23,Yes,9.57,ICU,289,Marcus Turner,Private,5258,2,71645,Yes,2025-09-21,Stable,Myself according go shake into forward movie how morning.
+P0800,Jason Richmond,14,Other,Kidney Failure,2025-09-12,Under Review,5.65,Surgery,462,Mrs. Sara Ortiz,MediCare,1793,19,106765,No,2025-09-22,Worsened,Statement clear series than second once table prove either from.
+P0801,Brian Fisher,50,Female,Fracture,2025-09-12,Yes,7.14,Isolation,498,Stephen Edwards,Arogya,3025,17,104969,No,2025-09-21,Unchanged,Adult within remain reason network particular conference.
+P0802,Dylan Welch,65,Male,Fracture,2025-09-14,Under Review,9.49,General,227,Melissa Miller,Arogya,2673,29,99089,Yes,2025-10-07,Worsened,Cup entire last party keep best.
+P0803,Jason Martin,76,Other,Fracture,2025-08-29,No,4.98,ICU,447,Kimberly Greene,MediCare,1848,17,141453,No,2025-10-04,Improved,Like song education someone decade.
+P0804,Suzanne Richardson,40,Male,Fracture,2025-08-22,Under Review,7.93,ICU,411,Marie Shaw,Arogya,4880,19,10417,Yes,2025-09-29,Unchanged,Which system some second main word.
+P0805,Sandra Hamilton DDS,22,Male,Cardiac Arrest,2025-08-25,Pending,7.46,Private,314,Tiffany Goodwin,Arogya,1201,17,170056,Yes,2025-09-26,Stable,Cut reality economic myself pay hour house act.
+P0806,Tanner Ray,9,Female,Diabetes,2025-09-07,Yes,5.66,General,461,Amanda Gutierrez,Private,7821,28,167068,No,2025-09-21,Unchanged,Expect too like local drug measure sell something.
+P0807,Anthony Grant,6,Other,Stroke,2025-08-28,Pending,1.63,Isolation,334,Heidi Burns,MediCare,5143,30,114380,No,2025-10-08,Unchanged,Activity sister last oil hot.
+P0808,Jeffrey Lindsey,39,Other,Stroke,2025-08-26,Under Review,4.04,Private,193,Carmen Porter,None,4635,14,30255,Yes,2025-10-01,Stable,Your available country vote change.
+P0809,Amanda Guerra,38,Male,Hypertension,2025-08-22,No,4.61,General,324,Mark Smith,None,4200,10,179234,No,2025-09-29,Stable,Result garden news nothing them offer.
+P0810,Justin Baker,59,Other,Stroke,2025-08-28,Under Review,7.95,General,281,Paula Smith,None,1455,11,70312,No,2025-10-02,Improved,Direction thing song responsibility imagine claim.
+P0811,Cynthia Thompson,94,Other,Fracture,2025-08-27,Pending,4.91,ICU,339,Duane Hopkins,None,1997,13,46196,Yes,2025-10-05,Worsened,Produce seek know in face treatment media.
+P0812,Samuel Smith,67,Male,Pneumonia,2025-08-29,Under Review,4.54,Surgery,357,Charles Graham MD,Arogya,3456,11,141058,No,2025-10-15,Stable,Debate dog smile draw challenge at part.
+P0813,Dennis Clay,77,Male,Fracture,2025-09-15,Pending,1.33,General,246,Michael Moore,Arogya,4314,25,59275,No,2025-10-04,Stable,Executive personal everybody what sound exist professional.
+P0814,Robin Allen,68,Female,COVID-19,2025-09-16,Yes,9.3,Isolation,241,William Lester,Private,4962,6,21599,Yes,2025-10-06,Improved,Every officer threat very beautiful size in choose.
+P0815,Christina Doyle,44,Other,Cardiac Arrest,2025-09-16,Pending,2.36,ICU,319,Adam Lucas,None,2507,5,65373,No,2025-10-07,Improved,Build out series skin guess account traditional individual.
+P0816,Ralph Lopez,56,Male,Stroke,2025-08-26,Pending,6.17,Surgery,366,Bradley Smith,Private,7719,2,89151,No,2025-10-17,Stable,At real road plant left that song mind.
+P0817,Caleb Ellis,88,Other,Cardiac Arrest,2025-08-30,Pending,9.8,ICU,467,Allison Fuentes,Arogya,2924,27,124137,Yes,2025-09-22,Improved,Chance mouth wonder officer less check blood.
+P0818,Morgan Lewis,18,Other,Hypertension,2025-09-03,Pending,9.82,Isolation,217,John Hudson,MediCare,7895,24,34340,Yes,2025-10-15,Improved,Should include first bill eat high hour.
+P0819,Richard Ferrell,44,Male,Hypertension,2025-08-24,Under Review,8.19,Private,256,Mary Wright,LifeLine,7944,29,99020,Yes,2025-10-18,Stable,Reason push someone fast significant anything alone job phone oil common.
+P0820,Michael King,63,Other,Hypertension,2025-09-18,Yes,8.88,Isolation,425,Miguel Figueroa,None,5478,24,110680,No,2025-10-16,Unchanged,Dark may see soon whom.
+P0821,Kimberly Turner,46,Other,Cardiac Arrest,2025-09-04,No,9.75,ICU,144,Kelli Brown,None,3132,7,181453,Yes,2025-10-17,Unchanged,Second sign onto find board available.
+P0822,Austin Bartlett,97,Female,Hypertension,2025-09-13,Under Review,4.77,Surgery,256,Christopher Villegas,Arogya,7731,14,57153,No,2025-10-09,Unchanged,Better reach will number their stage affect less.
+P0823,Daniel Arnold,25,Other,COVID-19,2025-09-11,Under Review,8.97,ICU,308,Joshua Fowler,LifeLine,6019,17,121597,No,2025-10-14,Stable,Design gas actually change exactly paper indeed form.
+P0824,Susan Villegas,22,Female,COVID-19,2025-08-24,Under Review,7.31,ICU,494,Mary Barber,Private,6581,9,49517,No,2025-09-26,Worsened,Various shoulder create officer role authority.
+P0825,Kimberly Atkinson,52,Female,Hypertension,2025-08-24,Pending,8.86,Isolation,260,Brandi Rodriguez,Private,4597,19,84701,Yes,2025-10-17,Unchanged,Relationship project American reason student us doctor a.
+P0826,Jeffrey Parker,3,Male,Hypertension,2025-08-25,No,7.49,General,146,Cole Alvarado,LifeLine,6391,29,91550,Yes,2025-10-17,Stable,Often health together name western type out bed arrive glass.
+P0827,Sharon Estrada,30,Other,Diabetes,2025-08-30,Under Review,3.82,General,424,Jeremy Adams,Private,6055,20,111401,No,2025-09-21,Worsened,Hundred future computer year good dog.
+P0828,Olivia Graham,29,Other,Hypertension,2025-09-03,Under Review,4.1,Private,140,Michael Hines,None,2009,11,187018,No,2025-10-16,Worsened,Exactly cut begin culture best apply employee several sort.
+P0829,Joseph Lopez,94,Female,Pneumonia,2025-09-11,No,8.44,General,139,Anthony Morrison,None,4541,4,136000,No,2025-10-08,Stable,Answer everybody contain example large month create the plan network knowledge.
+P0830,Richard Gould,17,Male,Cardiac Arrest,2025-09-18,Yes,9.1,General,473,Matthew Williams,Arogya,2198,12,19129,No,2025-09-24,Worsened,Wonder certain service quickly majority of measure building.
+P0831,Christopher Roman,28,Female,COVID-19,2025-09-13,No,6.49,ICU,222,Heather Morales,None,6211,10,78424,No,2025-09-22,Worsened,So institution exist hand happy program.
+P0832,Kayla Watson,94,Female,Stroke,2025-08-20,No,2.32,ICU,147,Sean Cox,Arogya,1177,6,120555,No,2025-10-04,Improved,Business know onto movement pattern maybe represent national say laugh.
+P0833,Elizabeth Stout,3,Female,COVID-19,2025-09-01,Pending,4.64,Isolation,184,Valerie Holmes,Private,2513,4,57059,No,2025-10-03,Stable,Wish common story news think.
+P0834,Kristi Porter,76,Other,Cardiac Arrest,2025-09-10,Under Review,6.79,ICU,394,Joshua Nelson,MediCare,2160,10,52871,Yes,2025-10-16,Improved,Protect section executive design analysis win off.
+P0835,Heather Foster,65,Other,Fracture,2025-08-31,Pending,8.99,ICU,129,Catherine Singh,MediCare,7705,9,114389,Yes,2025-10-01,Worsened,Itself choice wrong most loss girl morning station.
+P0836,Amy Miller,22,Other,Fracture,2025-09-07,Yes,6.62,Private,143,Amanda Hayes,MediCare,7099,16,188871,Yes,2025-09-29,Improved,Language yet condition traditional what.
+P0837,Terry Gibson,16,Other,Cardiac Arrest,2025-09-10,Under Review,6.56,General,480,Ryan Harvey,MediCare,6385,15,145619,No,2025-10-18,Stable,Member activity study when home oil tonight phone boy huge.
+P0838,Stephen Marshall,47,Male,Kidney Failure,2025-08-20,Yes,4.98,ICU,246,Sheena Ritter,MediCare,2971,8,37900,Yes,2025-10-06,Unchanged,Style charge only again indeed share artist fast always box director.
+P0839,Stephanie Crawford,92,Female,Cardiac Arrest,2025-09-02,Yes,4.11,General,383,Heather Turner,Private,2398,29,131876,No,2025-10-18,Improved,Theory thus certain everyone build mean.
+P0840,Carrie Harper,84,Male,Fracture,2025-09-01,Under Review,8.31,ICU,352,Joshua Anderson,None,5190,6,31663,Yes,2025-09-27,Improved,Development size national decision old prepare must those skin difficult.
+P0841,Alyssa Moon,5,Female,Cardiac Arrest,2025-09-07,Pending,6.84,General,105,Cheryl Mason,MediCare,7075,10,100777,No,2025-09-22,Stable,Institution loss than feel painting perhaps maintain.
+P0842,Gerald Green,49,Female,Stroke,2025-08-21,Under Review,7.98,General,317,Timothy Fleming,None,6731,30,189847,No,2025-10-09,Stable,Able call spring without cut series enjoy draw mouth former.
+P0843,Karen Gonzalez,82,Male,Kidney Failure,2025-09-09,No,8.93,ICU,446,Lisa Curtis,Private,5478,9,36582,Yes,2025-09-28,Stable,Building himself tree today tree energy impact may amount.
+P0844,Robert Thompson,33,Male,Pneumonia,2025-08-30,Under Review,1.76,Isolation,360,Rebecca Kline,Private,2641,20,181932,No,2025-09-21,Improved,But play traditional follow improve involve fund someone parent.
+P0845,Michelle Bernard,99,Female,Cardiac Arrest,2025-09-18,No,5.84,Surgery,474,Frank Shah,MediCare,4900,25,116030,No,2025-09-20,Worsened,Education night son beyond accept common than everyone fight price already.
+P0846,Caroline Ross,69,Other,Pneumonia,2025-08-26,No,4.51,ICU,169,Stephanie Trujillo,None,4935,4,13204,No,2025-09-23,Stable,Beyond nature both happen home.
+P0847,Audrey Reed,80,Other,Diabetes,2025-08-26,No,7.47,Private,345,Kathryn Morgan,Private,3375,30,52174,Yes,2025-10-18,Stable,Quickly mother north smile yeah.
+P0848,Kristy Johnson,7,Female,Fracture,2025-09-12,Under Review,8.92,Private,354,Kimberly Vaughn,Private,3371,8,93630,Yes,2025-10-14,Improved,Again value behind turn suggest leg drop time mind.
+P0849,Paul Larson,77,Female,Fracture,2025-09-06,Pending,5.68,Surgery,363,Oscar Webb,MediCare,6468,22,43748,Yes,2025-10-09,Improved,Strategy compare send despite race race over control tonight.
+P0850,Karina Sanchez,7,Male,Stroke,2025-08-25,Under Review,5.87,General,450,James Hogan,Arogya,1819,9,160649,Yes,2025-10-14,Improved,Public state training land individual.
+P0851,Christina Lloyd,85,Male,Fracture,2025-08-24,Yes,2.92,Surgery,446,Alison Strong,None,5823,5,142899,Yes,2025-10-05,Improved,Per interesting itself short role significant industry pretty.
+P0852,Michelle Wilson,14,Other,Hypertension,2025-09-08,Pending,5.61,General,372,Ryan Meadows,LifeLine,5038,4,110660,Yes,2025-10-01,Unchanged,Animal garden hot growth consumer in difference central.
+P0853,Cathy Hall,84,Other,Kidney Failure,2025-08-22,Pending,3.81,Surgery,457,Robin Hernandez,LifeLine,4009,7,189909,No,2025-10-02,Unchanged,Want find expert how soon.
+P0854,Lisa Hill,3,Male,Cardiac Arrest,2025-09-04,Under Review,4.07,Isolation,163,Peggy Griffin,None,6469,18,129194,No,2025-10-10,Worsened,Represent piece politics finish use official assume shoulder line determine upon.
+P0855,Patricia Martin,7,Other,Pneumonia,2025-08-28,Under Review,6.72,Isolation,307,Tabitha Johnston,Private,3254,27,13037,No,2025-10-01,Worsened,Force test choice hope year response simple.
+P0856,Mike Collins,89,Other,Stroke,2025-09-16,No,1.21,ICU,107,Elizabeth Santiago,None,4204,17,137438,Yes,2025-09-28,Stable,Tell ago style school girl best participant.
+P0857,David Martinez,15,Male,Kidney Failure,2025-09-15,Yes,9.01,General,415,Ashley Smith,MediCare,4160,25,181394,No,2025-10-15,Unchanged,Expert worker suddenly answer.
+P0858,Mrs. Tara Erickson MD,54,Other,Kidney Failure,2025-08-26,Yes,5.86,General,197,Joseph Hancock,LifeLine,6715,6,185687,No,2025-10-01,Worsened,Consumer rule artist partner adult drop budget community.
+P0859,Michelle Gonzales,57,Male,Diabetes,2025-09-14,No,3.33,ICU,481,Amy Hensley,None,7552,1,115304,No,2025-10-02,Stable,Join add pretty poor learn rest.
+P0860,Jennifer Taylor,49,Female,Pneumonia,2025-09-14,Pending,8.49,Private,103,Tracy Ford DDS,MediCare,1879,20,120744,Yes,2025-10-03,Worsened,Well mind across conference agreement keep.
+P0861,Savannah Wallace,16,Other,Diabetes,2025-08-31,Pending,3.74,Private,465,Lynn Patel,Arogya,4800,29,24289,No,2025-09-24,Stable,Forget former total our lose degree.
+P0862,Gregory Herman,71,Male,Pneumonia,2025-09-12,Under Review,4.8,General,317,Lindsay Taylor,None,4415,2,89417,No,2025-10-16,Stable,Issue another like task assume let worker view change center.
+P0863,Henry Shannon,33,Other,Stroke,2025-09-15,Yes,5.55,ICU,459,Holly Mcdaniel,None,7664,29,121406,Yes,2025-09-26,Improved,Collection movie against during realize wide teach.
+P0864,Barbara Jenkins,61,Female,Hypertension,2025-08-26,Pending,7.59,Isolation,373,Steven Jones,None,4480,18,77803,Yes,2025-10-13,Stable,Congress floor base citizen project range know the particularly.
+P0865,Ellen Harris,90,Female,Fracture,2025-09-17,Under Review,8.57,Private,483,Andrew Bullock,MediCare,2213,18,176230,Yes,2025-10-16,Improved,Onto take whose magazine property.
+P0866,Megan Cox,20,Female,Pneumonia,2025-09-03,No,3.34,ICU,276,Ana Marshall,Arogya,1229,26,40397,Yes,2025-10-16,Improved,Ok cut draw marriage safe detail Republican live foot establish.
+P0867,Adam Cruz,27,Male,Stroke,2025-08-21,Under Review,5.57,Isolation,225,Katherine Williams,LifeLine,3321,7,168239,No,2025-10-05,Worsened,Building job able yeah author.
+P0868,Jeffrey Cook,89,Male,Kidney Failure,2025-09-03,No,2.11,General,478,Ashley Francis,Private,4744,1,128035,Yes,2025-10-15,Stable,Relationship industry report identify animal body.
+P0869,John Bauer,88,Female,Diabetes,2025-09-10,Yes,7.81,Isolation,438,Chad Smith,Arogya,1984,16,141612,No,2025-10-03,Unchanged,Agreement firm year significant like billion story.
+P0870,Justin Lloyd,81,Other,COVID-19,2025-08-30,Yes,9.47,General,370,Suzanne Nelson,Arogya,5622,27,107733,No,2025-10-15,Stable,Happen use international whom represent wind course expert nothing plant.
+P0871,Devon Hayes,2,Other,COVID-19,2025-09-04,Pending,5.04,ICU,450,Gail Edwards,Arogya,4190,27,134137,Yes,2025-10-05,Unchanged,Would only more hand class these respond able indeed.
+P0872,Carrie Johnson,39,Female,Cardiac Arrest,2025-09-10,Under Review,6.15,Private,411,Rebecca Glenn,Arogya,1090,1,196652,No,2025-09-29,Improved,Paper half nothing about step student how.
+P0873,Craig Martinez,54,Female,Pneumonia,2025-08-25,Yes,1.05,Surgery,121,Corey Rogers,None,5755,12,97834,No,2025-09-23,Worsened,I smile as season across general boy instead everything.
+P0874,Brian Lewis,85,Other,Pneumonia,2025-09-12,Pending,4.05,Private,410,Douglas Tate,LifeLine,3480,7,150253,No,2025-09-25,Improved,Baby bill new director although.
+P0875,Mr. Peter Ellis,13,Female,Hypertension,2025-09-13,Under Review,3.12,ICU,329,Daniel Kennedy,MediCare,1279,10,105646,No,2025-09-26,Improved,Bed evening list news nice toward.
+P0876,Rachel Berry,85,Other,Stroke,2025-09-13,Under Review,7.71,ICU,186,Scott Kelly,None,6284,19,39274,No,2025-10-10,Stable,Top job offer say give degree be reveal.
+P0877,Derek Meyer,67,Female,Diabetes,2025-09-18,Pending,6.23,General,445,Christopher Jenkins,MediCare,6328,14,56881,Yes,2025-10-15,Unchanged,Sport value opportunity court door so sea relate visit.
+P0878,Adam Clark,35,Other,Kidney Failure,2025-08-28,Under Review,7.43,Isolation,491,Rebecca Howard,MediCare,6383,24,121166,No,2025-09-20,Unchanged,North anything particular scene board degree candidate also.
+P0879,Donna Carey,80,Female,Stroke,2025-09-14,Yes,9.44,Private,368,April Fowler,MediCare,6078,15,149385,No,2025-09-25,Unchanged,That building truth inside state research field.
+P0880,Chris Bowman,78,Other,Kidney Failure,2025-08-27,Pending,6.99,Surgery,215,Teresa Macdonald,LifeLine,4641,17,110524,Yes,2025-10-16,Worsened,Local someone radio behavior tell.
+P0881,Kirk Compton,90,Female,Fracture,2025-09-14,Yes,8.6,Isolation,189,Austin Johns,Arogya,1349,5,186873,No,2025-10-10,Improved,Sort require if wrong store though character federal worker.
+P0882,Timothy Smith,18,Male,Hypertension,2025-09-06,Pending,3.1,ICU,138,Christopher Morrison,Private,3905,27,30973,No,2025-09-23,Improved,Long item artist player economy newspaper.
+P0883,Kayla Houston,54,Female,Hypertension,2025-09-13,No,3.69,Surgery,287,Timothy Harrell,Private,2141,15,49423,No,2025-10-03,Unchanged,Detail and rest school eye chance rather staff.
+P0884,Brian Rodriguez,14,Other,Hypertension,2025-09-15,Yes,7.0,Surgery,168,Timothy Macdonald,Arogya,4833,10,11823,Yes,2025-10-15,Unchanged,Per whole so myself but man quality pattern field reveal.
+P0885,Stephanie Collins,66,Other,Fracture,2025-09-16,No,8.34,General,363,Christine Harris,Arogya,6923,30,98372,Yes,2025-10-08,Improved,Include card small moment price sea find finally catch sometimes.
+P0886,Darryl Turner,93,Female,COVID-19,2025-09-08,Pending,6.15,Private,280,Kyle Clark,LifeLine,4754,4,195483,No,2025-09-22,Unchanged,Change direction notice image his collection where.
+P0887,Christopher Hall,80,Male,Stroke,2025-09-08,Under Review,2.26,ICU,126,David Cooke,Private,3268,23,164705,No,2025-09-26,Unchanged,Color wide house bed people wife something million.
+P0888,Katherine Lewis,16,Female,COVID-19,2025-08-30,No,4.4,Surgery,316,Caitlin Rodriguez,None,1074,23,77590,No,2025-10-06,Worsened,Production president another door total hold.
+P0889,Terrence Young DVM,37,Other,Cardiac Arrest,2025-09-18,Pending,7.64,Private,353,Melinda Lang,LifeLine,2296,30,61803,Yes,2025-09-28,Stable,Provide ability laugh per pressure rise open campaign believe tough.
+P0890,Jordan Landry,15,Other,Pneumonia,2025-08-30,No,1.95,Isolation,294,Misty Lopez,Private,3930,28,144976,No,2025-09-25,Unchanged,Use moment story like no ground quality go war school.
+P0891,Steven Mitchell,14,Female,Cardiac Arrest,2025-09-11,Yes,5.65,General,187,Austin Richardson,None,5101,4,171092,Yes,2025-10-09,Worsened,Movement focus north impact present future build control.
+P0892,Amanda Williams,64,Female,Hypertension,2025-08-27,Pending,2.73,Private,291,Ann Davis,LifeLine,5122,15,129272,No,2025-10-18,Stable,Nice hard how nature PM letter drive strong modern.
+P0893,Terry Hernandez,26,Female,Pneumonia,2025-08-24,Pending,8.01,General,157,Mary Parker,Private,2726,29,124003,No,2025-09-19,Worsened,Television smile guy reveal its line full medical film.
+P0894,Michael Mcbride,78,Other,COVID-19,2025-08-29,Under Review,5.09,Private,273,Abigail Salazar,None,3857,14,22725,Yes,2025-10-10,Worsened,Upon road arrive interview large fear all.
+P0895,Barbara Phelps,26,Female,Diabetes,2025-09-08,Pending,2.32,Isolation,447,John Lam,MediCare,6785,16,131834,No,2025-10-17,Improved,Special skill food speak rule affect imagine own inside.
+P0896,Jeffery Smith,100,Other,Diabetes,2025-08-24,Yes,4.83,ICU,227,John Moore,Private,5301,9,83849,No,2025-09-20,Improved,Thought energy world debate little course.
+P0897,Amanda Kelley,34,Female,Cardiac Arrest,2025-09-04,Pending,4.71,Private,376,Katrina Brewer,None,4199,3,20444,Yes,2025-10-09,Stable,Degree require they throughout agreement per nice first firm.
+P0898,Paul Williams,67,Other,Kidney Failure,2025-09-14,Pending,1.83,ICU,492,Andrea Watson,LifeLine,5202,28,41863,Yes,2025-09-27,Stable,Same throw and ability conference other.
+P0899,Melissa Campbell,26,Male,Kidney Failure,2025-09-14,Yes,4.82,Surgery,160,Brian Hanna,None,1514,5,138351,No,2025-10-06,Worsened,Across put prepare eat particularly quickly.
+P0900,Michael Gilbert,46,Other,COVID-19,2025-08-30,No,2.17,Surgery,248,Kristen Jones,LifeLine,2429,9,130651,No,2025-10-13,Stable,Ten or that most yes cover rich movie.
+P0901,Samantha Rosario,91,Male,Cardiac Arrest,2025-09-10,No,2.93,Isolation,253,Julie Castro,None,6373,24,106234,No,2025-09-29,Improved,Rich lay baby scientist some election natural write conference positive.
+P0902,Ryan Cox,53,Other,COVID-19,2025-09-07,Yes,1.7,Isolation,347,Leah Herrera,Arogya,2240,22,23126,Yes,2025-10-03,Improved,Describe treat perhaps special under north fire.
+P0903,Erin Wilcox,38,Male,Stroke,2025-08-31,No,7.09,Surgery,250,Katelyn Keller,Private,3882,4,167110,No,2025-10-14,Unchanged,Option hair real important.
+P0904,John Knight,21,Female,Stroke,2025-08-23,Pending,4.62,General,235,Steven Long,LifeLine,6373,12,189932,Yes,2025-09-22,Improved,Environment mind all interview concern party finally as decision all.
+P0905,Eric Garcia,6,Other,Pneumonia,2025-09-07,Pending,6.03,Surgery,209,Ian Davis,None,6891,26,106808,No,2025-10-16,Unchanged,Behavior myself agency describe minute.
+P0906,Kathleen Carey,71,Male,Stroke,2025-09-18,Pending,8.01,Surgery,101,Pamela Sparks,LifeLine,5613,3,76145,No,2025-10-06,Unchanged,Necessary parent Congress determine top within hold south.
+P0907,Megan Rodriguez,64,Male,Stroke,2025-09-05,Pending,8.85,ICU,477,Christine Powell MD,MediCare,3779,24,121595,No,2025-10-01,Worsened,Indicate news camera member.
+P0908,Sarah Obrien,27,Male,Kidney Failure,2025-08-26,Pending,6.26,General,423,Stanley Clark,LifeLine,4764,26,98463,No,2025-09-22,Stable,Per line indeed particularly enjoy father green like part wind.
+P0909,Rachel Odonnell,89,Other,Cardiac Arrest,2025-09-08,Yes,6.73,ICU,391,Kenneth Li,Private,6858,8,186946,No,2025-10-09,Improved,Responsibility effort start most news.
+P0910,William Johnson,62,Female,Pneumonia,2025-08-31,Pending,9.97,Surgery,301,John Allen,MediCare,7444,24,87632,No,2025-10-18,Unchanged,Dark world remain low hear politics people.
+P0911,Isaac Moore,43,Female,Kidney Failure,2025-09-03,No,7.2,ICU,211,Valerie Cox,Private,2147,3,16168,Yes,2025-10-11,Improved,Usually still wonder evidence send big sell school box mission.
+P0912,Andrea Murphy,31,Other,Kidney Failure,2025-09-06,Yes,9.53,Private,256,Daniel Gonzalez,None,3280,11,152278,Yes,2025-10-04,Stable,Various or occur help modern job church.
+P0913,Lori Taylor,1,Other,Diabetes,2025-09-15,No,7.59,General,429,William Parks,Arogya,7430,6,80054,No,2025-10-17,Unchanged,Yet remember decade mother increase house war.
+P0914,Dana Gomez,2,Other,Cardiac Arrest,2025-08-21,Pending,4.75,Isolation,363,Jenny Rogers,Private,7247,17,56852,Yes,2025-10-02,Stable,Appear maybe consider ready toward road series.
+P0915,Rodney Lynn,86,Other,Fracture,2025-09-15,Pending,2.47,General,118,Jessica Carpenter,LifeLine,6393,11,86871,Yes,2025-09-28,Improved,Cup audience mouth hear if learn set boy.
+P0916,Brittany Romero,12,Other,COVID-19,2025-08-22,Under Review,5.55,Surgery,337,Justin Gonzalez,Arogya,3481,9,103555,Yes,2025-10-05,Improved,Kid south factor protect factor left general.
+P0917,Nathaniel Norris,15,Male,Kidney Failure,2025-08-27,Under Review,5.36,ICU,416,Michael Marsh,LifeLine,4227,15,119329,No,2025-10-11,Unchanged,Sport small force word practice.
+P0918,Michael Schmidt,74,Male,Kidney Failure,2025-08-22,Pending,5.12,ICU,349,James Simon,MediCare,1558,21,14592,No,2025-10-04,Improved,Western moment law say expert believe company.
+P0919,Thomas Gardner,86,Female,Hypertension,2025-09-13,No,9.71,General,129,Erik Miller,MediCare,7875,24,127118,Yes,2025-09-27,Worsened,Same everybody party day parent learn best reach baby eight.
+P0920,Vanessa Smith,64,Other,Hypertension,2025-09-15,Yes,5.62,Private,282,Marc Dunn,MediCare,6284,17,95100,No,2025-10-03,Worsened,Campaign class record his table.
+P0921,David Hall,20,Male,Cardiac Arrest,2025-09-11,No,5.76,Isolation,103,Dustin Riley,None,4962,22,88035,Yes,2025-09-30,Unchanged,Fine lot south recently modern fact and do son money.
+P0922,Edwin Bowen,12,Male,Fracture,2025-08-29,No,7.25,Private,415,James James,MediCare,4084,25,176719,Yes,2025-10-07,Worsened,Star term friend able everyone edge may amount guess.
+P0923,Maria Lutz,100,Male,Hypertension,2025-09-11,No,5.1,General,335,Mason Delgado,Private,4864,3,19336,Yes,2025-10-06,Worsened,Lot image nature ball have responsibility far leave possible everybody.
+P0924,Danielle Hudson,66,Female,Fracture,2025-09-08,No,1.29,General,268,Michael Scott,LifeLine,5963,23,166179,Yes,2025-10-02,Improved,Cold step protect book lead science.
+P0925,James Brown,10,Other,Hypertension,2025-09-01,Yes,2.41,Isolation,252,Lydia Peterson,MediCare,6398,23,39277,No,2025-09-30,Worsened,Result no against society ahead.
+P0926,Michael Hickman,93,Female,Kidney Failure,2025-09-16,Under Review,6.03,General,281,Bryan Vargas,Private,2477,11,103649,No,2025-10-18,Worsened,Meet Republican once later many cup able agreement ready.
+P0927,Michael Nelson,93,Male,Hypertension,2025-09-04,Under Review,9.3,ICU,154,Evan Wolfe,Private,5718,29,19597,Yes,2025-10-10,Unchanged,Develop itself change sign teach wear.
+P0928,Tracey Lawrence,13,Male,Diabetes,2025-08-21,Yes,2.07,General,102,Monique Johnston,MediCare,6804,30,149268,No,2025-09-28,Improved,Green try size trip free stop.
+P0929,Joseph Thompson,33,Female,Cardiac Arrest,2025-09-04,Yes,8.67,Surgery,279,John Sherman,Private,5153,2,113865,No,2025-10-01,Stable,Least avoid husband camera process argue.
+P0930,Erika Crane,83,Male,Stroke,2025-09-05,No,1.99,Isolation,469,Andrea Hubbard,None,7352,14,75176,No,2025-09-27,Stable,Enjoy threat likely example while choice use throw account site.
+P0931,Brenda Villarreal,30,Female,Kidney Failure,2025-09-18,Yes,4.33,Private,195,Charles Vega,MediCare,6397,4,55936,Yes,2025-09-26,Stable,Size office indicate attorney mean politics student be.
+P0932,Patrick Walker,59,Male,Cardiac Arrest,2025-09-01,Under Review,3.61,General,305,Lisa Woodard,LifeLine,5304,30,32032,No,2025-09-19,Stable,Game stop believe fight few watch itself anything board Mr.
+P0933,Kathryn Summers,38,Other,COVID-19,2025-08-30,Pending,5.7,Private,281,Benjamin Perry,None,3123,23,150243,Yes,2025-10-18,Stable,Material country television industry career him.
+P0934,Elizabeth Dennis,34,Male,Kidney Failure,2025-08-21,Pending,2.06,Private,104,Sharon Nelson,Arogya,2060,26,34791,No,2025-09-24,Stable,When water American up appear message green.
+P0935,Kayla Brown,60,Other,Kidney Failure,2025-09-01,Pending,3.74,ICU,151,Julie Black,LifeLine,6716,17,43044,Yes,2025-10-11,Unchanged,Debate political scene address before result pass strong TV.
+P0936,Thomas Herrera,7,Female,Pneumonia,2025-08-27,No,4.37,Surgery,320,Valerie Mendez,LifeLine,3654,11,47917,No,2025-10-13,Stable,Network cause care usually official ok image mouth.
+P0937,Lori Gonzalez,13,Female,Fracture,2025-09-13,Under Review,3.65,Isolation,351,Margaret Reynolds,LifeLine,5823,7,175916,Yes,2025-09-24,Unchanged,Give wide act herself whether house half part.
+P0938,Diana Harding,23,Other,Stroke,2025-09-11,Pending,1.25,Private,201,Steven Burns,Arogya,5757,27,139355,No,2025-09-24,Worsened,Foreign only film deep stock several place.
+P0939,Joshua Valencia,6,Other,Cardiac Arrest,2025-09-15,No,2.29,ICU,143,Claire Bishop,LifeLine,3851,18,123010,Yes,2025-09-24,Worsened,World president enjoy most north family remember pattern resource.
+P0940,Donald Delgado,38,Other,Kidney Failure,2025-08-23,Pending,8.05,General,370,Michelle Smith,Private,5788,22,82009,Yes,2025-10-03,Improved,Field time half role design letter song affect work huge.
+P0941,Carolyn Garcia,47,Female,Diabetes,2025-09-02,Yes,4.8,Private,363,Beverly White,LifeLine,6058,27,100540,Yes,2025-10-12,Stable,Performance option evidence contain business save rest.
+P0942,Roberto Harris,87,Other,Fracture,2025-08-27,Yes,9.43,Private,178,Jonathan Anderson,None,7798,29,130070,No,2025-10-04,Stable,Son mouth sit open right light fear range.
+P0943,Johnathan Mccarty,41,Other,Diabetes,2025-09-09,No,3.75,General,310,Stephanie Campbell,Arogya,4307,21,190615,Yes,2025-10-12,Unchanged,Policy center feeling nature court visit hotel.
+P0944,Melissa Wood,55,Male,Fracture,2025-08-21,No,3.55,General,163,Brittany Morris,MediCare,1553,2,171806,No,2025-10-03,Improved,One draw could chair imagine friend reflect understand.
+P0945,Suzanne Webb,95,Male,Pneumonia,2025-09-01,No,2.65,Surgery,349,Courtney Cruz,Arogya,1368,21,73989,Yes,2025-09-29,Improved,Chance push accept those great remain character.
+P0946,Latasha Shelton,15,Other,Stroke,2025-08-30,No,7.66,ICU,103,Joyce Davis,MediCare,1241,21,147247,Yes,2025-09-22,Worsened,Sure continue cost car fear move.
+P0947,Felicia Mckee,13,Female,Kidney Failure,2025-09-18,Pending,1.02,General,179,Michael Neal,LifeLine,7979,1,159177,Yes,2025-10-04,Unchanged,Show American half determine fill music table up officer.
+P0948,David Davis,98,Female,Cardiac Arrest,2025-08-20,No,5.93,General,493,Carol Bush DDS,MediCare,7003,8,130171,Yes,2025-10-10,Stable,Edge help series myself during.
+P0949,Devin Flores,6,Male,Stroke,2025-08-26,No,1.61,Surgery,436,Brianna Russell MD,Private,2303,5,20653,No,2025-10-05,Unchanged,Truth several couple majority situation western than be.
+P0950,Tina Cox,2,Male,Diabetes,2025-09-09,No,1.4,Isolation,228,Caitlin Vaughn,MediCare,2898,19,30063,Yes,2025-10-07,Worsened,Reality ever traditional store anyone.
+P0951,John Harris,18,Other,Pneumonia,2025-08-29,Yes,5.33,Surgery,215,Pamela Johnston,MediCare,1790,13,95613,Yes,2025-09-30,Stable,What she through method local memory.
+P0952,Megan Harris,85,Other,Hypertension,2025-09-13,Under Review,3.79,Private,340,Jason Lee,None,6449,28,107726,Yes,2025-10-01,Unchanged,Tell enjoy sell charge economy while quite computer.
+P0953,Robert Lewis,83,Female,COVID-19,2025-09-16,Yes,5.07,General,302,Dylan Howard,Private,1870,8,20036,No,2025-10-01,Stable,Home everybody song sign total attorney operation result prove.
+P0954,Colleen Cervantes,22,Male,Kidney Failure,2025-09-01,Yes,4.04,Isolation,291,Christopher Myers,MediCare,5091,22,48469,Yes,2025-10-13,Stable,Player student program would send add.
+P0955,Jesse Herrera,43,Male,Hypertension,2025-09-12,Yes,4.4,ICU,253,Denise Jackson DVM,MediCare,6565,7,169738,Yes,2025-10-04,Unchanged,Election throw maybe father blue every.
+P0956,Susan Davis,46,Other,Stroke,2025-09-14,Under Review,8.51,ICU,286,Dominique Taylor,LifeLine,4902,9,199742,No,2025-10-02,Improved,Save pay prove relationship learn address bit continue note today.
+P0957,Katie Jefferson,57,Other,COVID-19,2025-09-02,Under Review,8.5,Isolation,319,Anthony Payne,Arogya,3651,16,177199,No,2025-10-03,Unchanged,Pretty pass collection military popular risk.
+P0958,Christopher Murphy,80,Other,Stroke,2025-09-12,Yes,2.2,ICU,193,Alex Patton,Arogya,7225,5,36508,No,2025-10-06,Worsened,Dog field sometimes generation.
+P0959,Cheryl Simon,35,Other,Fracture,2025-09-01,No,2.25,General,374,Douglas Palmer,LifeLine,2896,16,110116,Yes,2025-10-02,Improved,Because early per too study front none travel force.
+P0960,Nicholas Davidson,94,Male,Pneumonia,2025-08-27,Yes,6.73,ICU,237,Lauren Patton,MediCare,7322,27,144383,No,2025-09-29,Stable,Back foreign evidence behind study.
+P0961,Danny Ramsey,12,Other,Kidney Failure,2025-09-04,Yes,7.86,General,155,Richard Mendoza,MediCare,7623,6,30647,Yes,2025-10-07,Stable,Election throw expert sea party type daughter others necessary child.
+P0962,Katherine Morris,48,Male,Cardiac Arrest,2025-08-29,Yes,7.0,General,324,Sean Schmidt,None,7001,24,98545,No,2025-10-07,Worsened,Admit administration father Congress run usually trade give cold by.
+P0963,William Clark,44,Other,COVID-19,2025-09-06,Under Review,2.34,General,436,Penny Martinez,Arogya,7517,16,176917,No,2025-09-22,Improved,Father would control money let strong without seek dark safe.
+P0964,Daisy Hensley,24,Male,Pneumonia,2025-09-13,Yes,7.55,ICU,324,Tammy Harding,LifeLine,2938,10,89163,No,2025-09-25,Stable,I game century art analysis me nor.
+P0965,Brian Juarez,15,Female,Hypertension,2025-09-14,Pending,1.8,General,182,Jerry Glass,None,1863,5,120763,No,2025-10-03,Stable,War able minute ready single officer arm recent.
+P0966,Brian Horn,52,Male,Cardiac Arrest,2025-09-06,Yes,6.62,Surgery,171,Kelsey Daniels,MediCare,2425,7,115051,No,2025-10-09,Stable,Yet soon trade speech late entire time detail yeah address.
+P0967,Renee Leonard,52,Other,Hypertension,2025-09-05,Yes,6.61,Surgery,281,Kevin Young,None,6965,21,15867,No,2025-10-01,Improved,Many live surface about kind drop your how election member.
+P0968,Tristan Petty,59,Male,Fracture,2025-09-02,Pending,4.49,General,482,Logan Carter,MediCare,4146,29,58216,No,2025-10-18,Worsened,Drive central within but happy really short upon tree.
+P0969,Kenneth Jones,35,Male,COVID-19,2025-09-03,Yes,9.1,General,322,Michael Griffin,None,7191,3,77333,No,2025-10-09,Unchanged,Name can commercial listen lawyer form exactly together event.
+P0970,Michael Morrow,50,Male,Kidney Failure,2025-09-15,Yes,4.05,Surgery,102,Tanner Hurst,MediCare,4441,17,199161,Yes,2025-10-18,Unchanged,West beat eat structure remember anyone may.
+P0971,Daniel Bell,89,Female,Hypertension,2025-08-21,Yes,1.41,ICU,283,Lindsey Thompson,None,1527,28,181152,No,2025-09-24,Stable,Opportunity surface remember opportunity.
+P0972,Samuel Kelley,62,Female,Stroke,2025-09-12,No,7.03,Isolation,463,Robert Vaughan,MediCare,1507,24,30783,No,2025-10-06,Worsened,Out area side campaign actually imagine understand PM.
+P0973,Timothy Mccarty,54,Female,Kidney Failure,2025-09-09,No,4.99,Isolation,201,Kelly Farmer,LifeLine,6012,24,123622,Yes,2025-10-15,Stable,Age remember general issue others thousand east write cost.
+P0974,Doris Huang,84,Other,Fracture,2025-08-27,No,3.5,Private,156,Todd White,None,3051,7,40520,Yes,2025-10-14,Improved,We theory popular hundred player.
+P0975,Kimberly Adams,22,Female,Pneumonia,2025-09-15,Pending,1.8,General,197,Mark Smith,None,1937,1,60238,No,2025-10-17,Improved,Not home me daughter lead wife they.
+P0976,Paul Key,15,Female,Fracture,2025-08-25,Yes,2.49,General,245,Melissa Williams,Arogya,1306,14,159656,Yes,2025-09-19,Stable,Nearly bit whom hope machine high thank moment listen pull.
+P0977,Heather Mathews,17,Other,COVID-19,2025-09-03,Yes,1.22,General,120,Michael Lang,None,7937,3,78413,Yes,2025-10-08,Worsened,Drop argue country mean management thought.
+P0978,Bonnie Welch,90,Male,Cardiac Arrest,2025-09-18,No,6.67,Isolation,168,Travis Brewer,LifeLine,7143,16,89482,Yes,2025-10-18,Worsened,Process too money civil ability Republican open reach end.
+P0979,Richard Olsen,93,Other,Hypertension,2025-08-20,Pending,7.94,General,302,Jacob Valdez,LifeLine,1597,18,171370,No,2025-10-14,Stable,Real agree those letter few nothing draw specific carry.
+P0980,David Jimenez,8,Male,Diabetes,2025-09-18,Pending,3.78,Surgery,315,Patricia Lewis,Arogya,4617,20,144752,No,2025-10-13,Stable,Job court article every lose.
+P0981,Stacey Dominguez,21,Other,Pneumonia,2025-08-28,Pending,6.81,General,480,Kimberly Brady,MediCare,7253,7,151336,Yes,2025-09-30,Worsened,Simply finish peace understand pressure thousand argue.
+P0982,David Miller,14,Other,Cardiac Arrest,2025-08-30,No,6.8,Private,269,Rachael White,LifeLine,4066,23,73898,Yes,2025-09-23,Worsened,Thousand force security ready eight own contain enjoy same.
+P0983,John Berg,54,Male,Stroke,2025-09-15,No,1.77,Private,116,John Cooper,Private,5968,6,191995,No,2025-10-13,Worsened,Style mean medical cause let news hope interesting.
+P0984,Amy Sellers,76,Male,Cardiac Arrest,2025-09-01,Yes,9.6,Surgery,182,Ryan Thomas,Private,6171,2,22800,Yes,2025-09-23,Worsened,One population class member course piece director red occur.
+P0985,Virginia Osborne,62,Other,Pneumonia,2025-08-20,Yes,5.88,Isolation,441,Dale Jones,MediCare,7886,14,108103,No,2025-10-10,Improved,Religious wide not international military bank set blue.
+P0986,Jacob Barber,73,Female,Kidney Failure,2025-08-30,Yes,7.82,General,201,Andrea Curry,MediCare,1241,23,160296,No,2025-09-25,Stable,Son this pay have want generation spend environment.
+P0987,Julie Wolfe,87,Other,Hypertension,2025-09-13,No,9.62,Private,345,Victoria Newton,Arogya,2425,9,133972,Yes,2025-10-10,Stable,Long two really foot evidence huge.
+P0988,Anthony Estes,57,Other,Cardiac Arrest,2025-09-14,No,5.7,Isolation,440,Michael Harrison,Arogya,3630,20,66415,No,2025-10-03,Stable,Help mind consider certainly current community turn return many.
+P0989,Karen Fleming,24,Other,Pneumonia,2025-08-25,Pending,7.76,ICU,236,Jill Proctor,None,1881,13,124542,No,2025-10-10,Unchanged,Look capital some live out go would side operation.
+P0990,Jared Shepherd,79,Female,Stroke,2025-09-10,No,5.52,Private,160,Cynthia Walker,Private,6723,21,82033,No,2025-10-15,Unchanged,Myself town prevent try month establish news just.
+P0991,Kelly Logan,49,Female,Cardiac Arrest,2025-08-24,Yes,1.17,Isolation,315,Gina Robinson,Private,4682,19,190581,No,2025-10-14,Worsened,If interview reason first word view hear.
+P0992,Maria Martinez,100,Female,Stroke,2025-09-10,Yes,6.92,Isolation,350,Justin Rodriguez,Private,4093,8,58683,Yes,2025-09-30,Improved,Test future rock suggest on baby and indeed station task least.
+P0993,Ethan Lawson,46,Male,COVID-19,2025-08-24,No,5.79,General,381,Sara James,MediCare,2091,21,82575,Yes,2025-10-07,Unchanged,Well evidence that item identify see total condition provide.
+P0994,Austin Todd,79,Other,Kidney Failure,2025-08-23,Under Review,9.66,Isolation,353,Nicholas Davis,LifeLine,6221,12,141481,Yes,2025-10-03,Stable,Popular during particularly ever see idea.
+P0995,Glen English,4,Male,COVID-19,2025-08-27,Pending,3.47,Isolation,449,Martin Cardenas,Private,5700,16,186013,No,2025-10-10,Unchanged,Chair because not raise site.
+P0996,Michelle Williams,88,Female,COVID-19,2025-09-01,No,2.85,Isolation,465,Rebecca Parker,Arogya,5558,17,21991,Yes,2025-09-28,Improved,Fine thus parent major someone sing this tough without.
+P0997,Brian Graham,94,Female,Stroke,2025-08-23,Under Review,8.47,Surgery,165,James Larson,MediCare,2636,22,168498,No,2025-10-15,Improved,Create size environment foreign game situation of.
+P0998,Mackenzie Jimenez,17,Other,Stroke,2025-09-05,Yes,8.55,Surgery,266,Linda Cox,LifeLine,2603,6,114509,No,2025-10-07,Worsened,Treat little culture nothing I fish like century there type.
+P0999,Keith King,62,Male,Kidney Failure,2025-09-16,No,6.22,Isolation,484,Amanda Ross,Private,3068,29,57516,Yes,2025-10-02,Stable,Left carry food range as president.
+P1000,Jackie Lopez,63,Female,Hypertension,2025-09-06,Pending,1.76,General,491,Terry Griffith,MediCare,5023,10,187788,Yes,2025-09-20,Stable,Chair trouble stand amount might address identify tonight.
