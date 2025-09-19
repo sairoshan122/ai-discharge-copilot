@@ -1,6 +1,6 @@
 
 import streamlit as st
-from app.utils import load_patients, load_knowledge
+from utils import load_patients, load_knowledge
 
 st.set_page_config(page_title="AI Discharge Copilot", layout="wide")
 
